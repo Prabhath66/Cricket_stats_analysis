@@ -18,7 +18,7 @@ if player in list(set(batting['name'])) :
 
 
     options = ["Bat", "Bowl"]
-    selection = st.segmented_control(f"Stats of {player}", options, selection_mode="multi")
+    selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
     if selection == "Bat":
         st.write("Batting Stats of {}".format(player))
         if st.button(f"Batting Stats of {player}"):
