@@ -24,7 +24,7 @@ if player in list(set(batting['name'])) :
             st.write(batting_stats)
         
         # selecting the columns to analyze
-        col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+        col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), placeholder="Enter the Column Name to Analyze",)
         if col in batting_stats.columns:
           fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
           # fig.show() 
@@ -35,7 +35,7 @@ if player in list(set(batting['name'])) :
             st.write(bowling_stats) 
                 
         # selecting the columns to analyze
-        col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+        col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
         if col in bowling_stats.columns:
           fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
           # fig.show() 
@@ -59,7 +59,7 @@ if player in list(set(batting['name'])) :
             #     st.write(batting_stats)
             
             # selecting the columns to analyze
-            col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+            col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), placeholder="Enter the Column Name to Analyze",)
             if col in batting_stats.columns:
               fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
               # fig.show() 
@@ -72,7 +72,7 @@ if player in list(set(batting['name'])) :
             #     st.write(bowling_stats)
                 
             # selecting the columns to analyze
-            col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+            col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
             if col in bowling_stats.columns:
               fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
               # fig.show() 
