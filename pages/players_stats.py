@@ -59,7 +59,7 @@ if player in list(set(batting['name'])) :
                 st.write(bowling_stats) 
             
             if st.toggle(f"Bowling Stats of {player}"):
-                st.write("Feature activated!")
+                st.write(bowling_stats)
                 
             # selecting the columns to analyze
             col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
