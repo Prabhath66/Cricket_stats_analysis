@@ -37,8 +37,7 @@ if player in list(set(batting['name'])) :
         # selecting the columns to analyze
         col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
         if col in bowling_stats.columns:
-          fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
-          # fig.show() 
+          fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}') 
           st.plotly_chart(fig)
 
     
