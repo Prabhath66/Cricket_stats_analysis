@@ -20,7 +20,7 @@ if player in list(set(batting['name'])) :
     options = ["Bat", "Bowl", "Both"]
     selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
     if selection == "Bat":
-        if st.button(f"Batting Stats of {player}", type="tertiary):
+        if st.button(f"Batting Stats of {player}", type="tertiary"):
             st.write(batting_stats)
         
         # selecting the columns to analyze
@@ -45,7 +45,7 @@ if player in list(set(batting['name'])) :
     elif selection == "Both":
         col1, col2 = st.columns(2)
         with col1:
-            if st.button(f"Batting Stats of {player}", type="tertiary):
+            if st.button(f"Batting Stats of {player}", type="tertiary"):
                 st.write(batting_stats)
             
             # selecting the columns to analyze
