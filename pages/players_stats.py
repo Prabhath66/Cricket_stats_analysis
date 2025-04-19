@@ -56,7 +56,7 @@ if player in list(set(batting['name'])) :
               st.plotly_chart(fig)
         with col2:
             if st.button(f"Bowling Stats of {player}", type="tertiary"):
-            st.write(bowling_stats) 
+                st.write(bowling_stats) 
                 
             # selecting the columns to analyze
             col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
