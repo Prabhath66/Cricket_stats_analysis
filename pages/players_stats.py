@@ -18,30 +18,30 @@ if player in list(set(batting['name'])) :
 
 
     options = ["Bat", "Bowl"]
-    selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
+    selection = st.segmented_control(f"Stats of {player}", options, selection_mode="multi")
     if selection == "Bat":
         st.write("Batting Stats of {}".format(player))
         if st.button(f"Batting Stats of {player}"):
             st.write(batting_stats)
         
-        # # selecting the columns to analyze
-        # col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
-        # if col in batting_stats.columns:
-        #   fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
-        #   # fig.show() 
-        #   st.plotly_chart(fig)
+        # selecting the columns to analyze
+        col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+        if col in batting_stats.columns:
+          fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
+          # fig.show() 
+          st.plotly_chart(fig)
             
     elif selection == "Bowl": 
         st.write("Bowling Stats of {}".format(player)) 
-        if button(f"Bowling Stats of {player}", type="tertiary"):
+        if st.button(f"Bowling Stats of {player}", type="tertiary"):
             st.write(bowling_stats) 
                 
-        # # selecting the columns to analyze
-        # col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
-        # if col in bowling_stats.columns:
-        #   fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
-        #   # fig.show() 
-        #   st.plotly_chart(fig)
+        # selecting the columns to analyze
+        col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+        if col in bowling_stats.columns:
+          fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
+          # fig.show() 
+          st.plotly_chart(fig)
 
 
     #select_stats=st.selectbox("Select the option (Batting / Bowling"),["Batting", "Bowling"],index)  
