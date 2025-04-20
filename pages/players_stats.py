@@ -2,6 +2,82 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+# Page Configuration
+st.set_page_config(page_title="Cricket Player Stats Analyzer", layout="wide")
+
+# --- Custom CSS for Styling ---
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+html, body, [class*="css"] {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #f0f0f0;
+}
+h1, h2, h3, h4, h5 {
+    color: #00ffd5 !important;
+    text-shadow: 1px 1px 4px rgba(0,255,213,0.3);
+}
+.stApp {
+    animation: fadeIn 0.8s ease-in-out;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+.stButton > button {
+    background-color: #00ffd5;
+    color: black;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-shadow: 0 0 10px #00ffd5;
+    transition: all 0.3s ease;
+}
+.stButton > button:hover {
+    background-color: #00e6c1;
+    transform: scale(1.05);
+}
+.stSelectbox label, .stDataFrame {
+    color: #ffffff !important;
+}
+.stPlotlyChart {
+    background: rgba(255, 255, 255, 0.03);
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 0 12px rgba(0,255,213,0.1);
+    transition: all 0.3s ease;
+}
+.stPlotlyChart:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 25px rgba(0,255,213,0.15);
+}
+</style>
+""", unsafe_allow_html=True)
+
+# --- App Header ---
+st.title("🏏 Cricket Player Stats Analyzer")
+st.markdown("""
+Welcome to the **Cricket Player Stats Dashboard**!  
+Explore individual player performances across formats: **Test**, **ODI**, **T20**, and **IPL**.
+
+---
+
+### 🔍 How to Use:
+- 🌍 Select a **Country**
+- 🧍 Choose a **Player**
+- 📊 View **Key Stats** and Format-wise performance
+- 📈 Interact with **Pie Charts** and Metrics
+
+---
+""")
+
+
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
 batting = pd.read_csv("total_teams_batting.csv") 
 bowling = pd.read_csv("total_teams_bowling_stats.csv") 
 
