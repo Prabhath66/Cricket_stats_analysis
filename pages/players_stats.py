@@ -9,13 +9,13 @@ bowling = pd.read_csv("8teams_bowling_stats.csv")
 # #st.write(teams.groupby("Country").get_group("West Indies") )
 
 
-country = st.selectbox("Select the Country", list(batting.groupby("Country").groups.keys()), index=None, placeholder="Enter the Country Name",)
+country = st.selectbox("Select the Country", list(batting.groupby("country").groups.keys()), index=None, placeholder="Enter the Country Name",)
 
 #player = st.selectbox("Select the Player", list(teams.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
 
-if country in list(batting.groupby("Country").groups.keys()):
-    player_batting=batting.groupby("Country").get_group(country)
-    player_bowling=bowling.groupby("Country").get_group(country)
+if country in list(batting.groupby("country").groups.keys()):
+    player_batting=batting.groupby("country").get_group(country)
+    player_bowling=bowling.groupby("country").get_group(country)
     player = st.selectbox("Select the Player", list(player_batting.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
     if player in list(player_batting.groupby("name").groups.keys()) :
         # st.write("Batting Stats of {}".format(player))
