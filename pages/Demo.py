@@ -76,11 +76,33 @@ else:
         options = ["Test", "ODI", "T20", "IPL"]
         selection = st.radio(f"Stats of {player} across different Formats", options, index=0)
 
-        col1, col2, col3, col4 = st.columns(4)
-        col1.metric(label="Matches", value=int(batting_stats.loc[selection, "Matches"]))
-        col2.metric(label="Runs", value=int(batting_stats.loc[selection, "Runs"]))
-        col3.metric(label="Average", value=batting_stats.loc[selection, "Average"])
-        col4.metric(label="Strike Rate", value=batting_stats.loc[selection, "SR"])
+        if selection == "Test":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+
+        elif selection == "ODI":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+
+        elif selection == "T20":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+
+        elif selection == "IPL":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
         # Stats Visualization (Batting, Bowling, or Both)
         stats_options = ["Bat", "Bowl", "Both"]
