@@ -55,4 +55,4 @@ This dashboard was created by [Prabhath], a cricket enthusiast and data analyst,
 """)
 
 
-st.link_button("Explore Player Stats", "https://streamlit.io/gallery")
+st.link_button("Explore Player Stats", "pages/players_stats.py")
