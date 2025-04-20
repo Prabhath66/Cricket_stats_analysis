@@ -37,7 +37,7 @@ Cricket is one of the most popular sports worldwide, especially in countries lik
 4. **Visualize:** Use interactive graphs to understand the player's performance better and make comparisons across different formats.
 
 ---
-
+""")
 
 # ─── Navigation Button ────────────────────────────────────────────────────────
 if st.button("Explore All Players Stats"):
