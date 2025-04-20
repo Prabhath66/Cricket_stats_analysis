@@ -213,13 +213,21 @@ if country:
         # Both Batting and Bowling
         elif view_selection == "Both":
             st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
-
-            col1, col2 = st.columns(2)
-
-            with col1:
+            if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary", key="bat_table"):
                 st.markdown("##### 🏏 Batting Stats")
                 if st.button(f"Show Batting Table", type="tertiary", key="bat_table"):
                     st.dataframe(batting_stats)
+                    
+                st.markdown("##### 🎯 Bowling Stats")
+                if st.button(f"Show Bowling Table", type="tertiary", key="bowl_table"):
+                    st.dataframe(bowling_stats)
+                
+            col1, col2 = st.columns(2)
+
+            with col1:
+                # st.markdown("##### 🏏 Batting Stats")
+                # if st.button(f"Show Batting Table", type="tertiary", key="bat_table"):
+                #     st.dataframe(batting_stats)
 
                 col = st.selectbox(
                     "📌 Select Batting Metric",
@@ -230,10 +238,10 @@ if country:
                     fig = px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
                     st.plotly_chart(fig)
 
-            with col2:
-                st.markdown("##### 🎯 Bowling Stats")
-                if st.button(f"Show Bowling Table", type="tertiary", key="bowl_table"):
-                    st.dataframe(bowling_stats)
+            with col2:  
+                # st.markdown("##### 🎯 Bowling Stats")
+                # if st.button(f"Show Bowling Table", type="tertiary", key="bowl_table"):
+                #     st.dataframe(bowling_stats)
 
                 col = st.selectbox(
                     "📌 Select Bowling Metric",
@@ -243,17 +251,8 @@ if country:
                 if col:
                     fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}')
                     st.plotly_chart(fig)
+                    
 
-# Footer
-st.markdown("""
----
- 
-🧠 **Note:**  
-- Data is derived from two CSV files.
-- This app supports performance comparison across formats and disciplines.
-- Visualizations are powered by [Plotly](https://plotly.com/python/) and app is built with [Streamlit](https://streamlit.io/).
 
----
-""")
 
     
