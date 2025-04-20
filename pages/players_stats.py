@@ -75,6 +75,13 @@ if country:
             with col2:
                 fig = px.bar(batting_stats, x=batting_stats.index, y=batting_stats['Runs'].values, labels={'x':'Format', 'y':'Runs'}, title=f"{player} Runs Across Formats")
                 st.plotly_chart(fig, use_container_width=True) 
+
+            players_4s_6s=batting_stats[["Fours","Sixes"]]
+            fours_sixes = pd.melt(players_4s_6s.reset_index(), id_vars='Format', value_vars=['Fours', 'Sixes'],
+                         var_name='Shot Type', value_name='Count')
+            fig_grouped = px.bar(fours_sixes, x='Format', y='Count', color='Shot Type', barmode='group', 
+                                 text='Count', title="Virat Kohli Fours and Sixes Across Formats") 
+            st.plotly_chart(fig_grouped, use_container_width=True)  
                 
         with tabs[1]:
             st.subheader(f"🎯 Bowling Stats - {player}")
