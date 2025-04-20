@@ -27,33 +27,33 @@ if country in list(batting.groupby("country").groups.keys()):
 
         options = ["Test", "ODI", "T20", "IPL"]
         selection = st.segmented_control(f"Stats of {player} across different Format", options, default="Test", selection_mode="single")
-        if selection == "Test":               
-            col1, col2, col3, col4 = st.columns(4) 
-            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
-            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
-            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
-            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+        # if selection == "Test":               
+        col1, col2, col3, col4 = st.columns(4) 
+        col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+        col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+        col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+        col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        elif selection == "ODI":               
-            col1, col2, col3, col4 = st.columns(4) 
-            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
-            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
-            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
-            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+        # elif selection == "ODI":               
+        #     col1, col2, col3, col4 = st.columns(4) 
+        #     col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+        #     col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+        #     col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+        #     col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        elif selection == "T20":               
-            col1, col2, col3, col4 = st.columns(4) 
-            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
-            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
-            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
-            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+        # elif selection == "T20":               
+        #     col1, col2, col3, col4 = st.columns(4) 
+        #     col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+        #     col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+        #     col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+        #     col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        elif selection == "IPL":               
-            col1, col2, col3, col4 = st.columns(4) 
-            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
-            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
-            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
-            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+        # elif selection == "IPL":               
+        #     col1, col2, col3, col4 = st.columns(4) 
+        #     col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+        #     col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+        #     col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+        #     col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
         options = ["Bat", "Bowl", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, default="Bat", selection_mode="single")
@@ -80,39 +80,76 @@ if country in list(batting.groupby("country").groups.keys()):
 
     
         elif selection == "Both":
-            col, col0 = st.columns(2)
-            with col:
-                if st.button(f"Batting Stats of {player}", type="tertiary"):
-                    st.write(batting_stats)
-            with col0:
-                if st.button(f"Bowling Stats of {player}", type="tertiary"):
-                    st.write(bowling_stats)
-                    
-                # if st.toggle(f"Bowling Stats of {player}"):
-                #     st.write(bowling_stats)            
-    
-            
             col1, col2 = st.columns(2)
             with col1:
+                if st.button(f"Batting Stats of {player}", type="tertiary"):
+                    st.write(batting_stats)
+
                 # selecting the columns to analyze
                 col=st.selectbox("Select the Column Name to Analyze ", options=list(batting_stats.columns), placeholder="Enter the Column Name to Analyze",)
                 if col in batting_stats.columns:
                   fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
                   # fig.show() 
                   st.plotly_chart(fig)
-                
-            with col2:                
+                    
+            with col2:
+                if st.button(f"Bowling Stats of {player}", type="tertiary"):
+                    st.write(bowling_stats)
+                    
+                # if st.toggle(f"Bowling Stats of {player}"):
+                #     st.write(bowling_stats) 
+
                 # selecting the columns to analyze
                 col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
                 if col in bowling_stats.columns:
                   fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
                   # fig.show() 
                   st.plotly_chart(fig)
+    
+            
+            # col3, col4 = st.columns(2)
+            # with col3:
+            #     # selecting the columns to analyze
+            #     col=st.selectbox("Select the Column Name to Analyze ", options=list(batting_stats.columns), placeholder="Enter the Column Name to Analyze",)
+            #     if col in batting_stats.columns:
+            #       fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
+            #       # fig.show() 
+            #       st.plotly_chart(fig)
+                
+            # with col4:                
+            #     # selecting the columns to analyze
+            #     col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
+            #     if col in bowling_stats.columns:
+            #       fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
+            #       # fig.show() 
+            #       st.plotly_chart(fig)
                 
 
     #select_stats=st.selectbox("Select the option (Batting / Bowling"),["Batting", "Bowling"],index)  
 
     # col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
+   # elif stats_selection == "Both":
+   #          col1, col2 = st.columns(2)
+
+   #          with col1:
+   #              st.subheader(f"Batting Stats of {player}")
+   #              st.write(batting_stats)
+
+   #              col = st.selectbox("Select the Column to Analyze (Batting)", options=list(batting_stats.columns))
+   #              if col in batting_stats.columns:
+   #                  fig = px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting Stats of {player} - {col}', hover_data=[batting_stats.index])
+   #                  st.plotly_chart(fig)
+
+   #          with col2:
+   #              st.subheader(f"Bowling Stats of {player}")
+   #              st.write(bowling_stats)
+
+   #              col = st.selectbox("Select the Column to Analyze (Bowling)", options=list(bowling_stats.columns))
+   #              if col in bowling_stats.columns:
+   #                  fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling Stats of {player} - {col}', hover_data=[bowling_stats.index])
+   #                  st.plotly_chart(fig)
+
+
 
 
     
