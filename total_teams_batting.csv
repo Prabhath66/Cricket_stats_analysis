@@ -1,0 +1,3345 @@
+ROWHEADER,Test,ODI,T20,IPL,name,country
+Matches,123,302,125,258,Virat Kohli,India
+Innings,210,290,117,250,Virat Kohli,India
+Runs,9230,14181,4188,8252,Virat Kohli,India
+Balls,16608,15192,3056,6238,Virat Kohli,India
+Highest,254,183,122,113,Virat Kohli,India
+Average,46.85,57.88,48.7,39.11,Virat Kohli,India
+SR,55.58,93.35,137.05,132.29,Virat Kohli,India
+Not Out,13,45,31,39,Virat Kohli,India
+Fours,1027,1325,369,725,Virat Kohli,India
+Sixes,30,153,124,282,Virat Kohli,India
+Ducks,15,16,7,10,Virat Kohli,India
+50s,31,74,38,58,Virat Kohli,India
+100s,30,51,1,8,Virat Kohli,India
+200s,7,0,0,0,Virat Kohli,India
+300s,0,0,0,0,Virat Kohli,India
+400s,0,0,0,0,Virat Kohli,India
+Matches,67,273,159,263,Rohit Sharma,India
+Innings,116,265,151,258,Rohit Sharma,India
+Runs,4302,11168,4231,6710,Rohit Sharma,India
+Balls,7538,12034,3003,5111,Rohit Sharma,India
+Highest,212,264,121,109,Rohit Sharma,India
+Average,40.58,48.77,31.34,29.3,Rohit Sharma,India
+SR,57.08,92.81,140.9,131.29,Rohit Sharma,India
+Not Out,10,36,16,29,Rohit Sharma,India
+Fours,473,1044,383,605,Rohit Sharma,India
+Sixes,88,344,205,286,Rohit Sharma,India
+Ducks,6,16,12,18,Rohit Sharma,India
+50s,18,58,32,43,Rohit Sharma,India
+100s,12,32,5,2,Rohit Sharma,India
+200s,1,3,0,0,Rohit Sharma,India
+300s,0,0,0,0,Rohit Sharma,India
+400s,0,0,0,0,Rohit Sharma,India
+Matches,34,167,68,222,Shikhar Dhawan,India
+Innings,58,164,66,221,Shikhar Dhawan,India
+Runs,2315,6793,1759,6768,Shikhar Dhawan,India
+Balls,3458,7436,1392,5324,Shikhar Dhawan,India
+Highest,190,143,92,106,Shikhar Dhawan,India
+Average,40.61,44.11,27.92,35.07,Shikhar Dhawan,India
+SR,66.95,91.36,126.37,127.13,Shikhar Dhawan,India
+Not Out,1,10,3,28,Shikhar Dhawan,India
+Fours,316,842,191,768,Shikhar Dhawan,India
+Sixes,12,79,50,152,Shikhar Dhawan,India
+Ducks,4,5,2,12,Shikhar Dhawan,India
+50s,5,39,11,51,Shikhar Dhawan,India
+100s,7,17,0,2,Shikhar Dhawan,India
+200s,0,0,0,0,Shikhar Dhawan,India
+300s,0,0,0,0,Shikhar Dhawan,India
+400s,0,0,0,0,Shikhar Dhawan,India
+Matches,32,55,21,109,Shubman Gill,India
+Innings,59,55,21,106,Shubman Gill,India
+Runs,1893,2775,578,3424,Shubman Gill,India
+Balls,3159,2787,415,2509,Shubman Gill,India
+Highest,128,208,126,129,Shubman Gill,India
+Average,35.06,59.04,30.42,38.04,Shubman Gill,India
+SR,59.93,99.57,139.28,136.47,Shubman Gill,India
+Not Out,5,8,2,16,Shubman Gill,India
+Fours,210,314,60,332,Shubman Gill,India
+Sixes,31,59,22,101,Shubman Gill,India
+Ducks,5,1,1,4,Shubman Gill,India
+50s,7,15,3,22,Shubman Gill,India
+100s,5,8,1,4,Shubman Gill,India
+200s,0,1,0,0,Shubman Gill,India
+300s,0,0,0,0,Shubman Gill,India
+400s,0,0,0,0,Shubman Gill,India
+Matches,14,70,51,121,Shreyas Iyer,India
+Innings,24,65,47,121,Shreyas Iyer,India
+Runs,811,2845,1104,3377,Shreyas Iyer,India
+Balls,1287,2845,811,2575,Shreyas Iyer,India
+Highest,105,128,74,97,Shreyas Iyer,India
+Average,36.86,48.22,30.67,33.44,Shreyas Iyer,India
+SR,63.02,100,136.13,131.15,Shreyas Iyer,India
+Not Out,2,6,11,20,Shreyas Iyer,India
+Fours,94,262,90,287,Shreyas Iyer,India
+Sixes,16,72,44,133,Shreyas Iyer,India
+Ducks,2,1,4,7,Shreyas Iyer,India
+50s,5,22,8,24,Shreyas Iyer,India
+100s,1,5,0,0,Shreyas Iyer,India
+200s,0,0,0,0,Shreyas Iyer,India
+300s,0,0,0,0,Shreyas Iyer,India
+400s,0,0,0,0,Shreyas Iyer,India
+Matches,0,29,39,172,Manish Pandey,India
+Innings,0,24,33,160,Manish Pandey,India
+Runs,0,566,709,3869,Manish Pandey,India
+Balls,0,625,562,3193,Manish Pandey,India
+Highest,0,104,79,114,Manish Pandey,India
+Average,0,33.29,44.31,29.09,Manish Pandey,India
+SR,0,90.56,126.16,121.18,Manish Pandey,India
+Not Out,0,7,17,27,Manish Pandey,India
+Fours,0,45,49,336,Manish Pandey,India
+Sixes,0,5,19,111,Manish Pandey,India
+Ducks,0,2,2,14,Manish Pandey,India
+50s,0,2,3,22,Manish Pandey,India
+100s,0,1,0,1,Manish Pandey,India
+200s,0,0,0,0,Manish Pandey,India
+300s,0,0,0,0,Manish Pandey,India
+400s,0,0,0,0,Manish Pandey,India
+Matches,21,5,0,127,Mayank Agarawal,India
+Innings,36,5,0,121,Mayank Agarawal,India
+Runs,1488,86,0,2665,Mayank Agarawal,India
+Balls,2782,83,0,2000,Mayank Agarawal,India
+Highest,243,32,0,106,Mayank Agarawal,India
+Average,41.33,17.2,0,22.78,Mayank Agarawal,India
+SR,53.49,103.62,0,133.25,Mayank Agarawal,India
+Not Out,0,0,0,4,Mayank Agarawal,India
+Fours,189,12,0,264,Mayank Agarawal,India
+Sixes,28,1,0,98,Mayank Agarawal,India
+Ducks,1,0,0,7,Mayank Agarawal,India
+50s,6,0,0,13,Mayank Agarawal,India
+100s,4,0,0,1,Mayank Agarawal,India
+200s,2,0,0,0,Mayank Agarawal,India
+300s,0,0,0,0,Mayank Agarawal,India
+400s,0,0,0,0,Mayank Agarawal,India
+Matches,5,6,1,79,Prithvi Shaw,India
+Innings,9,6,1,79,Prithvi Shaw,India
+Runs,339,189,0,1892,Prithvi Shaw,India
+Balls,394,166,1,1283,Prithvi Shaw,India
+Highest,134,49,0,99,Prithvi Shaw,India
+Average,42.38,31.5,0,23.95,Prithvi Shaw,India
+SR,86.05,113.86,0,147.47,Prithvi Shaw,India
+Not Out,1,0,0,0,Prithvi Shaw,India
+Fours,48,32,0,238,Prithvi Shaw,India
+Sixes,2,2,0,61,Prithvi Shaw,India
+Ducks,1,0,1,7,Prithvi Shaw,India
+50s,2,0,0,14,Prithvi Shaw,India
+100s,1,0,0,0,Prithvi Shaw,India
+200s,0,0,0,0,Prithvi Shaw,India
+300s,0,0,0,0,Prithvi Shaw,India
+400s,0,0,0,0,Prithvi Shaw,India
+Matches,103,5,0,30,Cheteshwar Pujara,India
+Innings,176,5,0,22,Cheteshwar Pujara,India
+Runs,7195,51,0,390,Cheteshwar Pujara,India
+Balls,16217,130,0,391,Cheteshwar Pujara,India
+Highest,206,27,0,51,Cheteshwar Pujara,India
+Average,43.61,10.2,0,20.53,Cheteshwar Pujara,India
+SR,44.37,39.24,0,99.75,Cheteshwar Pujara,India
+Not Out,11,0,0,3,Cheteshwar Pujara,India
+Fours,863,4,0,50,Cheteshwar Pujara,India
+Sixes,16,0,0,4,Cheteshwar Pujara,India
+Ducks,12,2,0,1,Cheteshwar Pujara,India
+50s,35,0,0,1,Cheteshwar Pujara,India
+100s,19,0,0,0,Cheteshwar Pujara,India
+200s,3,0,0,0,Cheteshwar Pujara,India
+300s,0,0,0,0,Cheteshwar Pujara,India
+400s,0,0,0,0,Cheteshwar Pujara,India
+Matches,85,90,20,192,Ajinkya Rahane,India
+Innings,144,87,20,178,Ajinkya Rahane,India
+Runs,5077,2962,375,4863,Ajinkya Rahane,India
+Balls,10256,3767,331,3910,Ajinkya Rahane,India
+Highest,188,111,61,105,Ajinkya Rahane,India
+Average,38.46,35.26,20.83,30.39,Ajinkya Rahane,India
+SR,49.51,78.64,113.3,124.38,Ajinkya Rahane,India
+Not Out,12,3,2,18,Ajinkya Rahane,India
+Fours,579,293,32,497,Ajinkya Rahane,India
+Sixes,35,33,6,117,Ajinkya Rahane,India
+Ducks,10,6,2,13,Ajinkya Rahane,India
+50s,26,24,1,32,Ajinkya Rahane,India
+100s,12,3,0,2,Ajinkya Rahane,India
+200s,0,0,0,0,Ajinkya Rahane,India
+300s,0,0,0,0,Ajinkya Rahane,India
+400s,0,0,0,0,Ajinkya Rahane,India
+Matches,0,6,23,71,Ruturaj Gaikwad,India
+Innings,0,6,20,70,Ruturaj Gaikwad,India
+Runs,0,115,633,2502,Ruturaj Gaikwad,India
+Balls,0,157,441,1820,Ruturaj Gaikwad,India
+Highest,0,71,123,108,Ruturaj Gaikwad,India
+Average,0,19.17,39.56,40.35,Ruturaj Gaikwad,India
+SR,0,73.25,143.54,137.48,Ruturaj Gaikwad,India
+Not Out,0,0,4,8,Ruturaj Gaikwad,India
+Fours,0,16,65,231,Ruturaj Gaikwad,India
+Sixes,0,0,24,95,Ruturaj Gaikwad,India
+Ducks,0,0,1,7,Ruturaj Gaikwad,India
+50s,0,1,4,20,Ruturaj Gaikwad,India
+100s,0,0,1,2,Ruturaj Gaikwad,India
+200s,0,0,0,0,Ruturaj Gaikwad,India
+300s,0,0,0,0,Ruturaj Gaikwad,India
+400s,0,0,0,0,Ruturaj Gaikwad,India
+Matches,11,94,114,143,Hardik Pandya,India
+Innings,18,68,90,133,Hardik Pandya,India
+Runs,532,1904,1812,2629,Hardik Pandya,India
+Balls,720,1717,1279,1795,Hardik Pandya,India
+Highest,108,92,71,91,Hardik Pandya,India
+Average,31.29,32.83,27.88,28.58,Hardik Pandya,India
+SR,73.89,110.9,141.68,146.47,Hardik Pandya,India
+Not Out,1,10,25,41,Hardik Pandya,India
+Fours,68,141,135,198,Hardik Pandya,India
+Sixes,12,76,95,142,Hardik Pandya,India
+Ducks,2,4,3,6,Hardik Pandya,India
+50s,4,11,5,10,Hardik Pandya,India
+100s,1,0,0,0,Hardik Pandya,India
+200s,0,0,0,0,Hardik Pandya,India
+300s,0,0,0,0,Hardik Pandya,India
+400s,0,0,0,0,Hardik Pandya,India
+Matches,16,0,0,24,Hanuma Vihari,India
+Innings,28,0,0,23,Hanuma Vihari,India
+Runs,839,0,0,284,Hanuma Vihari,India
+Balls,1988,0,0,321,Hanuma Vihari,India
+Highest,111,0,0,46,Hanuma Vihari,India
+Average,33.56,0,0,14.2,Hanuma Vihari,India
+SR,42.21,0,0,88.48,Hanuma Vihari,India
+Not Out,3,0,0,3,Hanuma Vihari,India
+Fours,107,0,0,23,Hanuma Vihari,India
+Sixes,2,0,0,1,Hanuma Vihari,India
+Ducks,1,0,0,0,Hanuma Vihari,India
+50s,5,0,0,0,Hanuma Vihari,India
+100s,1,0,0,0,Hanuma Vihari,India
+200s,0,0,0,0,Hanuma Vihari,India
+300s,0,0,0,0,Hanuma Vihari,India
+400s,0,0,0,0,Hanuma Vihari,India
+Matches,80,204,74,247,Ravindra Jadeja,India
+Innings,118,137,41,191,Ravindra Jadeja,India
+Runs,3370,2806,515,3051,Ravindra Jadeja,India
+Balls,6100,3284,405,2361,Ravindra Jadeja,India
+Highest,175,87,46,62,Ravindra Jadeja,India
+Average,34.74,32.63,21.46,27,Ravindra Jadeja,India
+SR,55.25,85.45,127.17,129.23,Ravindra Jadeja,India
+Not Out,21,51,17,78,Ravindra Jadeja,India
+Fours,330,205,39,220,Ravindra Jadeja,India
+Sixes,69,54,14,110,Ravindra Jadeja,India
+Ducks,8,6,3,9,Ravindra Jadeja,India
+50s,22,13,0,3,Ravindra Jadeja,India
+100s,4,0,0,0,Ravindra Jadeja,India
+200s,0,0,0,0,Ravindra Jadeja,India
+300s,0,0,0,0,Ravindra Jadeja,India
+400s,0,0,0,0,Ravindra Jadeja,India
+Matches,11,47,25,102,Shardul Thakur,India
+Innings,18,25,6,41,Shardul Thakur,India
+Runs,331,329,69,321,Shardul Thakur,India
+Balls,522,313,38,232,Shardul Thakur,India
+Highest,67,50,22,68,Shardul Thakur,India
+Average,19.47,17.32,23,11.89,Shardul Thakur,India
+SR,63.41,105.12,181.58,138.37,Shardul Thakur,India
+Not Out,1,6,3,14,Shardul Thakur,India
+Fours,41,31,5,29,Shardul Thakur,India
+Sixes,9,9,4,13,Shardul Thakur,India
+Ducks,3,1,2,8,Shardul Thakur,India
+50s,4,1,0,1,Shardul Thakur,India
+100s,0,0,0,0,Shardul Thakur,India
+200s,0,0,0,0,Shardul Thakur,India
+300s,0,0,0,0,Shardul Thakur,India
+400s,0,0,0,0,Shardul Thakur,India
+Matches,106,116,65,217,Ravichandran Ashwin,India
+Innings,151,63,19,96,Ravichandran Ashwin,India
+Runs,3503,707,184,812,Ravichandran Ashwin,India
+Balls,6423,813,160,690,Ravichandran Ashwin,India
+Highest,124,65,31,50,Ravichandran Ashwin,India
+Average,25.76,16.44,26.29,13.1,Ravichandran Ashwin,India
+SR,54.54,86.97,115,117.69,Ravichandran Ashwin,India
+Not Out,15,20,12,34,Ravichandran Ashwin,India
+Fours,399,60,17,62,Ravichandran Ashwin,India
+Sixes,23,7,4,28,Ravichandran Ashwin,India
+Ducks,9,6,0,12,Ravichandran Ashwin,India
+50s,14,1,0,1,Ravichandran Ashwin,India
+100s,6,0,0,0,Ravichandran Ashwin,India
+200s,0,0,0,0,Ravichandran Ashwin,India
+300s,0,0,0,0,Ravichandran Ashwin,India
+400s,0,0,0,0,Ravichandran Ashwin,India
+Matches,58,85,72,137,KL Rahul,India
+Innings,101,79,68,128,KL Rahul,India
+Runs,3257,3043,2265,4921,KL Rahul,India
+Balls,6168,3451,1628,3633,KL Rahul,India
+Highest,199,112,110,132,KL Rahul,India
+Average,33.58,49.08,37.75,45.99,KL Rahul,India
+SR,52.81,88.18,139.13,135.46,KL Rahul,India
+Not Out,4,17,8,21,KL Rahul,India
+Fours,386,235,191,418,KL Rahul,India
+Sixes,26,67,99,199,KL Rahul,India
+Ducks,9,3,5,4,KL Rahul,India
+50s,17,18,22,39,KL Rahul,India
+100s,8,7,2,4,KL Rahul,India
+200s,0,0,0,0,KL Rahul,India
+300s,0,0,0,0,KL Rahul,India
+400s,0,0,0,0,KL Rahul,India
+Matches,0,16,42,174,Sanju Samson,India
+Innings,0,14,38,170,Sanju Samson,India
+Runs,0,510,861,4643,Sanju Samson,India
+Balls,0,512,565,3336,Sanju Samson,India
+Highest,0,108,111,119,Sanju Samson,India
+Average,0,56.67,25.32,30.75,Sanju Samson,India
+SR,0,99.61,152.39,139.18,Sanju Samson,India
+Not Out,0,5,4,19,Sanju Samson,India
+Fours,0,34,71,375,Sanju Samson,India
+Sixes,0,22,49,216,Sanju Samson,India
+Ducks,0,0,6,11,Sanju Samson,India
+50s,0,3,2,26,Sanju Samson,India
+100s,0,1,3,3,Sanju Samson,India
+200s,0,0,0,0,Sanju Samson,India
+300s,0,0,0,0,Sanju Samson,India
+400s,0,0,0,0,Sanju Samson,India
+Matches,40,9,0,170,Wriddhiman Saha,India
+Innings,56,5,0,145,Wriddhiman Saha,India
+Runs,1353,41,0,2934,Wriddhiman Saha,India
+Balls,2973,56,0,2300,Wriddhiman Saha,India
+Highest,117,16,0,115,Wriddhiman Saha,India
+Average,29.41,13.67,0,24.25,Wriddhiman Saha,India
+SR,45.51,73.22,0,127.57,Wriddhiman Saha,India
+Not Out,10,2,0,24,Wriddhiman Saha,India
+Fours,129,5,0,296,Wriddhiman Saha,India
+Sixes,14,0,0,87,Wriddhiman Saha,India
+Ducks,6,0,0,7,Wriddhiman Saha,India
+50s,6,0,0,13,Wriddhiman Saha,India
+100s,3,0,0,1,Wriddhiman Saha,India
+200s,0,0,0,0,Wriddhiman Saha,India
+300s,0,0,0,0,Wriddhiman Saha,India
+400s,0,0,0,0,Wriddhiman Saha,India
+Matches,43,31,76,118,Rishabh Pant,India
+Innings,75,27,66,116,Rishabh Pant,India
+Runs,2948,871,1209,3387,Rishabh Pant,India
+Balls,4005,820,949,2304,Rishabh Pant,India
+Highest,159,125,65,128,Rishabh Pant,India
+Average,42.11,33.5,23.25,34.21,Rishabh Pant,India
+SR,73.61,106.22,127.4,147.01,Rishabh Pant,India
+Not Out,5,1,14,17,Rishabh Pant,India
+Fours,321,91,111,304,Rishabh Pant,India
+Sixes,73,26,44,159,Rishabh Pant,India
+Ducks,3,3,4,5,Rishabh Pant,India
+50s,15,5,3,19,Rishabh Pant,India
+100s,6,1,0,1,Rishabh Pant,India
+200s,0,0,0,0,Rishabh Pant,India
+300s,0,0,0,0,Rishabh Pant,India
+400s,0,0,0,0,Rishabh Pant,India
+Matches,64,108,25,117,Mohammed Shami,India
+Innings,89,49,5,29,Mohammed Shami,India
+Runs,750,225,7,84,Mohammed Shami,India
+Balls,1005,273,10,89,Mohammed Shami,India
+Highest,56,25,7,21,Mohammed Shami,India
+Average,11.9,7.76,3.5,6,Mohammed Shami,India
+SR,74.63,82.42,70,94.39,Mohammed Shami,India
+Not Out,26,20,3,15,Mohammed Shami,India
+Fours,83,17,0,7,Mohammed Shami,India
+Sixes,25,9,1,2,Mohammed Shami,India
+Ducks,18,6,1,4,Mohammed Shami,India
+50s,2,0,0,0,Mohammed Shami,India
+100s,0,0,0,0,Mohammed Shami,India
+200s,0,0,0,0,Mohammed Shami,India
+300s,0,0,0,0,Mohammed Shami,India
+400s,0,0,0,0,Mohammed Shami,India
+Matches,45,89,70,136,Jasprit Bumrah,India
+Innings,69,26,8,31,Jasprit Bumrah,India
+Runs,332,91,8,68,Jasprit Bumrah,India
+Balls,741,159,14,79,Jasprit Bumrah,India
+Highest,34,16,7,16,Jasprit Bumrah,India
+Average,7.06,7.58,2.67,9.71,Jasprit Bumrah,India
+SR,44.81,57.24,57.15,86.08,Jasprit Bumrah,India
+Not Out,22,14,5,24,Jasprit Bumrah,India
+Fours,35,10,1,5,Jasprit Bumrah,India
+Sixes,11,1,0,1,Jasprit Bumrah,India
+Ducks,25,5,2,5,Jasprit Bumrah,India
+50s,0,0,0,0,Jasprit Bumrah,India
+100s,0,0,0,0,Jasprit Bumrah,India
+200s,0,0,0,0,Jasprit Bumrah,India
+300s,0,0,0,0,Jasprit Bumrah,India
+400s,0,0,0,0,Jasprit Bumrah,India
+Matches,13,113,40,90,Kuldeep Yadav,India
+Innings,17,42,7,35,Kuldeep Yadav,India
+Runs,199,207,46,189,Kuldeep Yadav,India
+Balls,698,407,59,222,Kuldeep Yadav,India
+Highest,40,19,23,35,Kuldeep Yadav,India
+Average,13.27,9.86,11.5,13.5,Kuldeep Yadav,India
+SR,28.52,50.86,77.97,85.14,Kuldeep Yadav,India
+Not Out,2,21,3,21,Kuldeep Yadav,India
+Fours,18,14,2,17,Kuldeep Yadav,India
+Sixes,1,0,0,3,Kuldeep Yadav,India
+Ducks,4,3,2,5,Kuldeep Yadav,India
+50s,0,0,0,0,Kuldeep Yadav,India
+100s,0,0,0,0,Kuldeep Yadav,India
+200s,0,0,0,0,Kuldeep Yadav,India
+300s,0,0,0,0,Kuldeep Yadav,India
+400s,0,0,0,0,Kuldeep Yadav,India
+Matches,0,72,80,166,Yuzvendra Chahal,India
+Innings,0,14,6,20,Yuzvendra Chahal,India
+Runs,0,77,6,37,Yuzvendra Chahal,India
+Balls,0,141,13,86,Yuzvendra Chahal,India
+Highest,0,18,3,8,Yuzvendra Chahal,India
+Average,0,8.56,3,5.29,Yuzvendra Chahal,India
+SR,0,54.61,46.16,43.03,Yuzvendra Chahal,India
+Not Out,0,5,4,13,Yuzvendra Chahal,India
+Fours,0,8,0,0,Yuzvendra Chahal,India
+Sixes,0,0,0,0,Yuzvendra Chahal,India
+Ducks,0,1,0,1,Yuzvendra Chahal,India
+50s,0,0,0,0,Yuzvendra Chahal,India
+100s,0,0,0,0,Yuzvendra Chahal,India
+200s,0,0,0,0,Yuzvendra Chahal,India
+300s,0,0,0,0,Yuzvendra Chahal,India
+400s,0,0,0,0,Yuzvendra Chahal,India
+Matches,2,8,11,32,Navdeep Saini,India
+Innings,3,5,3,7,Navdeep Saini,India
+Runs,8,107,12,33,Navdeep Saini,India
+Balls,27,137,11,37,Navdeep Saini,India
+Highest,5,45,11,12,Navdeep Saini,India
+Average,4,53.5,0,8.25,Navdeep Saini,India
+SR,29.63,78.11,109.1,89.19,Navdeep Saini,India
+Not Out,1,3,3,3,Navdeep Saini,India
+Fours,1,9,2,3,Navdeep Saini,India
+Sixes,0,3,0,0,Navdeep Saini,India
+Ducks,0,0,0,0,Navdeep Saini,India
+50s,0,0,0,0,Navdeep Saini,India
+100s,0,0,0,0,Navdeep Saini,India
+200s,0,0,0,0,Navdeep Saini,India
+300s,0,0,0,0,Navdeep Saini,India
+400s,0,0,0,0,Navdeep Saini,India
+Matches,57,75,9,148,Umesh Yadav,India
+Innings,68,24,2,52,Umesh Yadav,India
+Runs,460,79,22,208,Umesh Yadav,India
+Balls,883,134,21,201,Umesh Yadav,India
+Highest,31,18,20,24,Umesh Yadav,India
+Average,11.22,7.9,22,9.9,Umesh Yadav,India
+SR,52.1,58.96,104.77,103.49,Umesh Yadav,India
+Not Out,27,14,1,31,Umesh Yadav,India
+Fours,42,8,2,16,Umesh Yadav,India
+Sixes,24,1,0,9,Umesh Yadav,India
+Ducks,9,4,0,8,Umesh Yadav,India
+50s,0,0,0,0,Umesh Yadav,India
+100s,0,0,0,0,Umesh Yadav,India
+200s,0,0,0,0,Umesh Yadav,India
+300s,0,0,0,0,Umesh Yadav,India
+400s,0,0,0,0,Umesh Yadav,India
+Matches,36,44,16,99,Mohammed Siraj,India
+Innings,49,17,5,25,Mohammed Siraj,India
+Runs,131,55,14,109,Mohammed Siraj,India
+Balls,356,129,16,119,Mohammed Siraj,India
+Highest,16,9,7,14,Mohammed Siraj,India
+Average,4.85,7.86,7,10.9,Mohammed Siraj,India
+SR,36.8,42.64,87.5,91.6,Mohammed Siraj,India
+Not Out,22,10,3,15,Mohammed Siraj,India
+Fours,14,3,1,10,Mohammed Siraj,India
+Sixes,2,0,0,4,Mohammed Siraj,India
+Ducks,11,1,1,2,Mohammed Siraj,India
+50s,0,0,0,0,Mohammed Siraj,India
+100s,0,0,0,0,Mohammed Siraj,India
+200s,0,0,0,0,Mohammed Siraj,India
+300s,0,0,0,0,Mohammed Siraj,India
+400s,0,0,0,0,Mohammed Siraj,India
+Matches,70,243,78,0,Tamim Iqbal,Bangladesh
+Innings,134,240,78,0,Tamim Iqbal,Bangladesh
+Runs,5134,8357,1758,0,Tamim Iqbal,Bangladesh
+Balls,8852,10642,1500,0,Tamim Iqbal,Bangladesh
+Highest,206,158,103,0,Tamim Iqbal,Bangladesh
+Average,38.89,36.65,24.08,0,Tamim Iqbal,Bangladesh
+SR,58,78.53,117.2,0,Tamim Iqbal,Bangladesh
+Not Out,2,12,5,0,Tamim Iqbal,Bangladesh
+Fours,656,925,189,0,Tamim Iqbal,Bangladesh
+Sixes,41,103,45,0,Tamim Iqbal,Bangladesh
+Ducks,11,19,6,0,Tamim Iqbal,Bangladesh
+50s,31,56,7,0,Tamim Iqbal,Bangladesh
+100s,10,14,1,0,Tamim Iqbal,Bangladesh
+200s,1,0,0,0,Tamim Iqbal,Bangladesh
+300s,0,0,0,0,Tamim Iqbal,Bangladesh
+400s,0,0,0,0,Tamim Iqbal,Bangladesh
+Matches,16,76,87,0,Soumya Sarkar,Bangladesh
+Innings,30,71,86,0,Soumya Sarkar,Bangladesh
+Runs,831,2198,1462,0,Soumya Sarkar,Bangladesh
+Balls,1442,2282,1197,0,Soumya Sarkar,Bangladesh
+Highest,149,169,68,0,Soumya Sarkar,Bangladesh
+Average,27.7,32.32,17.83,0,Soumya Sarkar,Bangladesh
+SR,57.63,96.32,122.14,0,Soumya Sarkar,Bangladesh
+Not Out,0,3,4,0,Soumya Sarkar,Bangladesh
+Fours,109,256,145,0,Soumya Sarkar,Bangladesh
+Sixes,9,52,55,0,Soumya Sarkar,Bangladesh
+Ducks,2,9,13,0,Soumya Sarkar,Bangladesh
+50s,4,13,5,0,Soumya Sarkar,Bangladesh
+100s,1,3,0,0,Soumya Sarkar,Bangladesh
+200s,0,0,0,0,Soumya Sarkar,Bangladesh
+300s,0,0,0,0,Soumya Sarkar,Bangladesh
+400s,0,0,0,0,Soumya Sarkar,Bangladesh
+Matches,11,66,48,0,Sabbir Rahman,Bangladesh
+Innings,22,59,47,0,Sabbir Rahman,Bangladesh
+Runs,481,1333,977,0,Sabbir Rahman,Bangladesh
+Balls,875,1461,819,0,Sabbir Rahman,Bangladesh
+Highest,66,102,80,0,Sabbir Rahman,Bangladesh
+Average,24.05,25.63,23.26,0,Sabbir Rahman,Bangladesh
+SR,54.98,91.24,119.3,0,Sabbir Rahman,Bangladesh
+Not Out,2,7,5,0,Sabbir Rahman,Bangladesh
+Fours,56,153,92,0,Sabbir Rahman,Bangladesh
+Sixes,6,24,29,0,Sabbir Rahman,Bangladesh
+Ducks,5,5,3,0,Sabbir Rahman,Bangladesh
+50s,4,6,4,0,Sabbir Rahman,Bangladesh
+100s,0,1,0,0,Sabbir Rahman,Bangladesh
+200s,0,0,0,0,Sabbir Rahman,Bangladesh
+300s,0,0,0,0,Sabbir Rahman,Bangladesh
+400s,0,0,0,0,Sabbir Rahman,Bangladesh
+Matches,50,239,141,0,Mahmudullah,Bangladesh
+Innings,94,209,130,0,Mahmudullah,Bangladesh
+Runs,2914,5689,2443,0,Mahmudullah,Bangladesh
+Balls,5456,7330,2083,0,Mahmudullah,Bangladesh
+Highest,150,128,64,0,Mahmudullah,Bangladesh
+Average,33.11,36.47,23.49,0,Mahmudullah,Bangladesh
+SR,53.41,77.62,117.29,0,Mahmudullah,Bangladesh
+Not Out,6,53,26,0,Mahmudullah,Bangladesh
+Fours,338,426,184,0,Mahmudullah,Bangladesh
+Sixes,24,107,77,0,Mahmudullah,Bangladesh
+Ducks,11,10,5,0,Mahmudullah,Bangladesh
+50s,16,32,8,0,Mahmudullah,Bangladesh
+100s,5,4,0,0,Mahmudullah,Bangladesh
+200s,0,0,0,0,Mahmudullah,Bangladesh
+300s,0,0,0,0,Mahmudullah,Bangladesh
+400s,0,0,0,0,Mahmudullah,Bangladesh
+Matches,71,247,129,71,Shakib Al Hasan,Bangladesh
+Innings,130,234,126,52,Shakib Al Hasan,Bangladesh
+Runs,4609,7570,2551,793,Shakib Al Hasan,Bangladesh
+Balls,7473,9138,2104,637,Shakib Al Hasan,Bangladesh
+Highest,217,134,84,66,Shakib Al Hasan,Bangladesh
+Average,37.78,37.11,23.19,19.83,Shakib Al Hasan,Bangladesh
+SR,61.68,82.85,121.25,124.49,Shakib Al Hasan,Bangladesh
+Not Out,8,30,16,12,Shakib Al Hasan,Bangladesh
+Fours,556,699,258,73,Shakib Al Hasan,Bangladesh
+Sixes,28,54,53,21,Shakib Al Hasan,Bangladesh
+Ducks,6,12,9,4,Shakib Al Hasan,Bangladesh
+50s,31,56,13,2,Shakib Al Hasan,Bangladesh
+100s,5,9,0,0,Shakib Al Hasan,Bangladesh
+200s,1,0,0,0,Shakib Al Hasan,Bangladesh
+300s,0,0,0,0,Shakib Al Hasan,Bangladesh
+400s,0,0,0,0,Shakib Al Hasan,Bangladesh
+Matches,4,43,33,0,Mosaddek Hossain,Bangladesh
+Innings,8,35,31,0,Mosaddek Hossain,Bangladesh
+Runs,173,634,389,0,Mosaddek Hossain,Bangladesh
+Balls,375,762,341,0,Mosaddek Hossain,Bangladesh
+Highest,75,52,48,0,Mosaddek Hossain,Bangladesh
+Average,28.83,25.36,18.52,0,Mosaddek Hossain,Bangladesh
+SR,46.14,83.21,114.08,0,Mosaddek Hossain,Bangladesh
+Not Out,2,10,10,0,Mosaddek Hossain,Bangladesh
+Fours,13,58,26,0,Mosaddek Hossain,Bangladesh
+Sixes,4,13,11,0,Mosaddek Hossain,Bangladesh
+Ducks,1,1,4,0,Mosaddek Hossain,Bangladesh
+50s,1,3,0,0,Mosaddek Hossain,Bangladesh
+100s,0,0,0,0,Mosaddek Hossain,Bangladesh
+200s,0,0,0,0,Mosaddek Hossain,Bangladesh
+300s,0,0,0,0,Mosaddek Hossain,Bangladesh
+400s,0,0,0,0,Mosaddek Hossain,Bangladesh
+Matches,0,29,38,0,Mohammad Saifuddin,Bangladesh
+Innings,0,19,21,0,Mohammad Saifuddin,Bangladesh
+Runs,0,362,206,0,Mohammad Saifuddin,Bangladesh
+Balls,0,422,180,0,Mohammad Saifuddin,Bangladesh
+Highest,0,51,39,0,Mohammad Saifuddin,Bangladesh
+Average,0,36.2,18.73,0,Mohammad Saifuddin,Bangladesh
+SR,0,85.79,114.45,0,Mohammad Saifuddin,Bangladesh
+Not Out,0,9,10,0,Mohammad Saifuddin,Bangladesh
+Fours,0,29,16,0,Mohammad Saifuddin,Bangladesh
+Sixes,0,6,7,0,Mohammad Saifuddin,Bangladesh
+Ducks,0,1,2,0,Mohammad Saifuddin,Bangladesh
+50s,0,2,0,0,Mohammad Saifuddin,Bangladesh
+100s,0,0,0,0,Mohammad Saifuddin,Bangladesh
+200s,0,0,0,0,Mohammad Saifuddin,Bangladesh
+300s,0,0,0,0,Mohammad Saifuddin,Bangladesh
+400s,0,0,0,0,Mohammad Saifuddin,Bangladesh
+Matches,51,105,29,0,Mehidy Hasan Miraz,Bangladesh
+Innings,93,76,24,0,Mehidy Hasan Miraz,Bangladesh
+Runs,1952,1617,354,0,Mehidy Hasan Miraz,Bangladesh
+Balls,3920,2105,305,0,Mehidy Hasan Miraz,Bangladesh
+Highest,103,112,46,0,Mehidy Hasan Miraz,Bangladesh
+Average,23.52,24.5,17.7,0,Mehidy Hasan Miraz,Bangladesh
+SR,49.8,76.82,116.07,0,Mehidy Hasan Miraz,Bangladesh
+Not Out,10,10,4,0,Mehidy Hasan Miraz,Bangladesh
+Fours,231,137,29,0,Mehidy Hasan Miraz,Bangladesh
+Sixes,20,27,10,0,Mehidy Hasan Miraz,Bangladesh
+Ducks,6,4,2,0,Mehidy Hasan Miraz,Bangladesh
+50s,9,6,0,0,Mehidy Hasan Miraz,Bangladesh
+100s,1,2,0,0,Mehidy Hasan Miraz,Bangladesh
+200s,0,0,0,0,Mehidy Hasan Miraz,Bangladesh
+300s,0,0,0,0,Mehidy Hasan Miraz,Bangladesh
+400s,0,0,0,0,Mehidy Hasan Miraz,Bangladesh
+Matches,94,274,102,0,Mushfiqur Rahim,Bangladesh
+Innings,174,256,93,0,Mushfiqur Rahim,Bangladesh
+Runs,6007,7795,1500,0,Mushfiqur Rahim,Bangladesh
+Balls,12392,9780,1305,0,Mushfiqur Rahim,Bangladesh
+Highest,219,144,72,0,Mushfiqur Rahim,Bangladesh
+Average,37.54,36.26,19.23,0,Mushfiqur Rahim,Bangladesh
+SR,48.48,79.71,114.95,0,Mushfiqur Rahim,Bangladesh
+Not Out,14,41,15,0,Mushfiqur Rahim,Bangladesh
+Fours,713,617,126,0,Mushfiqur Rahim,Bangladesh
+Sixes,36,100,37,0,Mushfiqur Rahim,Bangladesh
+Ducks,13,12,8,0,Mushfiqur Rahim,Bangladesh
+50s,27,49,6,0,Mushfiqur Rahim,Bangladesh
+100s,11,9,0,0,Mushfiqur Rahim,Bangladesh
+200s,3,0,0,0,Mushfiqur Rahim,Bangladesh
+300s,0,0,0,0,Mushfiqur Rahim,Bangladesh
+400s,0,0,0,0,Mushfiqur Rahim,Bangladesh
+Matches,48,94,95,1,Litton Das,Bangladesh
+Innings,84,93,93,1,Litton Das,Bangladesh
+Runs,2788,2569,2021,4,Litton Das,Bangladesh
+Balls,4740,2986,1619,4,Litton Das,Bangladesh
+Highest,141,176,83,4,Litton Das,Bangladesh
+Average,33.59,29.53,22.46,4,Litton Das,Bangladesh
+SR,58.82,86.04,124.84,100,Litton Das,Bangladesh
+Not Out,1,6,3,0,Litton Das,Bangladesh
+Fours,345,274,210,1,Litton Das,Bangladesh
+Sixes,16,45,58,0,Litton Das,Bangladesh
+Ducks,2,15,6,0,Litton Das,Bangladesh
+50s,17,12,11,0,Litton Das,Bangladesh
+100s,4,5,0,0,Litton Das,Bangladesh
+200s,0,0,0,0,Litton Das,Bangladesh
+300s,0,0,0,0,Litton Das,Bangladesh
+400s,0,0,0,0,Litton Das,Bangladesh
+Matches,10,34,17,0,Mohammad Mithun,Bangladesh
+Innings,18,30,13,0,Mohammad Mithun,Bangladesh
+Runs,333,714,127,0,Mohammad Mithun,Bangladesh
+Balls,752,921,136,0,Mohammad Mithun,Bangladesh
+Highest,67,73,47,0,Mohammad Mithun,Bangladesh
+Average,18.5,27.46,10.58,0,Mohammad Mithun,Bangladesh
+SR,44.29,77.53,93.39,0,Mohammad Mithun,Bangladesh
+Not Out,0,4,1,0,Mohammad Mithun,Bangladesh
+Fours,32,61,10,0,Mohammad Mithun,Bangladesh
+Sixes,3,16,4,0,Mohammad Mithun,Bangladesh
+Ducks,4,2,2,0,Mohammad Mithun,Bangladesh
+50s,2,6,0,0,Mohammad Mithun,Bangladesh
+100s,0,0,0,0,Mohammad Mithun,Bangladesh
+200s,0,0,0,0,Mohammad Mithun,Bangladesh
+300s,0,0,0,0,Mohammad Mithun,Bangladesh
+400s,0,0,0,0,Mohammad Mithun,Bangladesh
+Matches,36,220,54,1,Mashrafe Mortaza,Bangladesh
+Innings,67,158,39,1,Mashrafe Mortaza,Bangladesh
+Runs,797,1787,377,2,Mashrafe Mortaza,Bangladesh
+Balls,1186,2041,278,2,Mashrafe Mortaza,Bangladesh
+Highest,79,51,36,2,Mashrafe Mortaza,Bangladesh
+Average,12.85,13.75,13.46,0,Mashrafe Mortaza,Bangladesh
+SR,67.21,87.56,135.62,100,Mashrafe Mortaza,Bangladesh
+Not Out,5,28,11,1,Mashrafe Mortaza,Bangladesh
+Fours,95,149,28,0,Mashrafe Mortaza,Bangladesh
+Sixes,22,62,23,0,Mashrafe Mortaza,Bangladesh
+Ducks,12,15,6,0,Mashrafe Mortaza,Bangladesh
+50s,3,1,0,0,Mashrafe Mortaza,Bangladesh
+100s,0,0,0,0,Mashrafe Mortaza,Bangladesh
+200s,0,0,0,0,Mashrafe Mortaza,Bangladesh
+300s,0,0,0,0,Mashrafe Mortaza,Bangladesh
+400s,0,0,0,0,Mashrafe Mortaza,Bangladesh
+Matches,27,104,28,0,Rubel Hossain,Bangladesh
+Innings,47,53,15,0,Rubel Hossain,Bangladesh
+Runs,265,144,20,0,Rubel Hossain,Bangladesh
+Balls,603,277,36,0,Rubel Hossain,Bangladesh
+Highest,45,17,8,0,Rubel Hossain,Bangladesh
+Average,9.46,4.97,4,0,Rubel Hossain,Bangladesh
+SR,43.95,51.99,55.56,0,Rubel Hossain,Bangladesh
+Not Out,19,24,10,0,Rubel Hossain,Bangladesh
+Fours,34,14,1,0,Rubel Hossain,Bangladesh
+Sixes,4,2,0,0,Rubel Hossain,Bangladesh
+Ducks,7,11,4,0,Rubel Hossain,Bangladesh
+50s,0,0,0,0,Rubel Hossain,Bangladesh
+100s,0,0,0,0,Rubel Hossain,Bangladesh
+200s,0,0,0,0,Rubel Hossain,Bangladesh
+300s,0,0,0,0,Rubel Hossain,Bangladesh
+400s,0,0,0,0,Rubel Hossain,Bangladesh
+Matches,15,109,106,57,Mustafizur Rahman,Bangladesh
+Innings,22,54,32,9,Mustafizur Rahman,Bangladesh
+Runs,66,166,87,13,Mustafizur Rahman,Bangladesh
+Balls,162,319,117,23,Mustafizur Rahman,Bangladesh
+Highest,16,20,15,8,Mustafizur Rahman,Bangladesh
+Average,4.4,7.9,4.58,13,Mustafizur Rahman,Bangladesh
+SR,40.75,52.04,74.36,56.53,Mustafizur Rahman,Bangladesh
+Not Out,7,33,13,8,Mustafizur Rahman,Bangladesh
+Fours,3,18,3,0,Mustafizur Rahman,Bangladesh
+Sixes,5,1,5,1,Mustafizur Rahman,Bangladesh
+Ducks,8,9,7,0,Mustafizur Rahman,Bangladesh
+50s,0,0,0,0,Mustafizur Rahman,Bangladesh
+100s,0,0,0,0,Mustafizur Rahman,Bangladesh
+200s,0,0,0,0,Mustafizur Rahman,Bangladesh
+300s,0,0,0,0,Mustafizur Rahman,Bangladesh
+400s,0,0,0,0,Mustafizur Rahman,Bangladesh
+Matches,13,2,3,0,Abu Jayed,Bangladesh
+Innings,22,0,2,0,Abu Jayed,Bangladesh
+Runs,36,0,3,0,Abu Jayed,Bangladesh
+Balls,157,0,7,0,Abu Jayed,Bangladesh
+Highest,8,0,2,0,Abu Jayed,Bangladesh
+Average,2.57,0,1.5,0,Abu Jayed,Bangladesh
+SR,22.93,0,42.86,0,Abu Jayed,Bangladesh
+Not Out,8,0,0,0,Abu Jayed,Bangladesh
+Fours,4,0,0,0,Abu Jayed,Bangladesh
+Sixes,0,0,0,0,Abu Jayed,Bangladesh
+Ducks,7,0,0,0,Abu Jayed,Bangladesh
+50s,0,0,0,0,Abu Jayed,Bangladesh
+100s,0,0,0,0,Abu Jayed,Bangladesh
+200s,0,0,0,0,Abu Jayed,Bangladesh
+300s,0,0,0,0,Abu Jayed,Bangladesh
+400s,0,0,0,0,Abu Jayed,Bangladesh
+Matches,3,86,92,0,Fakhar Zaman,Pakistan
+Innings,6,85,84,0,Fakhar Zaman,Pakistan
+Runs,192,3651,1848,0,Fakhar Zaman,Pakistan
+Balls,359,3890,1390,0,Fakhar Zaman,Pakistan
+Highest,94,210,91,0,Fakhar Zaman,Pakistan
+Average,32,46.22,22.81,0,Fakhar Zaman,Pakistan
+SR,53.49,93.86,132.95,0,Fakhar Zaman,Pakistan
+Not Out,0,6,3,0,Fakhar Zaman,Pakistan
+Fours,20,409,172,0,Fakhar Zaman,Pakistan
+Sixes,1,79,76,0,Fakhar Zaman,Pakistan
+Ducks,0,6,6,0,Fakhar Zaman,Pakistan
+50s,2,17,11,0,Fakhar Zaman,Pakistan
+100s,0,11,0,0,Fakhar Zaman,Pakistan
+200s,0,1,0,0,Fakhar Zaman,Pakistan
+300s,0,0,0,0,Fakhar Zaman,Pakistan
+400s,0,0,0,0,Fakhar Zaman,Pakistan
+Matches,24,75,2,0,Imam,Pakistan
+Innings,46,74,2,0,Imam,Pakistan
+Runs,1568,3152,21,0,Imam,Pakistan
+Balls,3404,3846,25,0,Imam,Pakistan
+Highest,157,151,14,0,Imam,Pakistan
+Average,37.33,46.35,10.5,0,Imam,Pakistan
+SR,46.07,81.96,84,0,Imam,Pakistan
+Not Out,4,6,0,0,Imam,Pakistan
+Fours,170,253,2,0,Imam,Pakistan
+Sixes,12,30,0,0,Imam,Pakistan
+Ducks,4,3,0,0,Imam,Pakistan
+50s,9,20,0,0,Imam,Pakistan
+100s,3,9,0,0,Imam,Pakistan
+200s,0,0,0,0,Imam,Pakistan
+300s,0,0,0,0,Imam,Pakistan
+400s,0,0,0,0,Imam,Pakistan
+Matches,59,131,128,0,Babar Azam,Pakistan
+Innings,108,128,121,0,Babar Azam,Pakistan
+Runs,4235,6235,4223,0,Babar Azam,Pakistan
+Balls,7787,7089,3268,0,Babar Azam,Pakistan
+Highest,196,158,122,0,Babar Azam,Pakistan
+Average,42.78,55.18,39.84,0,Babar Azam,Pakistan
+SR,54.39,87.96,129.23,0,Babar Azam,Pakistan
+Not Out,9,15,15,0,Babar Azam,Pakistan
+Fours,495,574,447,0,Babar Azam,Pakistan
+Sixes,23,67,73,0,Babar Azam,Pakistan
+Ducks,8,4,7,0,Babar Azam,Pakistan
+50s,29,37,36,0,Babar Azam,Pakistan
+100s,9,19,3,0,Babar Azam,Pakistan
+200s,0,0,0,0,Babar Azam,Pakistan
+300s,0,0,0,0,Babar Azam,Pakistan
+400s,0,0,0,0,Babar Azam,Pakistan
+Matches,0,21,58,0,Asif Ali,Pakistan
+Innings,0,16,51,0,Asif Ali,Pakistan
+Runs,0,382,577,0,Asif Ali,Pakistan
+Balls,0,314,431,0,Asif Ali,Pakistan
+Highest,0,52,41,0,Asif Ali,Pakistan
+Average,0,25.47,15.18,0,Asif Ali,Pakistan
+SR,0,121.66,133.88,0,Asif Ali,Pakistan
+Not Out,0,1,13,0,Asif Ali,Pakistan
+Fours,0,22,27,0,Asif Ali,Pakistan
+Sixes,0,21,37,0,Asif Ali,Pakistan
+Ducks,0,0,4,0,Asif Ali,Pakistan
+50s,0,3,0,0,Asif Ali,Pakistan
+100s,0,0,0,0,Asif Ali,Pakistan
+200s,0,0,0,0,Asif Ali,Pakistan
+300s,0,0,0,0,Asif Ali,Pakistan
+400s,0,0,0,0,Asif Ali,Pakistan
+Matches,16,45,14,0,Haris Sohail,Pakistan
+Innings,27,44,13,0,Haris Sohail,Pakistan
+Runs,847,1749,210,0,Haris Sohail,Pakistan
+Balls,1936,2045,204,0,Haris Sohail,Pakistan
+Highest,147,130,52,0,Haris Sohail,Pakistan
+Average,32.58,44.85,19.09,0,Haris Sohail,Pakistan
+SR,43.75,85.53,102.95,0,Haris Sohail,Pakistan
+Not Out,1,5,2,0,Haris Sohail,Pakistan
+Fours,74,138,16,0,Haris Sohail,Pakistan
+Sixes,13,28,3,0,Haris Sohail,Pakistan
+Ducks,1,1,1,0,Haris Sohail,Pakistan
+50s,3,14,2,0,Haris Sohail,Pakistan
+100s,2,2,0,0,Haris Sohail,Pakistan
+200s,0,0,0,0,Haris Sohail,Pakistan
+300s,0,0,0,0,Haris Sohail,Pakistan
+400s,0,0,0,0,Haris Sohail,Pakistan
+Matches,55,218,119,8,Mohammad Hafeez,Pakistan
+Innings,105,216,108,8,Mohammad Hafeez,Pakistan
+Runs,3652,6614,2514,64,Mohammad Hafeez,Pakistan
+Balls,6520,8634,2060,83,Mohammad Hafeez,Pakistan
+Highest,224,140,99,16,Mohammad Hafeez,Pakistan
+Average,37.65,32.91,26.46,9.14,Mohammad Hafeez,Pakistan
+SR,56.02,76.61,122.04,77.11,Mohammad Hafeez,Pakistan
+Not Out,8,15,13,1,Mohammad Hafeez,Pakistan
+Fours,455,664,251,7,Mohammad Hafeez,Pakistan
+Sixes,28,110,76,2,Mohammad Hafeez,Pakistan
+Ducks,8,19,7,0,Mohammad Hafeez,Pakistan
+50s,12,38,14,0,Mohammad Hafeez,Pakistan
+100s,10,11,0,0,Mohammad Hafeez,Pakistan
+200s,1,0,0,0,Mohammad Hafeez,Pakistan
+300s,0,0,0,0,Mohammad Hafeez,Pakistan
+400s,0,0,0,0,Mohammad Hafeez,Pakistan
+Matches,35,287,124,7,Shoaib Malik,Pakistan
+Innings,60,258,111,5,Shoaib Malik,Pakistan
+Runs,1898,7534,2435,52,Shoaib Malik,Pakistan
+Balls,4155,9199,1938,47,Shoaib Malik,Pakistan
+Highest,245,143,75,24,Shoaib Malik,Pakistan
+Average,35.15,34.56,31.22,13,Shoaib Malik,Pakistan
+SR,45.68,81.91,125.65,110.64,Shoaib Malik,Pakistan
+Not Out,6,40,33,1,Shoaib Malik,Pakistan
+Fours,239,603,196,5,Shoaib Malik,Pakistan
+Sixes,17,113,69,0,Shoaib Malik,Pakistan
+Ducks,6,15,2,0,Shoaib Malik,Pakistan
+50s,8,44,9,0,Shoaib Malik,Pakistan
+100s,3,9,0,0,Shoaib Malik,Pakistan
+200s,1,0,0,0,Shoaib Malik,Pakistan
+300s,0,0,0,0,Shoaib Malik,Pakistan
+400s,0,0,0,0,Shoaib Malik,Pakistan
+Matches,6,70,109,0,Shadab Khan,Pakistan
+Innings,11,44,56,0,Shadab Khan,Pakistan
+Runs,300,855,737,0,Shadab Khan,Pakistan
+Balls,479,997,530,0,Shadab Khan,Pakistan
+Highest,56,86,52,0,Shadab Khan,Pakistan
+Average,33.33,25.91,17.55,0,Shadab Khan,Pakistan
+SR,62.64,85.76,139.06,0,Shadab Khan,Pakistan
+Not Out,2,11,14,0,Shadab Khan,Pakistan
+Fours,38,51,51,0,Shadab Khan,Pakistan
+Sixes,0,19,36,0,Shadab Khan,Pakistan
+Ducks,0,3,6,0,Shadab Khan,Pakistan
+50s,3,4,1,0,Shadab Khan,Pakistan
+100s,0,0,0,0,Shadab Khan,Pakistan
+200s,0,0,0,0,Shadab Khan,Pakistan
+300s,0,0,0,0,Shadab Khan,Pakistan
+400s,0,0,0,0,Shadab Khan,Pakistan
+Matches,0,55,75,0,Imad Wasim,Pakistan
+Innings,0,40,50,0,Imad Wasim,Pakistan
+Runs,0,986,554,0,Imad Wasim,Pakistan
+Balls,0,894,426,0,Imad Wasim,Pakistan
+Highest,0,63,64,0,Imad Wasim,Pakistan
+Average,0,42.87,15.83,0,Imad Wasim,Pakistan
+SR,0,110.3,130.05,0,Imad Wasim,Pakistan
+Not Out,0,17,15,0,Imad Wasim,Pakistan
+Fours,0,91,55,0,Imad Wasim,Pakistan
+Sixes,0,19,12,0,Imad Wasim,Pakistan
+Ducks,0,1,6,0,Imad Wasim,Pakistan
+50s,0,5,1,0,Imad Wasim,Pakistan
+100s,0,0,0,0,Imad Wasim,Pakistan
+200s,0,0,0,0,Imad Wasim,Pakistan
+300s,0,0,0,0,Imad Wasim,Pakistan
+400s,0,0,0,0,Imad Wasim,Pakistan
+Matches,54,117,61,0,Sarfaraz Ahmed,Pakistan
+Innings,95,91,42,0,Sarfaraz Ahmed,Pakistan
+Runs,3031,2315,818,0,Sarfaraz Ahmed,Pakistan
+Balls,4320,2635,653,0,Sarfaraz Ahmed,Pakistan
+Highest,118,105,89,0,Sarfaraz Ahmed,Pakistan
+Average,36.96,33.55,27.27,0,Sarfaraz Ahmed,Pakistan
+SR,70.17,87.86,125.27,0,Sarfaraz Ahmed,Pakistan
+Not Out,13,22,12,0,Sarfaraz Ahmed,Pakistan
+Fours,309,174,79,0,Sarfaraz Ahmed,Pakistan
+Sixes,9,12,15,0,Sarfaraz Ahmed,Pakistan
+Ducks,4,1,2,0,Sarfaraz Ahmed,Pakistan
+50s,21,11,3,0,Sarfaraz Ahmed,Pakistan
+100s,4,2,0,0,Sarfaraz Ahmed,Pakistan
+200s,0,0,0,0,Sarfaraz Ahmed,Pakistan
+300s,0,0,0,0,Sarfaraz Ahmed,Pakistan
+400s,0,0,0,0,Sarfaraz Ahmed,Pakistan
+Matches,27,91,36,0,Wahab Riaz,Pakistan
+Innings,41,66,18,0,Wahab Riaz,Pakistan
+Runs,306,740,154,0,Wahab Riaz,Pakistan
+Balls,727,849,123,0,Wahab Riaz,Pakistan
+Highest,39,54,30,0,Wahab Riaz,Pakistan
+Average,8.5,14.51,12.83,0,Wahab Riaz,Pakistan
+SR,42.1,87.17,125.21,0,Wahab Riaz,Pakistan
+Not Out,5,15,6,0,Wahab Riaz,Pakistan
+Fours,32,55,10,0,Wahab Riaz,Pakistan
+Sixes,5,30,7,0,Wahab Riaz,Pakistan
+Ducks,9,12,2,0,Wahab Riaz,Pakistan
+50s,0,3,0,0,Wahab Riaz,Pakistan
+100s,0,0,0,0,Wahab Riaz,Pakistan
+200s,0,0,0,0,Wahab Riaz,Pakistan
+300s,0,0,0,0,Wahab Riaz,Pakistan
+400s,0,0,0,0,Wahab Riaz,Pakistan
+Matches,31,64,79,0,Shaheen Afridi,Pakistan
+Innings,41,37,27,0,Shaheen Afridi,Pakistan
+Runs,249,261,211,0,Shaheen Afridi,Pakistan
+Balls,556,310,174,0,Shaheen Afridi,Pakistan
+Highest,29,25,23,0,Shaheen Afridi,Pakistan
+Average,8.03,13.05,12.41,0,Shaheen Afridi,Pakistan
+SR,44.79,84.2,121.27,0,Shaheen Afridi,Pakistan
+Not Out,10,17,10,0,Shaheen Afridi,Pakistan
+Fours,31,23,12,0,Shaheen Afridi,Pakistan
+Sixes,5,10,15,0,Shaheen Afridi,Pakistan
+Ducks,9,6,4,0,Shaheen Afridi,Pakistan
+50s,0,0,0,0,Shaheen Afridi,Pakistan
+100s,0,0,0,0,Shaheen Afridi,Pakistan
+200s,0,0,0,0,Shaheen Afridi,Pakistan
+300s,0,0,0,0,Shaheen Afridi,Pakistan
+400s,0,0,0,0,Shaheen Afridi,Pakistan
+Matches,24,66,51,0,Hasan Ali,Pakistan
+Innings,38,38,19,0,Hasan Ali,Pakistan
+Runs,382,383,129,0,Hasan Ali,Pakistan
+Balls,527,327,69,0,Hasan Ali,Pakistan
+Highest,30,59,23,0,Hasan Ali,Pakistan
+Average,11.94,14.19,14.33,0,Hasan Ali,Pakistan
+SR,72.49,117.13,186.96,0,Hasan Ali,Pakistan
+Not Out,6,11,10,0,Hasan Ali,Pakistan
+Fours,34,28,7,0,Hasan Ali,Pakistan
+Sixes,20,24,11,0,Hasan Ali,Pakistan
+Ducks,7,4,4,0,Hasan Ali,Pakistan
+50s,0,2,0,0,Hasan Ali,Pakistan
+100s,0,0,0,0,Hasan Ali,Pakistan
+200s,0,0,0,0,Hasan Ali,Pakistan
+300s,0,0,0,0,Hasan Ali,Pakistan
+400s,0,0,0,0,Hasan Ali,Pakistan
+Matches,0,15,28,0,Mohammad Hasnain,Pakistan
+Innings,0,7,12,0,Mohammad Hasnain,Pakistan
+Runs,0,53,24,0,Mohammad Hasnain,Pakistan
+Balls,0,34,26,0,Mohammad Hasnain,Pakistan
+Highest,0,28,8,0,Mohammad Hasnain,Pakistan
+Average,0,17.67,24,0,Mohammad Hasnain,Pakistan
+SR,0,155.89,92.31,0,Mohammad Hasnain,Pakistan
+Not Out,0,4,11,0,Mohammad Hasnain,Pakistan
+Fours,0,9,2,0,Mohammad Hasnain,Pakistan
+Sixes,0,1,1,0,Mohammad Hasnain,Pakistan
+Ducks,0,1,0,0,Mohammad Hasnain,Pakistan
+50s,0,0,0,0,Mohammad Hasnain,Pakistan
+100s,0,0,0,0,Mohammad Hasnain,Pakistan
+200s,0,0,0,0,Mohammad Hasnain,Pakistan
+300s,0,0,0,0,Mohammad Hasnain,Pakistan
+400s,0,0,0,0,Mohammad Hasnain,Pakistan
+Matches,36,61,62,0,Mohammad Amir,Pakistan
+Innings,67,30,17,0,Mohammad Amir,Pakistan
+Runs,751,363,65,0,Mohammad Amir,Pakistan
+Balls,1980,444,76,0,Mohammad Amir,Pakistan
+Highest,48,73,21,0,Mohammad Amir,Pakistan
+Average,13.41,18.15,7.22,0,Mohammad Amir,Pakistan
+SR,37.93,81.76,85.53,0,Mohammad Amir,Pakistan
+Not Out,11,10,8,0,Mohammad Amir,Pakistan
+Fours,91,32,3,0,Mohammad Amir,Pakistan
+Sixes,3,8,3,0,Mohammad Amir,Pakistan
+Ducks,7,5,2,0,Mohammad Amir,Pakistan
+50s,0,2,0,0,Mohammad Amir,Pakistan
+100s,0,0,0,0,Mohammad Amir,Pakistan
+200s,0,0,0,0,Mohammad Amir,Pakistan
+300s,0,0,0,0,Mohammad Amir,Pakistan
+400s,0,0,0,0,Mohammad Amir,Pakistan
+Matches,44,127,26,0,Lahiru Thirimanne,Sri Lanka
+Innings,85,105,20,0,Lahiru Thirimanne,Sri Lanka
+Runs,2088,3164,291,0,Lahiru Thirimanne,Sri Lanka
+Balls,5294,4389,267,0,Lahiru Thirimanne,Sri Lanka
+Highest,155,139,44,0,Lahiru Thirimanne,Sri Lanka
+Average,26.43,34.77,16.17,0,Lahiru Thirimanne,Sri Lanka
+SR,39.45,72.09,108.99,0,Lahiru Thirimanne,Sri Lanka
+Not Out,6,14,2,0,Lahiru Thirimanne,Sri Lanka
+Fours,207,244,27,0,Lahiru Thirimanne,Sri Lanka
+Sixes,3,25,5,0,Lahiru Thirimanne,Sri Lanka
+Ducks,11,7,1,0,Lahiru Thirimanne,Sri Lanka
+50s,10,21,0,0,Lahiru Thirimanne,Sri Lanka
+100s,3,4,0,0,Lahiru Thirimanne,Sri Lanka
+200s,0,0,0,0,Lahiru Thirimanne,Sri Lanka
+300s,0,0,0,0,Lahiru Thirimanne,Sri Lanka
+400s,0,0,0,0,Lahiru Thirimanne,Sri Lanka
+Matches,100,50,0,0,Dimuth Karunaratne,Sri Lanka
+Innings,191,46,0,0,Dimuth Karunaratne,Sri Lanka
+Runs,7222,1316,0,0,Dimuth Karunaratne,Sri Lanka
+Balls,14024,1655,0,0,Dimuth Karunaratne,Sri Lanka
+Highest,244,103,0,0,Dimuth Karunaratne,Sri Lanka
+Average,39.25,31.33,0,0,Dimuth Karunaratne,Sri Lanka
+SR,51.5,79.52,0,0,Dimuth Karunaratne,Sri Lanka
+Not Out,7,4,0,0,Dimuth Karunaratne,Sri Lanka
+Fours,764,131,0,0,Dimuth Karunaratne,Sri Lanka
+Sixes,12,1,0,0,Dimuth Karunaratne,Sri Lanka
+Ducks,13,4,0,0,Dimuth Karunaratne,Sri Lanka
+50s,39,11,0,0,Dimuth Karunaratne,Sri Lanka
+100s,16,1,0,0,Dimuth Karunaratne,Sri Lanka
+200s,1,0,0,0,Dimuth Karunaratne,Sri Lanka
+300s,0,0,0,0,Dimuth Karunaratne,Sri Lanka
+400s,0,0,0,0,Dimuth Karunaratne,Sri Lanka
+Matches,0,51,37,0,Avishka Fernando,Sri Lanka
+Innings,0,50,35,0,Avishka Fernando,Sri Lanka
+Runs,0,1589,363,0,Avishka Fernando,Sri Lanka
+Balls,0,1787,386,0,Avishka Fernando,Sri Lanka
+Highest,0,127,37,0,Avishka Fernando,Sri Lanka
+Average,0,31.78,11,0,Avishka Fernando,Sri Lanka
+SR,0,88.92,94.05,0,Avishka Fernando,Sri Lanka
+Not Out,0,0,2,0,Avishka Fernando,Sri Lanka
+Fours,0,165,28,0,Avishka Fernando,Sri Lanka
+Sixes,0,31,8,0,Avishka Fernando,Sri Lanka
+Ducks,0,5,5,0,Avishka Fernando,Sri Lanka
+50s,0,9,0,0,Avishka Fernando,Sri Lanka
+100s,0,4,0,0,Avishka Fernando,Sri Lanka
+200s,0,0,0,0,Avishka Fernando,Sri Lanka
+300s,0,0,0,0,Avishka Fernando,Sri Lanka
+400s,0,0,0,0,Avishka Fernando,Sri Lanka
+Matches,118,226,90,49,Angelo Mathews,Sri Lanka
+Innings,210,194,73,42,Angelo Mathews,Sri Lanka
+Runs,8167,5916,1416,724,Angelo Mathews,Sri Lanka
+Balls,16856,7135,1175,575,Angelo Mathews,Sri Lanka
+Highest,200,139,81,65,Angelo Mathews,Sri Lanka
+Average,44.63,40.52,27.76,23.35,Angelo Mathews,Sri Lanka
+SR,48.46,82.92,120.52,125.92,Angelo Mathews,Sri Lanka
+Not Out,27,48,22,11,Angelo Mathews,Sri Lanka
+Fours,831,468,92,44,Angelo Mathews,Sri Lanka
+Sixes,89,90,50,29,Angelo Mathews,Sri Lanka
+Ducks,6,16,1,3,Angelo Mathews,Sri Lanka
+50s,45,40,6,1,Angelo Mathews,Sri Lanka
+100s,16,3,0,0,Angelo Mathews,Sri Lanka
+200s,1,0,0,0,Angelo Mathews,Sri Lanka
+300s,0,0,0,0,Angelo Mathews,Sri Lanka
+400s,0,0,0,0,Angelo Mathews,Sri Lanka
+Matches,63,90,45,0,Dhananjaya de Silva,Sri Lanka
+Innings,112,82,44,0,Dhananjaya de Silva,Sri Lanka
+Runs,4095,1865,847,0,Dhananjaya de Silva,Sri Lanka
+Balls,7013,2373,731,0,Dhananjaya de Silva,Sri Lanka
+Highest,173,93,66,0,Dhananjaya de Silva,Sri Lanka
+Average,38.63,25.9,21.18,0,Dhananjaya de Silva,Sri Lanka
+SR,58.4,78.6,115.87,0,Dhananjaya de Silva,Sri Lanka
+Not Out,6,10,4,0,Dhananjaya de Silva,Sri Lanka
+Fours,495,186,71,0,Dhananjaya de Silva,Sri Lanka
+Sixes,35,17,18,0,Dhananjaya de Silva,Sri Lanka
+Ducks,10,4,2,0,Dhananjaya de Silva,Sri Lanka
+50s,19,10,3,0,Dhananjaya de Silva,Sri Lanka
+100s,12,0,0,0,Dhananjaya de Silva,Sri Lanka
+200s,0,0,0,0,Dhananjaya de Silva,Sri Lanka
+300s,0,0,0,0,Dhananjaya de Silva,Sri Lanka
+400s,0,0,0,0,Dhananjaya de Silva,Sri Lanka
+Matches,5,27,22,0,Milinda Siriwardana,Sri Lanka
+Innings,9,24,19,0,Milinda Siriwardana,Sri Lanka
+Runs,298,516,275,0,Milinda Siriwardana,Sri Lanka
+Balls,454,525,208,0,Milinda Siriwardana,Sri Lanka
+Highest,68,66,42,0,Milinda Siriwardana,Sri Lanka
+Average,33.11,22.43,17.19,0,Milinda Siriwardana,Sri Lanka
+SR,65.64,98.29,132.22,0,Milinda Siriwardana,Sri Lanka
+Not Out,0,1,3,0,Milinda Siriwardana,Sri Lanka
+Fours,32,39,16,0,Milinda Siriwardana,Sri Lanka
+Sixes,11,13,12,0,Milinda Siriwardana,Sri Lanka
+Ducks,1,1,4,0,Milinda Siriwardana,Sri Lanka
+50s,2,3,0,0,Milinda Siriwardana,Sri Lanka
+100s,0,0,0,0,Milinda Siriwardana,Sri Lanka
+200s,0,0,0,0,Milinda Siriwardana,Sri Lanka
+300s,0,0,0,0,Milinda Siriwardana,Sri Lanka
+400s,0,0,0,0,Milinda Siriwardana,Sri Lanka
+Matches,6,166,84,37,Thisara Perera,Sri Lanka
+Innings,10,133,74,30,Thisara Perera,Sri Lanka
+Runs,203,2338,1204,422,Thisara Perera,Sri Lanka
+Balls,278,2086,794,307,Thisara Perera,Sri Lanka
+Highest,75,140,61,40,Thisara Perera,Sri Lanka
+Average,20.3,19.98,23.15,19.18,Thisara Perera,Sri Lanka
+SR,73.03,112.09,151.64,137.46,Thisara Perera,Sri Lanka
+Not Out,0,16,22,8,Thisara Perera,Sri Lanka
+Fours,21,176,88,23,Thisara Perera,Sri Lanka
+Sixes,4,84,64,26,Thisara Perera,Sri Lanka
+Ducks,0,11,8,1,Thisara Perera,Sri Lanka
+50s,1,10,3,0,Thisara Perera,Sri Lanka
+100s,0,1,0,0,Thisara Perera,Sri Lanka
+200s,0,0,0,0,Thisara Perera,Sri Lanka
+300s,0,0,0,0,Thisara Perera,Sri Lanka
+400s,0,0,0,0,Thisara Perera,Sri Lanka
+Matches,0,21,35,10,Isuru Udana,Sri Lanka
+Innings,0,18,25,4,Isuru Udana,Sri Lanka
+Runs,0,237,256,15,Isuru Udana,Sri Lanka
+Balls,0,249,186,11,Isuru Udana,Sri Lanka
+Highest,0,78,84,10,Isuru Udana,Sri Lanka
+Average,0,16.93,18.29,5,Isuru Udana,Sri Lanka
+SR,0,95.19,137.64,136.37,Isuru Udana,Sri Lanka
+Not Out,0,4,11,1,Isuru Udana,Sri Lanka
+Fours,0,17,16,1,Isuru Udana,Sri Lanka
+Sixes,0,10,14,1,Isuru Udana,Sri Lanka
+Ducks,0,2,3,1,Isuru Udana,Sri Lanka
+50s,0,1,1,0,Isuru Udana,Sri Lanka
+100s,0,0,0,0,Isuru Udana,Sri Lanka
+200s,0,0,0,0,Isuru Udana,Sri Lanka
+300s,0,0,0,0,Isuru Udana,Sri Lanka
+400s,0,0,0,0,Isuru Udana,Sri Lanka
+Matches,0,58,22,3,Jeevan Mendis,Sri Lanka
+Innings,0,44,15,3,Jeevan Mendis,Sri Lanka
+Runs,0,636,208,23,Jeevan Mendis,Sri Lanka
+Balls,0,769,174,27,Jeevan Mendis,Sri Lanka
+Highest,0,72,43,12,Jeevan Mendis,Sri Lanka
+Average,0,18.71,18.91,7.67,Jeevan Mendis,Sri Lanka
+SR,0,82.71,119.55,85.19,Jeevan Mendis,Sri Lanka
+Not Out,0,10,4,0,Jeevan Mendis,Sri Lanka
+Fours,0,48,18,0,Jeevan Mendis,Sri Lanka
+Sixes,0,13,6,0,Jeevan Mendis,Sri Lanka
+Ducks,0,2,1,1,Jeevan Mendis,Sri Lanka
+50s,0,1,0,0,Jeevan Mendis,Sri Lanka
+100s,0,0,0,0,Jeevan Mendis,Sri Lanka
+200s,0,0,0,0,Jeevan Mendis,Sri Lanka
+300s,0,0,0,0,Jeevan Mendis,Sri Lanka
+400s,0,0,0,0,Jeevan Mendis,Sri Lanka
+Matches,22,116,77,2,Kusal Perera,Sri Lanka
+Innings,41,111,76,2,Kusal Perera,Sri Lanka
+Runs,1177,3237,2056,14,Kusal Perera,Sri Lanka
+Balls,1629,3484,1533,13,Kusal Perera,Sri Lanka
+Highest,153,135,101,14,Kusal Perera,Sri Lanka
+Average,30.97,30.25,28.16,7,Kusal Perera,Sri Lanka
+SR,72.26,92.92,134.12,107.7,Kusal Perera,Sri Lanka
+Not Out,3,4,3,0,Kusal Perera,Sri Lanka
+Fours,151,362,199,3,Kusal Perera,Sri Lanka
+Sixes,12,52,65,0,Kusal Perera,Sri Lanka
+Ducks,5,12,4,1,Kusal Perera,Sri Lanka
+50s,7,17,15,0,Kusal Perera,Sri Lanka
+100s,2,6,1,0,Kusal Perera,Sri Lanka
+200s,0,0,0,0,Kusal Perera,Sri Lanka
+300s,0,0,0,0,Kusal Perera,Sri Lanka
+400s,0,0,0,0,Kusal Perera,Sri Lanka
+Matches,71,143,78,0,Kusal Mendis,Sri Lanka
+Innings,133,140,78,0,Kusal Mendis,Sri Lanka
+Runs,4668,4429,1920,0,Kusal Mendis,Sri Lanka
+Balls,8012,5076,1458,0,Kusal Mendis,Sri Lanka
+Highest,245,143,86,0,Kusal Mendis,Sri Lanka
+Average,36.76,34.33,25.6,0,Kusal Mendis,Sri Lanka
+SR,58.27,87.26,131.69,0,Kusal Mendis,Sri Lanka
+Not Out,6,11,3,0,Kusal Mendis,Sri Lanka
+Fours,563,445,165,0,Kusal Mendis,Sri Lanka
+Sixes,50,74,81,0,Kusal Mendis,Sri Lanka
+Ducks,14,14,6,0,Kusal Mendis,Sri Lanka
+50s,21,33,15,0,Kusal Mendis,Sri Lanka
+100s,10,5,0,0,Kusal Mendis,Sri Lanka
+200s,1,0,0,0,Kusal Mendis,Sri Lanka
+300s,0,0,0,0,Kusal Mendis,Sri Lanka
+400s,0,0,0,0,Kusal Mendis,Sri Lanka
+Matches,70,86,11,0,Suranga Lakmal,Sri Lanka
+Innings,109,48,6,0,Suranga Lakmal,Sri Lanka
+Runs,935,244,7,0,Suranga Lakmal,Sri Lanka
+Balls,1936,404,11,0,Suranga Lakmal,Sri Lanka
+Highest,42,26,5,0,Suranga Lakmal,Sri Lanka
+Average,11.13,9.38,2.33,0,Suranga Lakmal,Sri Lanka
+SR,48.3,60.4,63.64,0,Suranga Lakmal,Sri Lanka
+Not Out,25,22,3,0,Suranga Lakmal,Sri Lanka
+Fours,114,18,1,0,Suranga Lakmal,Sri Lanka
+Sixes,12,3,0,0,Suranga Lakmal,Sri Lanka
+Ducks,21,9,2,0,Suranga Lakmal,Sri Lanka
+50s,0,0,0,0,Suranga Lakmal,Sri Lanka
+100s,0,0,0,0,Suranga Lakmal,Sri Lanka
+200s,0,0,0,0,Suranga Lakmal,Sri Lanka
+300s,0,0,0,0,Suranga Lakmal,Sri Lanka
+400s,0,0,0,0,Suranga Lakmal,Sri Lanka
+Matches,30,226,84,122,Lasith Malinga,Sri Lanka
+Innings,37,120,33,25,Lasith Malinga,Sri Lanka
+Runs,275,567,136,88,Lasith Malinga,Sri Lanka
+Balls,619,761,161,99,Lasith Malinga,Sri Lanka
+Highest,64,56,27,17,Lasith Malinga,Sri Lanka
+Average,11.46,6.83,6.48,5.5,Lasith Malinga,Sri Lanka
+SR,44.43,74.51,84.48,88.89,Lasith Malinga,Sri Lanka
+Not Out,13,37,12,9,Lasith Malinga,Sri Lanka
+Fours,36,45,9,6,Lasith Malinga,Sri Lanka
+Sixes,6,21,5,5,Lasith Malinga,Sri Lanka
+Ducks,9,26,8,6,Lasith Malinga,Sri Lanka
+50s,1,1,0,0,Lasith Malinga,Sri Lanka
+100s,0,0,0,0,Lasith Malinga,Sri Lanka
+200s,0,0,0,0,Lasith Malinga,Sri Lanka
+300s,0,0,0,0,Lasith Malinga,Sri Lanka
+400s,0,0,0,0,Lasith Malinga,Sri Lanka
+Matches,2,27,14,0,Jeffrey Vandersay,Sri Lanka
+Innings,4,15,8,0,Jeffrey Vandersay,Sri Lanka
+Runs,71,112,20,0,Jeffrey Vandersay,Sri Lanka
+Balls,77,234,20,0,Jeffrey Vandersay,Sri Lanka
+Highest,53,25,8,0,Jeffrey Vandersay,Sri Lanka
+Average,17.75,11.2,20,0,Jeffrey Vandersay,Sri Lanka
+SR,92.21,47.87,100,0,Jeffrey Vandersay,Sri Lanka
+Not Out,0,5,7,0,Jeffrey Vandersay,Sri Lanka
+Fours,10,5,3,0,Jeffrey Vandersay,Sri Lanka
+Sixes,2,0,0,0,Jeffrey Vandersay,Sri Lanka
+Ducks,0,2,0,0,Jeffrey Vandersay,Sri Lanka
+50s,1,0,0,0,Jeffrey Vandersay,Sri Lanka
+100s,0,0,0,0,Jeffrey Vandersay,Sri Lanka
+200s,0,0,0,0,Jeffrey Vandersay,Sri Lanka
+300s,0,0,0,0,Jeffrey Vandersay,Sri Lanka
+400s,0,0,0,0,Jeffrey Vandersay,Sri Lanka
+Matches,28,49,16,0,Nuwan Pradeep,Sri Lanka
+Innings,50,25,6,0,Nuwan Pradeep,Sri Lanka
+Runs,132,35,10,0,Nuwan Pradeep,Sri Lanka
+Balls,361,83,15,0,Nuwan Pradeep,Sri Lanka
+Highest,17,7,8,0,Nuwan Pradeep,Sri Lanka
+Average,4,4.38,10,0,Nuwan Pradeep,Sri Lanka
+SR,36.57,42.17,66.67,0,Nuwan Pradeep,Sri Lanka
+Not Out,17,17,5,0,Nuwan Pradeep,Sri Lanka
+Fours,19,3,1,0,Nuwan Pradeep,Sri Lanka
+Sixes,0,1,0,0,Nuwan Pradeep,Sri Lanka
+Ducks,18,4,1,0,Nuwan Pradeep,Sri Lanka
+50s,0,0,0,0,Nuwan Pradeep,Sri Lanka
+100s,0,0,0,0,Nuwan Pradeep,Sri Lanka
+200s,0,0,0,0,Nuwan Pradeep,Sri Lanka
+300s,0,0,0,0,Nuwan Pradeep,Sri Lanka
+400s,0,0,0,0,Nuwan Pradeep,Sri Lanka
+Matches,16,248,115,83,Eoin Morgan,England
+Innings,24,230,106,75,Eoin Morgan,England
+Runs,700,7701,2458,1405,Eoin Morgan,England
+Balls,1278,8447,1805,1146,Eoin Morgan,England
+Highest,130,148,91,68,Eoin Morgan,England
+Average,30.43,39.09,28.58,22.66,Eoin Morgan,England
+SR,54.78,91.17,136.18,122.61,Eoin Morgan,England
+Not Out,1,33,20,13,Eoin Morgan,England
+Fours,77,654,186,112,Eoin Morgan,England
+Sixes,6,220,120,64,Eoin Morgan,England
+Ducks,4,18,3,6,Eoin Morgan,England
+50s,3,47,14,5,Eoin Morgan,England
+100s,2,14,0,0,Eoin Morgan,England
+200s,0,0,0,0,Eoin Morgan,England
+300s,0,0,0,0,Eoin Morgan,England
+400s,0,0,0,0,Eoin Morgan,England
+Matches,152,177,32,3,Joe Root,England
+Innings,278,166,30,1,Joe Root,England
+Runs,12972,6859,893,10,Joe Root,England
+Balls,22568,7881,707,15,Joe Root,England
+Highest,262,133,90,10,Joe Root,England
+Average,50.87,47.97,35.72,10,Joe Root,England
+SR,57.48,87.04,126.31,66.67,Joe Root,England
+Not Out,23,23,5,0,Joe Root,England
+Fours,1394,548,92,1,Joe Root,England
+Sixes,45,51,16,0,Joe Root,England
+Ducks,13,9,2,0,Joe Root,England
+50s,65,41,5,0,Joe Root,England
+100s,36,17,0,0,Joe Root,England
+200s,6,0,0,0,Joe Root,England
+300s,0,0,0,0,Joe Root,England
+400s,0,0,0,0,Joe Root,England
+Matches,5,116,64,21,Jason Roy,England
+Innings,10,110,64,21,Jason Roy,England
+Runs,187,4271,1522,614,Jason Roy,England
+Balls,318,4047,1106,443,Jason Roy,England
+Highest,72,180,78,91,Jason Roy,England
+Average,18.7,39.92,23.78,32.32,Jason Roy,England
+SR,58.81,105.54,137.62,138.61,Jason Roy,England
+Not Out,0,3,0,2,Jason Roy,England
+Fours,26,511,153,75,Jason Roy,England
+Sixes,1,81,69,21,Jason Roy,England
+Ducks,1,11,7,0,Jason Roy,England
+50s,1,21,8,4,Jason Roy,England
+100s,0,12,0,0,Jason Roy,England
+200s,0,0,0,0,Jason Roy,England
+300s,0,0,0,0,Jason Roy,England
+400s,0,0,0,0,Jason Roy,England
+Matches,22,30,62,1,Dawid Malan,England
+Innings,39,30,60,1,Dawid Malan,England
+Runs,1074,1450,1892,26,Dawid Malan,England
+Balls,2622,1488,1428,26,Dawid Malan,England
+Highest,140,140,103,26,Dawid Malan,England
+Average,27.54,55.77,36.38,26,Dawid Malan,England
+SR,40.97,97.45,132.5,100,Dawid Malan,England
+Not Out,0,4,8,0,Dawid Malan,England
+Fours,146,150,194,1,Dawid Malan,England
+Sixes,1,32,62,1,Dawid Malan,England
+Ducks,2,5,2,0,Dawid Malan,England
+50s,9,7,16,0,Dawid Malan,England
+100s,1,6,1,0,Dawid Malan,England
+200s,0,0,0,0,Dawid Malan,England
+300s,0,0,0,0,Dawid Malan,England
+400s,0,0,0,0,Dawid Malan,England
+Matches,68,138,92,70,Moeen Ali,England
+Innings,118,112,75,58,Moeen Ali,England
+Runs,3094,2355,1229,1167,Moeen Ali,England
+Balls,5973,2398,863,833,Moeen Ali,England
+Highest,155,128,72,93,Moeen Ali,England
+Average,28.13,24.28,21.19,22.44,Moeen Ali,England
+SR,51.8,98.21,142.42,140.1,Moeen Ali,England
+Not Out,8,15,17,6,Moeen Ali,England
+Fours,375,203,88,95,Moeen Ali,England
+Sixes,34,78,68,67,Moeen Ali,England
+Ducks,15,6,9,5,Moeen Ali,England
+50s,15,6,7,6,Moeen Ali,England
+100s,5,3,0,0,Moeen Ali,England
+200s,0,0,0,0,Moeen Ali,England
+300s,0,0,0,0,Moeen Ali,England
+400s,0,0,0,0,Moeen Ali,England
+Matches,110,114,43,45,Ben Stokes,England
+Innings,198,99,36,44,Ben Stokes,England
+Runs,6719,3463,585,935,Ben Stokes,England
+Balls,11251,3619,457,698,Ben Stokes,England
+Highest,258,182,52,107,Ben Stokes,England
+Average,35.55,41.23,21.67,24.61,Ben Stokes,England
+SR,59.72,95.69,128.01,133.96,Ben Stokes,England
+Not Out,9,15,9,6,Ben Stokes,England
+Fours,779,282,42,81,Ben Stokes,England
+Sixes,133,109,22,32,Ben Stokes,England
+Ducks,15,7,1,3,Ben Stokes,England
+50s,35,24,1,2,Ben Stokes,England
+100s,13,5,0,2,Ben Stokes,England
+200s,1,0,0,0,Ben Stokes,England
+300s,0,0,0,0,Ben Stokes,England
+400s,0,0,0,0,Ben Stokes,England
+Matches,1,39,60,45,Liam Livingstone,England
+Innings,2,36,47,44,Liam Livingstone,England
+Runs,16,932,955,1022,Liam Livingstone,England
+Balls,18,862,641,640,Liam Livingstone,England
+Highest,9,124,103,94,Liam Livingstone,England
+Average,16,31.07,25.13,27.62,Liam Livingstone,England
+SR,88.89,108.13,148.99,159.69,Liam Livingstone,England
+Not Out,1,6,9,7,Liam Livingstone,England
+Fours,0,58,54,69,Liam Livingstone,England
+Sixes,1,50,59,73,Liam Livingstone,England
+Ducks,0,4,3,2,Liam Livingstone,England
+50s,0,4,2,7,Liam Livingstone,England
+100s,0,1,1,0,Liam Livingstone,England
+200s,0,0,0,0,Liam Livingstone,England
+300s,0,0,0,0,Liam Livingstone,England
+400s,0,0,0,0,Liam Livingstone,England
+Matches,57,122,33,21,Chris Woakes,England
+Innings,92,88,17,12,Chris Woakes,England
+Runs,1970,1524,146,78,Chris Woakes,England
+Balls,3688,1710,117,77,Chris Woakes,England
+Highest,137,95,37,18,Chris Woakes,England
+Average,26.27,23.81,16.22,13,Chris Woakes,England
+SR,53.42,89.13,124.79,101.3,Chris Woakes,England
+Not Out,17,24,8,6,Chris Woakes,England
+Fours,250,118,9,7,Chris Woakes,England
+Sixes,7,21,7,2,Chris Woakes,England
+Ducks,10,8,2,0,Chris Woakes,England
+50s,7,6,0,0,Chris Woakes,England
+100s,1,0,0,0,Chris Woakes,England
+200s,0,0,0,0,Chris Woakes,England
+300s,0,0,0,0,Chris Woakes,England
+400s,0,0,0,0,Chris Woakes,England
+Matches,2,28,30,13,Tom Curran,England
+Innings,3,17,13,10,Tom Curran,England
+Runs,66,303,64,127,Tom Curran,England
+Balls,120,321,56,107,Tom Curran,England
+Highest,39,47,14,54,Tom Curran,England
+Average,33,37.88,10.67,25.4,Tom Curran,England
+SR,55,94.4,114.29,118.7,Tom Curran,England
+Not Out,1,9,7,5,Tom Curran,England
+Fours,12,29,1,10,Tom Curran,England
+Sixes,0,5,4,3,Tom Curran,England
+Ducks,0,2,0,0,Tom Curran,England
+50s,0,0,0,1,Tom Curran,England
+100s,0,0,0,0,Tom Curran,England
+200s,0,0,0,0,Tom Curran,England
+300s,0,0,0,0,Tom Curran,England
+400s,0,0,0,0,Tom Curran,England
+Matches,0,3,9,0,Lewis Gregory,England
+Innings,0,2,7,0,Lewis Gregory,England
+Runs,0,117,45,0,Lewis Gregory,England
+Balls,0,116,41,0,Lewis Gregory,England
+Highest,0,77,15,0,Lewis Gregory,England
+Average,0,58.5,7.5,0,Lewis Gregory,England
+SR,0,100.87,109.76,0,Lewis Gregory,England
+Not Out,0,0,1,0,Lewis Gregory,England
+Fours,0,10,2,0,Lewis Gregory,England
+Sixes,0,3,2,0,Lewis Gregory,England
+Ducks,0,0,1,0,Lewis Gregory,England
+50s,0,1,0,0,Lewis Gregory,England
+100s,0,0,0,0,Lewis Gregory,England
+200s,0,0,0,0,Lewis Gregory,England
+300s,0,0,0,0,Lewis Gregory,England
+400s,0,0,0,0,Lewis Gregory,England
+Matches,24,35,58,61,Sam Curran,England
+Innings,38,27,34,50,Sam Curran,England
+Runs,815,597,356,895,Sam Curran,England
+Balls,1271,649,286,669,Sam Curran,England
+Highest,78,95,50,63,Sam Curran,England
+Average,24.7,24.88,14.24,24.19,Sam Curran,England
+SR,64.13,91.99,124.48,133.79,Sam Curran,England
+Not Out,5,3,9,13,Sam Curran,England
+Fours,96,37,21,74,Sam Curran,England
+Sixes,21,22,15,37,Sam Curran,England
+Ducks,7,1,0,4,Sam Curran,England
+50s,3,2,1,5,Sam Curran,England
+100s,0,0,0,0,Sam Curran,England
+200s,0,0,0,0,Sam Curran,England
+300s,0,0,0,0,Sam Curran,England
+400s,0,0,0,0,Sam Curran,England
+Matches,100,107,80,50,Jonny Bairstow,England
+Innings,178,98,72,50,Jonny Bairstow,England
+Runs,6042,3868,1671,1589,Jonny Bairstow,England
+Balls,10228,3758,1215,1100,Jonny Bairstow,England
+Highest,167,141,90,114,Jonny Bairstow,England
+Average,36.4,42.98,29.84,34.54,Jonny Bairstow,England
+SR,59.08,102.93,137.54,144.46,Jonny Bairstow,England
+Not Out,12,8,16,4,Jonny Bairstow,England
+Fours,721,437,148,166,Jonny Bairstow,England
+Sixes,56,92,76,69,Jonny Bairstow,England
+Ducks,17,9,6,3,Jonny Bairstow,England
+50s,26,17,10,9,Jonny Bairstow,England
+100s,12,11,0,2,Jonny Bairstow,England
+200s,0,0,0,0,Jonny Bairstow,England
+300s,0,0,0,0,Jonny Bairstow,England
+400s,0,0,0,0,Jonny Bairstow,England
+Matches,57,187,134,113,Jos Buttler,England
+Innings,100,160,123,112,Jos Buttler,England
+Runs,2907,5196,3535,3800,Jos Buttler,England
+Balls,5365,4506,2411,2566,Jos Buttler,England
+Highest,152,162,101,124,Jos Buttler,England
+Average,31.95,39.07,35.35,38.38,Jos Buttler,England
+SR,54.19,115.32,146.62,148.1,Jos Buttler,England
+Not Out,9,27,23,13,Jos Buttler,England
+Fours,339,414,322,376,Jos Buttler,England
+Sixes,33,173,152,170,Jos Buttler,England
+Ducks,9,14,8,8,Jos Buttler,England
+50s,18,27,26,21,Jos Buttler,England
+100s,2,11,1,7,Jos Buttler,England
+200s,0,0,0,0,Jos Buttler,England
+300s,0,0,0,0,Jos Buttler,England
+400s,0,0,0,0,Jos Buttler,England
+Matches,3,28,37,30,Sam Billings,England
+Innings,3,23,33,27,Sam Billings,England
+Runs,66,702,478,503,Sam Billings,England
+Balls,114,771,368,388,Sam Billings,England
+Highest,36,118,87,56,Sam Billings,England
+Average,22,33.43,17.07,19.35,Sam Billings,England
+SR,57.9,91.06,129.9,129.64,Sam Billings,England
+Not Out,0,2,5,1,Sam Billings,England
+Fours,10,74,41,40,Sam Billings,England
+Sixes,0,8,16,20,Sam Billings,England
+Ducks,0,1,1,3,Sam Billings,England
+50s,0,5,2,3,Sam Billings,England
+100s,0,1,0,0,Sam Billings,England
+200s,0,0,0,0,Sam Billings,England
+300s,0,0,0,0,Sam Billings,England
+400s,0,0,0,0,Sam Billings,England
+Matches,19,149,124,3,Adil Rashid,England
+Innings,33,79,41,2,Adil Rashid,England
+Runs,540,934,155,22,Adil Rashid,England
+Balls,1270,971,175,16,Adil Rashid,England
+Highest,61,69,22,18,Adil Rashid,England
+Average,19.29,17.3,7.38,11,Adil Rashid,England
+SR,42.52,96.19,88.58,137.5,Adil Rashid,England
+Not Out,5,25,20,0,Adil Rashid,England
+Fours,62,91,12,2,Adil Rashid,England
+Sixes,4,13,1,1,Adil Rashid,England
+Ducks,3,8,3,0,Adil Rashid,England
+50s,2,1,0,0,Adil Rashid,England
+100s,0,0,0,0,Adil Rashid,England
+200s,0,0,0,0,Adil Rashid,England
+300s,0,0,0,0,Adil Rashid,England
+400s,0,0,0,0,Adil Rashid,England
+Matches,37,70,38,5,Mark Wood,England
+Innings,62,29,7,3,Mark Wood,England
+Runs,807,168,27,12,Mark Wood,England
+Balls,1141,167,28,8,Mark Wood,England
+Highest,52,43,10,10,Mark Wood,England
+Average,15.82,12.92,13.5,6,Mark Wood,England
+SR,70.73,100.6,96.43,150,Mark Wood,England
+Not Out,11,16,5,1,Mark Wood,England
+Fours,107,16,2,1,Mark Wood,England
+Sixes,20,5,0,1,Mark Wood,England
+Ducks,10,5,1,0,Mark Wood,England
+50s,1,0,0,0,Mark Wood,England
+100s,0,0,0,0,Mark Wood,England
+200s,0,0,0,0,Mark Wood,England
+300s,0,0,0,0,Mark Wood,England
+400s,0,0,0,0,Mark Wood,England
+Matches,13,31,34,47,Jofra Archer,England
+Innings,20,18,12,29,Jofra Archer,England
+Runs,155,162,82,220,Jofra Archer,England
+Balls,306,150,62,142,Jofra Archer,England
+Highest,30,38,21,27,Jofra Archer,England
+Average,7.75,18,11.71,13.75,Jofra Archer,England
+SR,50.66,108,132.26,154.93,Jofra Archer,England
+Not Out,0,9,5,13,Jofra Archer,England
+Fours,22,18,6,11,Jofra Archer,England
+Sixes,1,5,4,16,Jofra Archer,England
+Ducks,3,2,3,4,Jofra Archer,England
+50s,0,0,0,0,Jofra Archer,England
+100s,0,0,0,0,Jofra Archer,England
+200s,0,0,0,0,Jofra Archer,England
+300s,0,0,0,0,Jofra Archer,England
+400s,0,0,0,0,Jofra Archer,England
+Matches,5,10,1,0,Olly Stone,England
+Innings,10,6,1,0,Olly Stone,England
+Runs,102,24,0,0,Olly Stone,England
+Balls,234,35,1,0,Olly Stone,England
+Highest,20,9,0,0,Olly Stone,England
+Average,11.33,8,0,0,Olly Stone,England
+SR,43.59,68.58,0,0,Olly Stone,England
+Not Out,1,3,0,0,Olly Stone,England
+Fours,12,2,0,0,Olly Stone,England
+Sixes,1,0,0,0,Olly Stone,England
+Ducks,2,0,1,0,Olly Stone,England
+50s,0,0,0,0,Olly Stone,England
+100s,0,0,0,0,Olly Stone,England
+200s,0,0,0,0,Olly Stone,England
+300s,0,0,0,0,Olly Stone,England
+400s,0,0,0,0,Olly Stone,England
+Matches,0,30,35,5,Reece Topley,England
+Innings,0,14,10,1,Reece Topley,England
+Runs,0,35,17,3,Reece Topley,England
+Balls,0,70,20,6,Reece Topley,England
+Highest,0,15,9,3,Reece Topley,England
+Average,0,11.67,8.5,0,Reece Topley,England
+SR,0,50,85,50,Reece Topley,England
+Not Out,0,11,8,1,Reece Topley,England
+Fours,0,3,1,0,Reece Topley,England
+Sixes,0,1,0,0,Reece Topley,England
+Ducks,0,1,1,0,Reece Topley,England
+50s,0,0,0,0,Reece Topley,England
+100s,0,0,0,0,Reece Topley,England
+200s,0,0,0,0,Reece Topley,England
+300s,0,0,0,0,Reece Topley,England
+400s,0,0,0,0,Reece Topley,England
+Matches,8,35,95,34,Chris Jordan,England
+Innings,11,24,57,13,Chris Jordan,England
+Runs,180,184,439,81,Chris Jordan,England
+Balls,320,211,340,77,Chris Jordan,England
+Highest,35,38,36,30,Chris Jordan,England
+Average,18,12.27,13.72,8.1,Chris Jordan,England
+SR,56.25,87.21,129.12,105.2,Chris Jordan,England
+Not Out,1,9,25,3,Chris Jordan,England
+Fours,24,12,31,3,Chris Jordan,England
+Sixes,1,5,21,3,Chris Jordan,England
+Ducks,0,3,3,1,Chris Jordan,England
+50s,0,0,0,0,Chris Jordan,England
+100s,0,0,0,0,Chris Jordan,England
+200s,0,0,0,0,Chris Jordan,England
+300s,0,0,0,0,Chris Jordan,England
+400s,0,0,0,0,Chris Jordan,England
+Matches,69,143,50,148,Faf du Plessis,South Africa
+Innings,118,136,50,141,Faf du Plessis,South Africa
+Runs,4163,5507,1528,4652,Faf du Plessis,South Africa
+Balls,8986,6218,1137,3404,Faf du Plessis,South Africa
+Highest,199,185,119,96,Faf du Plessis,South Africa
+Average,40.03,46.67,35.53,35.78,Faf du Plessis,South Africa
+SR,46.33,88.57,134.39,136.67,Faf du Plessis,South Africa
+Not Out,14,18,7,11,Faf du Plessis,South Africa
+Fours,516,495,140,427,Faf du Plessis,South Africa
+Sixes,21,66,50,171,Faf du Plessis,South Africa
+Ducks,9,3,0,7,Faf du Plessis,South Africa
+50s,21,35,10,38,Faf du Plessis,South Africa
+100s,10,12,1,0,Faf du Plessis,South Africa
+200s,0,0,0,0,Faf du Plessis,South Africa
+300s,0,0,0,0,Faf du Plessis,South Africa
+400s,0,0,0,0,Faf du Plessis,South Africa
+Matches,0,178,130,137,David Miller,South Africa
+Innings,0,154,114,131,David Miller,South Africa
+Runs,0,4611,2593,3021,David Miller,South Africa
+Balls,0,4447,1842,2173,David Miller,South Africa
+Highest,0,139,106,101,David Miller,South Africa
+Average,0,42.3,33.24,35.96,David Miller,South Africa
+SR,0,103.69,140.78,139.03,David Miller,South Africa
+Not Out,0,45,36,47,David Miller,South Africa
+Fours,0,342,168,216,David Miller,South Africa
+Sixes,0,144,130,137,David Miller,South Africa
+Ducks,0,9,3,4,David Miller,South Africa
+50s,0,24,8,13,David Miller,South Africa
+100s,0,7,2,1,David Miller,South Africa
+200s,0,0,0,0,David Miller,South Africa
+300s,0,0,0,0,David Miller,South Africa
+400s,0,0,0,0,David Miller,South Africa
+Matches,45,77,57,51,Aiden Markram,South Africa
+Innings,82,73,53,49,Aiden Markram,South Africa
+Runs,2857,2371,1367,1203,Aiden Markram,South Africa
+Balls,4803,2436,950,905,Aiden Markram,South Africa
+Highest,152,175,70,68,Aiden Markram,South Africa
+Average,35.71,37.05,30.38,30.08,Aiden Markram,South Africa
+SR,59.49,97.34,143.9,132.93,Aiden Markram,South Africa
+Not Out,2,9,8,9,Aiden Markram,South Africa
+Fours,412,236,123,94,Aiden Markram,South Africa
+Sixes,14,55,56,44,Aiden Markram,South Africa
+Ducks,6,4,2,2,Aiden Markram,South Africa
+50s,13,12,9,7,Aiden Markram,South Africa
+100s,7,3,0,0,Aiden Markram,South Africa
+200s,0,0,0,0,Aiden Markram,South Africa
+300s,0,0,0,0,Aiden Markram,South Africa
+400s,0,0,0,0,Aiden Markram,South Africa
+Matches,18,71,50,3,Rassie van der Dussen,South Africa
+Innings,32,66,46,3,Rassie van der Dussen,South Africa
+Runs,905,2657,1257,22,Rassie van der Dussen,South Africa
+Balls,2221,3053,971,24,Rassie van der Dussen,South Africa
+Highest,98,134,94,12,Rassie van der Dussen,South Africa
+Average,30.17,50.13,33.97,11,Rassie van der Dussen,South Africa
+SR,40.75,87.03,129.46,91.67,Rassie van der Dussen,South Africa
+Not Out,2,13,9,1,Rassie van der Dussen,South Africa
+Fours,101,206,73,2,Rassie van der Dussen,South Africa
+Sixes,4,50,60,0,Rassie van der Dussen,South Africa
+Ducks,3,3,2,0,Rassie van der Dussen,South Africa
+50s,6,17,9,0,Rassie van der Dussen,South Africa
+100s,0,6,0,0,Rassie van der Dussen,South Africa
+200s,0,0,0,0,Rassie van der Dussen,South Africa
+300s,0,0,0,0,Rassie van der Dussen,South Africa
+400s,0,0,0,0,Rassie van der Dussen,South Africa
+Matches,46,199,81,83,Jean,South Africa
+Innings,74,179,75,77,Jean,South Africa
+Runs,2103,5117,1934,2029,Jean,South Africa
+Balls,4544,6050,1532,1636,Jean,South Africa
+Highest,166,150,96,78,Jean,South Africa
+Average,32.86,36.81,38.68,39.78,Jean,South Africa
+SR,46.29,84.58,126.25,124.03,Jean,South Africa
+Not Out,10,40,25,26,Jean,South Africa
+Fours,251,347,138,126,Jean,South Africa
+Sixes,13,75,71,79,Jean,South Africa
+Ducks,9,7,6,1,Jean,South Africa
+50s,8,27,11,14,Jean,South Africa
+100s,6,4,0,0,Jean,South Africa
+200s,0,0,0,0,Jean,South Africa
+300s,0,0,0,0,Jean,South Africa
+400s,0,0,0,0,Jean,South Africa
+Matches,4,85,42,0,Andile Phehlukwayo,South Africa
+Innings,4,57,25,0,Andile Phehlukwayo,South Africa
+Runs,19,884,166,0,Andile Phehlukwayo,South Africa
+Balls,39,1027,153,0,Andile Phehlukwayo,South Africa
+Highest,9,69,27,0,Andile Phehlukwayo,South Africa
+Average,9.5,23.26,9.22,0,Andile Phehlukwayo,South Africa
+SR,48.72,86.08,108.5,0,Andile Phehlukwayo,South Africa
+Not Out,2,19,7,0,Andile Phehlukwayo,South Africa
+Fours,3,77,16,0,Andile Phehlukwayo,South Africa
+Sixes,0,36,5,0,Andile Phehlukwayo,South Africa
+Ducks,1,5,7,0,Andile Phehlukwayo,South Africa
+50s,0,2,0,0,Andile Phehlukwayo,South Africa
+100s,0,0,0,0,Andile Phehlukwayo,South Africa
+200s,0,0,0,0,Andile Phehlukwayo,South Africa
+300s,0,0,0,0,Andile Phehlukwayo,South Africa
+400s,0,0,0,0,Andile Phehlukwayo,South Africa
+Matches,3,27,30,7,Dwaine Pretorius,South Africa
+Innings,6,13,17,5,Dwaine Pretorius,South Africa
+Runs,83,192,261,44,Dwaine Pretorius,South Africa
+Balls,163,224,159,28,Dwaine Pretorius,South Africa
+Highest,37,50,77,22,Dwaine Pretorius,South Africa
+Average,13.83,16,21.75,11,Dwaine Pretorius,South Africa
+SR,50.93,85.72,164.16,157.15,Dwaine Pretorius,South Africa
+Not Out,0,1,5,1,Dwaine Pretorius,South Africa
+Fours,13,14,22,3,Dwaine Pretorius,South Africa
+Sixes,1,5,15,3,Dwaine Pretorius,South Africa
+Ducks,1,1,2,1,Dwaine Pretorius,South Africa
+50s,0,1,1,0,Dwaine Pretorius,South Africa
+100s,0,0,0,0,Dwaine Pretorius,South Africa
+200s,0,0,0,0,Dwaine Pretorius,South Africa
+300s,0,0,0,0,Dwaine Pretorius,South Africa
+400s,0,0,0,0,Dwaine Pretorius,South Africa
+Matches,4,42,23,81,Chris Morris,South Africa
+Innings,7,27,13,51,Chris Morris,South Africa
+Runs,173,468,133,618,Chris Morris,South Africa
+Balls,362,465,102,398,Chris Morris,South Africa
+Highest,69,62,55,82,Chris Morris,South Africa
+Average,24.71,20.35,14.78,22.07,Chris Morris,South Africa
+SR,47.8,100.65,130.4,155.28,Chris Morris,South Africa
+Not Out,0,4,4,23,Chris Morris,South Africa
+Fours,25,36,12,41,Chris Morris,South Africa
+Sixes,0,15,5,35,Chris Morris,South Africa
+Ducks,0,0,3,9,Chris Morris,South Africa
+50s,1,1,1,2,Chris Morris,South Africa
+100s,0,0,0,0,Chris Morris,South Africa
+200s,0,0,0,0,Chris Morris,South Africa
+300s,0,0,0,0,Chris Morris,South Africa
+400s,0,0,0,0,Chris Morris,South Africa
+Matches,54,155,92,114,Quinton de Kock,South Africa
+Innings,91,155,91,114,Quinton de Kock,South Africa
+Runs,3300,6770,2584,3300,Quinton de Kock,South Africa
+Balls,4652,7005,1868,2456,Quinton de Kock,South Africa
+Highest,141,178,100,140,Quinton de Kock,South Africa
+Average,38.82,45.74,31.51,30.84,Quinton de Kock,South Africa
+SR,70.94,96.65,138.33,134.37,Quinton de Kock,South Africa
+Not Out,6,7,9,7,Quinton de Kock,South Africa
+Fours,411,771,264,325,Quinton de Kock,South Africa
+Sixes,33,118,103,134,Quinton de Kock,South Africa
+Ducks,7,4,7,4,Quinton de Kock,South Africa
+50s,22,30,16,24,Quinton de Kock,South Africa
+100s,6,21,1,2,Quinton de Kock,South Africa
+200s,0,0,0,0,Quinton de Kock,South Africa
+300s,0,0,0,0,Quinton de Kock,South Africa
+400s,0,0,0,0,Quinton de Kock,South Africa
+Matches,20,107,38,59,Imran Tahir,South Africa
+Innings,23,36,4,9,Imran Tahir,South Africa
+Runs,130,157,19,33,Imran Tahir,South Africa
+Balls,235,225,18,37,Imran Tahir,South Africa
+Highest,29,29,9,13,Imran Tahir,South Africa
+Average,9.29,7.85,19,8.25,Imran Tahir,South Africa
+SR,55.32,69.78,105.56,89.19,Imran Tahir,South Africa
+Not Out,9,16,3,5,Imran Tahir,South Africa
+Fours,18,21,1,5,Imran Tahir,South Africa
+Sixes,1,1,1,0,Imran Tahir,South Africa
+Ducks,2,6,0,0,Imran Tahir,South Africa
+50s,0,0,0,0,Imran Tahir,South Africa
+100s,0,0,0,0,Imran Tahir,South Africa
+200s,0,0,0,0,Imran Tahir,South Africa
+300s,0,0,0,0,Imran Tahir,South Africa
+400s,0,0,0,0,Imran Tahir,South Africa
+Matches,70,106,65,82,Kagiso Rabada,South Africa
+Innings,106,45,24,32,Kagiso Rabada,South Africa
+Runs,1030,401,156,213,Kagiso Rabada,South Africa
+Balls,2053,507,141,198,Kagiso Rabada,South Africa
+Highest,47,31,22,44,Kagiso Rabada,South Africa
+Average,11.98,14.85,17.33,12.53,Kagiso Rabada,South Africa
+SR,50.18,79.1,110.64,107.58,Kagiso Rabada,South Africa
+Not Out,20,18,15,15,Kagiso Rabada,South Africa
+Fours,135,30,14,16,Kagiso Rabada,South Africa
+Sixes,16,12,5,9,Kagiso Rabada,South Africa
+Ducks,20,2,4,4,Kagiso Rabada,South Africa
+50s,0,0,0,0,Kagiso Rabada,South Africa
+100s,0,0,0,0,Kagiso Rabada,South Africa
+200s,0,0,0,0,Kagiso Rabada,South Africa
+300s,0,0,0,0,Kagiso Rabada,South Africa
+400s,0,0,0,0,Kagiso Rabada,South Africa
+Matches,19,67,43,14,Lungi Ngidi,South Africa
+Innings,30,27,13,0,Lungi Ngidi,South Africa
+Runs,97,124,41,0,Lungi Ngidi,South Africa
+Balls,229,236,52,0,Lungi Ngidi,South Africa
+Highest,19,20,13,0,Lungi Ngidi,South Africa
+Average,4.85,11.27,8.2,0,Lungi Ngidi,South Africa
+SR,42.36,52.55,78.85,0,Lungi Ngidi,South Africa
+Not Out,10,16,8,0,Lungi Ngidi,South Africa
+Fours,14,8,4,0,Lungi Ngidi,South Africa
+Sixes,1,6,0,0,Lungi Ngidi,South Africa
+Ducks,8,5,2,0,Lungi Ngidi,South Africa
+50s,0,0,0,0,Lungi Ngidi,South Africa
+100s,0,0,0,0,Lungi Ngidi,South Africa
+200s,0,0,0,0,Lungi Ngidi,South Africa
+300s,0,0,0,0,Lungi Ngidi,South Africa
+400s,0,0,0,0,Lungi Ngidi,South Africa
+Matches,2,55,70,5,Tabraiz Shamsi,South Africa
+Innings,4,15,14,1,Tabraiz Shamsi,South Africa
+Runs,20,39,10,2,Tabraiz Shamsi,South Africa
+Balls,48,69,27,4,Tabraiz Shamsi,South Africa
+Highest,18,11,4,2,Tabraiz Shamsi,South Africa
+Average,20,9.75,2,0,Tabraiz Shamsi,South Africa
+SR,41.67,56.53,37.04,50,Tabraiz Shamsi,South Africa
+Not Out,3,11,9,1,Tabraiz Shamsi,South Africa
+Fours,2,4,0,0,Tabraiz Shamsi,South Africa
+Sixes,0,0,0,0,Tabraiz Shamsi,South Africa
+Ducks,0,3,5,0,Tabraiz Shamsi,South Africa
+50s,0,0,0,0,Tabraiz Shamsi,South Africa
+100s,0,0,0,0,Tabraiz Shamsi,South Africa
+200s,0,0,0,0,Tabraiz Shamsi,South Africa
+300s,0,0,0,0,Tabraiz Shamsi,South Africa
+400s,0,0,0,0,Tabraiz Shamsi,South Africa
+Matches,1,10,19,7,Beuran Hendricks,South Africa
+Innings,2,4,5,3,Beuran Hendricks,South Africa
+Runs,9,24,18,1,Beuran Hendricks,South Africa
+Balls,18,45,23,3,Beuran Hendricks,South Africa
+Highest,5,18,12,1,Beuran Hendricks,South Africa
+Average,9,8,6,1,Beuran Hendricks,South Africa
+SR,50,53.34,78.27,33.34,Beuran Hendricks,South Africa
+Not Out,1,1,2,2,Beuran Hendricks,South Africa
+Fours,1,2,0,0,Beuran Hendricks,South Africa
+Sixes,0,0,1,0,Beuran Hendricks,South Africa
+Ducks,0,0,1,1,Beuran Hendricks,South Africa
+50s,0,0,0,0,Beuran Hendricks,South Africa
+100s,0,0,0,0,Beuran Hendricks,South Africa
+200s,0,0,0,0,Beuran Hendricks,South Africa
+300s,0,0,0,0,Beuran Hendricks,South Africa
+400s,0,0,0,0,Beuran Hendricks,South Africa
+Matches,56,122,26,1,Darren Bravo,West Indies
+Innings,102,117,22,1,Darren Bravo,West Indies
+Runs,3538,3109,405,6,Darren Bravo,West Indies
+Balls,7886,4434,379,5,Darren Bravo,West Indies
+Highest,218,124,43,6,Darren Bravo,West Indies
+Average,36.1,29.61,21.32,0,Darren Bravo,West Indies
+SR,44.87,70.12,106.87,120,Darren Bravo,West Indies
+Not Out,4,12,3,1,Darren Bravo,West Indies
+Fours,405,252,32,1,Darren Bravo,West Indies
+Sixes,41,75,14,0,Darren Bravo,West Indies
+Ducks,5,9,3,0,Darren Bravo,West Indies
+50s,17,18,0,0,Darren Bravo,West Indies
+100s,8,4,0,0,Darren Bravo,West Indies
+200s,1,0,0,0,Darren Bravo,West Indies
+300s,0,0,0,0,Darren Bravo,West Indies
+400s,0,0,0,0,Darren Bravo,West Indies
+Matches,103,301,79,142,Chris Gayle,West Indies
+Innings,182,294,75,141,Chris Gayle,West Indies
+Runs,7215,10480,1899,4965,Chris Gayle,West Indies
+Balls,11970,12019,1381,3333,Chris Gayle,West Indies
+Highest,333,215,117,175,Chris Gayle,West Indies
+Average,42.19,37.7,27.93,39.72,Chris Gayle,West Indies
+SR,60.28,87.2,137.51,148.97,Chris Gayle,West Indies
+Not Out,11,16,7,16,Chris Gayle,West Indies
+Fours,1046,1128,158,405,Chris Gayle,West Indies
+Sixes,98,331,124,357,Chris Gayle,West Indies
+Ducks,15,25,4,8,Chris Gayle,West Indies
+50s,37,54,14,31,Chris Gayle,West Indies
+100s,15,25,2,6,Chris Gayle,West Indies
+200s,3,1,0,0,Chris Gayle,West Indies
+300s,2,0,0,0,Chris Gayle,West Indies
+400s,0,0,0,0,Chris Gayle,West Indies
+Matches,0,63,61,27,Evin Lewis,West Indies
+Innings,0,60,60,26,Evin Lewis,West Indies
+Runs,0,2131,1643,654,Evin Lewis,West Indies
+Balls,0,2472,1081,477,Evin Lewis,West Indies
+Highest,0,176,125,65,Evin Lewis,West Indies
+Average,0,38.05,28.82,27.25,Evin Lewis,West Indies
+SR,0,86.21,151.99,137.11,Evin Lewis,West Indies
+Not Out,0,4,3,2,Evin Lewis,West Indies
+Fours,0,206,125,62,Evin Lewis,West Indies
+Sixes,0,69,124,36,Evin Lewis,West Indies
+Ducks,0,3,5,2,Evin Lewis,West Indies
+50s,0,11,12,4,Evin Lewis,West Indies
+100s,0,5,2,0,Evin Lewis,West Indies
+200s,0,0,0,0,Evin Lewis,West Indies
+300s,0,0,0,0,Evin Lewis,West Indies
+400s,0,0,0,0,Evin Lewis,West Indies
+Matches,16,56,62,79,Shimron Hetmyer,West Indies
+Innings,30,51,52,73,Shimron Hetmyer,West Indies
+Runs,838,1539,942,1407,Shimron Hetmyer,West Indies
+Balls,1138,1460,795,920,Shimron Hetmyer,West Indies
+Highest,93,139,81,75,Shimron Hetmyer,West Indies
+Average,27.93,32.06,20.04,30.59,Shimron Hetmyer,West Indies
+SR,73.64,105.42,118.5,152.94,Shimron Hetmyer,West Indies
+Not Out,0,3,5,27,Shimron Hetmyer,West Indies
+Fours,85,117,63,87,Shimron Hetmyer,West Indies
+Sixes,27,56,47,91,Shimron Hetmyer,West Indies
+Ducks,0,3,4,2,Shimron Hetmyer,West Indies
+50s,5,4,5,5,Shimron Hetmyer,West Indies
+100s,0,5,0,0,Shimron Hetmyer,West Indies
+200s,0,0,0,0,Shimron Hetmyer,West Indies
+300s,0,0,0,0,Shimron Hetmyer,West Indies
+400s,0,0,0,0,Shimron Hetmyer,West Indies
+Matches,0,20,39,5,Fabian Allen,West Indies
+Innings,0,16,27,4,Fabian Allen,West Indies
+Runs,0,200,272,14,Fabian Allen,West Indies
+Balls,0,203,199,19,Fabian Allen,West Indies
+Highest,0,51,34,8,Fabian Allen,West Indies
+Average,0,15.38,15.11,7,Fabian Allen,West Indies
+SR,0,98.53,136.69,73.69,Fabian Allen,West Indies
+Not Out,0,3,9,2,Fabian Allen,West Indies
+Fours,0,18,16,1,Fabian Allen,West Indies
+Sixes,0,8,21,0,Fabian Allen,West Indies
+Ducks,0,2,5,0,Fabian Allen,West Indies
+50s,0,1,0,0,Fabian Allen,West Indies
+100s,0,0,0,0,Fabian Allen,West Indies
+200s,0,0,0,0,Fabian Allen,West Indies
+300s,0,0,0,0,Fabian Allen,West Indies
+400s,0,0,0,0,Fabian Allen,West Indies
+Matches,69,138,63,46,Jason Holder,West Indies
+Innings,123,114,44,27,Jason Holder,West Indies
+Runs,3073,2237,491,259,Jason Holder,West Indies
+Balls,5595,2479,380,210,Jason Holder,West Indies
+Highest,202,99,38,47,Jason Holder,West Indies
+Average,29.83,24.86,16.37,12.33,Jason Holder,West Indies
+SR,54.93,90.24,129.22,123.34,Jason Holder,West Indies
+Not Out,20,24,14,6,Jason Holder,West Indies
+Fours,359,160,31,13,Jason Holder,West Indies
+Sixes,55,69,27,18,Jason Holder,West Indies
+Ducks,11,11,7,2,Jason Holder,West Indies
+50s,14,12,0,0,Jason Holder,West Indies
+100s,3,0,0,0,Jason Holder,West Indies
+200s,1,0,0,0,Jason Holder,West Indies
+300s,0,0,0,0,Jason Holder,West Indies
+400s,0,0,0,0,Jason Holder,West Indies
+Matches,1,56,83,133,Andre Russell,West Indies
+Innings,1,47,72,110,Andre Russell,West Indies
+Runs,2,1034,1063,2518,Andre Russell,West Indies
+Balls,9,794,648,1451,Andre Russell,West Indies
+Highest,2,92,71,88,Andre Russell,West Indies
+Average,2,27.21,22.15,27.98,Andre Russell,West Indies
+SR,22.23,130.23,164.05,173.54,Andre Russell,West Indies
+Not Out,0,9,24,20,Andre Russell,West Indies
+Fours,0,94,63,173,Andre Russell,West Indies
+Sixes,0,57,89,212,Andre Russell,West Indies
+Ducks,0,6,9,5,Andre Russell,West Indies
+50s,0,4,3,11,Andre Russell,West Indies
+100s,0,0,0,0,Andre Russell,West Indies
+200s,0,0,0,0,Andre Russell,West Indies
+300s,0,0,0,0,Andre Russell,West Indies
+400s,0,0,0,0,Andre Russell,West Indies
+Matches,3,44,41,16,Carlos Brathwaite,West Indies
+Innings,5,37,27,14,Carlos Brathwaite,West Indies
+Runs,181,559,310,181,Carlos Brathwaite,West Indies
+Balls,284,614,274,111,Carlos Brathwaite,West Indies
+Highest,69,101,37,43,Carlos Brathwaite,West Indies
+Average,45.25,16.44,14.76,13.92,Carlos Brathwaite,West Indies
+SR,63.74,91.05,113.14,163.07,Carlos Brathwaite,West Indies
+Not Out,1,3,6,1,Carlos Brathwaite,West Indies
+Fours,12,38,13,10,Carlos Brathwaite,West Indies
+Sixes,7,24,22,16,Carlos Brathwaite,West Indies
+Ducks,1,2,3,0,Carlos Brathwaite,West Indies
+50s,3,1,0,0,Carlos Brathwaite,West Indies
+100s,0,1,0,0,Carlos Brathwaite,West Indies
+200s,0,0,0,0,Carlos Brathwaite,West Indies
+300s,0,0,0,0,Carlos Brathwaite,West Indies
+400s,0,0,0,0,Carlos Brathwaite,West Indies
+Matches,38,133,39,9,Shai Hope,West Indies
+Innings,72,128,37,9,Shai Hope,West Indies
+Runs,1726,5443,847,183,Shai Hope,West Indies
+Balls,4124,6981,612,122,Shai Hope,West Indies
+Highest,147,170,82,41,Shai Hope,West Indies
+Average,25.01,49.48,26.47,22.88,Shai Hope,West Indies
+SR,41.86,77.97,138.4,150,Shai Hope,West Indies
+Not Out,3,18,5,1,Shai Hope,West Indies
+Fours,199,426,69,12,Shai Hope,West Indies
+Sixes,6,102,44,12,Shai Hope,West Indies
+Ducks,2,5,3,0,Shai Hope,West Indies
+50s,5,26,5,0,Shai Hope,West Indies
+100s,2,17,0,0,Shai Hope,West Indies
+200s,0,0,0,0,Shai Hope,West Indies
+300s,0,0,0,0,Shai Hope,West Indies
+400s,0,0,0,0,Shai Hope,West Indies
+Matches,0,61,106,83,Nicholas Pooran,West Indies
+Innings,0,58,97,80,Nicholas Pooran,West Indies
+Runs,0,1983,2275,2126,Nicholas Pooran,West Indies
+Balls,0,2000,1668,1261,Nicholas Pooran,West Indies
+Highest,0,118,98,87,Nicholas Pooran,West Indies
+Average,0,39.66,26.15,34.85,Nicholas Pooran,West Indies
+SR,0,99.15,136.4,168.6,Nicholas Pooran,West Indies
+Not Out,0,8,10,19,Nicholas Pooran,West Indies
+Fours,0,157,152,140,Nicholas Pooran,West Indies
+Sixes,0,80,149,158,Nicholas Pooran,West Indies
+Ducks,0,3,3,9,Nicholas Pooran,West Indies
+50s,0,11,13,13,Nicholas Pooran,West Indies
+100s,0,3,0,0,Nicholas Pooran,West Indies
+200s,0,0,0,0,Nicholas Pooran,West Indies
+300s,0,0,0,0,Nicholas Pooran,West Indies
+400s,0,0,0,0,Nicholas Pooran,West Indies
+Matches,2,38,45,6,Sheldon Cottrell,West Indies
+Innings,4,19,10,1,Sheldon Cottrell,West Indies
+Runs,11,88,18,0,Sheldon Cottrell,West Indies
+Balls,24,130,29,2,Sheldon Cottrell,West Indies
+Highest,5,17,4,0,Sheldon Cottrell,West Indies
+Average,2.75,11,4.5,0,Sheldon Cottrell,West Indies
+SR,45.84,67.7,62.07,0,Sheldon Cottrell,West Indies
+Not Out,0,11,6,0,Sheldon Cottrell,West Indies
+Fours,1,6,2,0,Sheldon Cottrell,West Indies
+Sixes,0,4,0,0,Sheldon Cottrell,West Indies
+Ducks,1,2,1,1,Sheldon Cottrell,West Indies
+50s,0,0,0,0,Sheldon Cottrell,West Indies
+100s,0,0,0,0,Sheldon Cottrell,West Indies
+200s,0,0,0,0,Sheldon Cottrell,West Indies
+300s,0,0,0,0,Sheldon Cottrell,West Indies
+400s,0,0,0,0,Sheldon Cottrell,West Indies
+Matches,59,25,2,0,Shannon Gabriel,West Indies
+Innings,88,16,0,0,Shannon Gabriel,West Indies
+Runs,229,24,0,0,Shannon Gabriel,West Indies
+Balls,660,63,0,0,Shannon Gabriel,West Indies
+Highest,20,12,0,0,Shannon Gabriel,West Indies
+Average,4.24,3.43,0,0,Shannon Gabriel,West Indies
+SR,34.7,38.1,0,0,Shannon Gabriel,West Indies
+Not Out,34,9,0,0,Shannon Gabriel,West Indies
+Fours,28,1,0,0,Shannon Gabriel,West Indies
+Sixes,6,0,0,0,Shannon Gabriel,West Indies
+Ducks,23,4,0,0,Shannon Gabriel,West Indies
+50s,0,0,0,0,Shannon Gabriel,West Indies
+100s,0,0,0,0,Shannon Gabriel,West Indies
+200s,0,0,0,0,Shannon Gabriel,West Indies
+300s,0,0,0,0,Shannon Gabriel,West Indies
+400s,0,0,0,0,Shannon Gabriel,West Indies
+Matches,85,95,11,2,Kemar Roach,West Indies
+Innings,136,60,1,1,Kemar Roach,West Indies
+Runs,1286,308,3,10,Kemar Roach,West Indies
+Balls,3426,594,2,9,Kemar Roach,West Indies
+Highest,47,34,3,10,Kemar Roach,West Indies
+Average,11.91,12.83,0,10,Kemar Roach,West Indies
+SR,37.54,51.86,150,111.12,Kemar Roach,West Indies
+Not Out,28,36,1,0,Kemar Roach,West Indies
+Fours,150,24,0,1,Kemar Roach,West Indies
+Sixes,16,6,0,0,Kemar Roach,West Indies
+Ducks,20,9,0,0,Kemar Roach,West Indies
+50s,0,0,0,0,Kemar Roach,West Indies
+100s,0,0,0,0,Kemar Roach,West Indies
+200s,0,0,0,0,Kemar Roach,West Indies
+300s,0,0,0,0,Kemar Roach,West Indies
+400s,0,0,0,0,Kemar Roach,West Indies
+Matches,0,54,13,0,Ashley Nurse,West Indies
+Innings,0,40,8,0,Ashley Nurse,West Indies
+Runs,0,502,85,0,Ashley Nurse,West Indies
+Balls,0,513,71,0,Ashley Nurse,West Indies
+Highest,0,44,20,0,Ashley Nurse,West Indies
+Average,0,19.31,42.5,0,Ashley Nurse,West Indies
+SR,0,97.86,119.72,0,Ashley Nurse,West Indies
+Not Out,0,14,6,0,Ashley Nurse,West Indies
+Fours,0,44,7,0,Ashley Nurse,West Indies
+Sixes,0,12,3,0,Ashley Nurse,West Indies
+Ducks,0,2,0,0,Ashley Nurse,West Indies
+50s,0,0,0,0,Ashley Nurse,West Indies
+100s,0,0,0,0,Ashley Nurse,West Indies
+200s,0,0,0,0,Ashley Nurse,West Indies
+300s,0,0,0,0,Ashley Nurse,West Indies
+400s,0,0,0,0,Ashley Nurse,West Indies
+Matches,0,25,21,4,Oshane Thomas,West Indies
+Innings,0,14,7,0,Oshane Thomas,West Indies
+Runs,0,22,9,0,Oshane Thomas,West Indies
+Balls,0,73,15,0,Oshane Thomas,West Indies
+Highest,0,7,8,0,Oshane Thomas,West Indies
+Average,0,4.4,2.25,0,Oshane Thomas,West Indies
+SR,0,30.14,60,0,Oshane Thomas,West Indies
+Not Out,0,9,3,0,Oshane Thomas,West Indies
+Fours,0,2,2,0,Oshane Thomas,West Indies
+Sixes,0,0,0,0,Oshane Thomas,West Indies
+Ducks,0,3,3,0,Oshane Thomas,West Indies
+50s,0,0,0,0,Oshane Thomas,West Indies
+100s,0,0,0,0,Oshane Thomas,West Indies
+200s,0,0,0,0,Oshane Thomas,West Indies
+300s,0,0,0,0,Oshane Thomas,West Indies
+400s,0,0,0,0,Oshane Thomas,West Indies
+Matches,23,128,71,0,Craig Ervine,Zimbabwe
+Innings,46,124,70,0,Craig Ervine,Zimbabwe
+Runs,1598,3600,1449,0,Craig Ervine,Zimbabwe
+Balls,3169,4695,1370,0,Craig Ervine,Zimbabwe
+Highest,160,130,70,0,Craig Ervine,Zimbabwe
+Average,37.16,33.03,21.95,0,Craig Ervine,Zimbabwe
+SR,50.43,76.68,105.77,0,Craig Ervine,Zimbabwe
+Not Out,3,15,4,0,Craig Ervine,Zimbabwe
+Fours,170,350,143,0,Craig Ervine,Zimbabwe
+Sixes,14,47,30,0,Craig Ervine,Zimbabwe
+Ducks,2,11,5,0,Craig Ervine,Zimbabwe
+50s,7,23,9,0,Craig Ervine,Zimbabwe
+100s,4,4,0,0,Craig Ervine,Zimbabwe
+200s,0,0,0,0,Craig Ervine,Zimbabwe
+300s,0,0,0,0,Craig Ervine,Zimbabwe
+400s,0,0,0,0,Craig Ervine,Zimbabwe
+Matches,38,209,65,0,Hamilton Masakadza,Zimbabwe
+Innings,76,208,66,0,Hamilton Masakadza,Zimbabwe
+Runs,2222,5658,1662,0,Hamilton Masakadza,Zimbabwe
+Balls,5008,7728,1418,0,Hamilton Masakadza,Zimbabwe
+Highest,158,178,93,0,Hamilton Masakadza,Zimbabwe
+Average,30.03,27.74,25.97,0,Hamilton Masakadza,Zimbabwe
+SR,44.37,73.22,117.21,0,Hamilton Masakadza,Zimbabwe
+Not Out,2,4,2,0,Hamilton Masakadza,Zimbabwe
+Fours,265,585,151,0,Hamilton Masakadza,Zimbabwe
+Sixes,23,86,65,0,Hamilton Masakadza,Zimbabwe
+Ducks,10,15,1,0,Hamilton Masakadza,Zimbabwe
+50s,8,34,11,0,Hamilton Masakadza,Zimbabwe
+100s,5,5,0,0,Hamilton Masakadza,Zimbabwe
+200s,0,0,0,0,Hamilton Masakadza,Zimbabwe
+300s,0,0,0,0,Hamilton Masakadza,Zimbabwe
+400s,0,0,0,0,Hamilton Masakadza,Zimbabwe
+Matches,18,151,105,9,Sikandar Raza,Zimbabwe
+Innings,35,142,100,9,Sikandar Raza,Zimbabwe
+Runs,1286,4325,2403,182,Sikandar Raza,Zimbabwe
+Balls,2339,5044,1766,136,Sikandar Raza,Zimbabwe
+Highest,127,141,133,57,Sikandar Raza,Zimbabwe
+Average,36.74,36.04,25.84,26,Sikandar Raza,Zimbabwe
+SR,54.99,85.75,136.08,133.83,Sikandar Raza,Zimbabwe
+Not Out,0,22,7,2,Sikandar Raza,Zimbabwe
+Fours,126,360,180,12,Sikandar Raza,Zimbabwe
+Sixes,17,105,117,8,Sikandar Raza,Zimbabwe
+Ducks,3,3,8,0,Sikandar Raza,Zimbabwe
+50s,9,22,14,1,Sikandar Raza,Zimbabwe
+100s,1,7,1,0,Sikandar Raza,Zimbabwe
+200s,0,0,0,0,Sikandar Raza,Zimbabwe
+300s,0,0,0,0,Sikandar Raza,Zimbabwe
+400s,0,0,0,0,Sikandar Raza,Zimbabwe
+Matches,17,162,81,0,Sean Williams,Zimbabwe
+Innings,33,157,80,0,Sean Williams,Zimbabwe
+Runs,1363,5140,1691,0,Sean Williams,Zimbabwe
+Balls,2248,5918,1338,0,Sean Williams,Zimbabwe
+Highest,154,174,66,0,Sean Williams,Zimbabwe
+Average,45.43,37.52,23.49,0,Sean Williams,Zimbabwe
+SR,60.64,86.86,126.39,0,Sean Williams,Zimbabwe
+Not Out,3,20,8,0,Sean Williams,Zimbabwe
+Fours,150,462,161,0,Sean Williams,Zimbabwe
+Sixes,10,63,42,0,Sean Williams,Zimbabwe
+Ducks,0,9,6,0,Sean Williams,Zimbabwe
+50s,3,36,11,0,Sean Williams,Zimbabwe
+100s,5,8,0,0,Sean Williams,Zimbabwe
+200s,0,0,0,0,Sean Williams,Zimbabwe
+300s,0,0,0,0,Sean Williams,Zimbabwe
+400s,0,0,0,0,Sean Williams,Zimbabwe
+Matches,2,47,9,0,Solomon Mire,Zimbabwe
+Innings,4,47,8,0,Solomon Mire,Zimbabwe
+Runs,78,955,253,0,Solomon Mire,Zimbabwe
+Balls,135,1191,196,0,Solomon Mire,Zimbabwe
+Highest,47,112,94,0,Solomon Mire,Zimbabwe
+Average,19.5,20.32,31.63,0,Solomon Mire,Zimbabwe
+SR,57.78,80.19,129.09,0,Solomon Mire,Zimbabwe
+Not Out,0,0,0,0,Solomon Mire,Zimbabwe
+Fours,12,93,23,0,Solomon Mire,Zimbabwe
+Sixes,1,24,13,0,Solomon Mire,Zimbabwe
+Ducks,1,4,0,0,Solomon Mire,Zimbabwe
+50s,0,3,2,0,Solomon Mire,Zimbabwe
+100s,0,1,0,0,Solomon Mire,Zimbabwe
+200s,0,0,0,0,Solomon Mire,Zimbabwe
+300s,0,0,0,0,Solomon Mire,Zimbabwe
+400s,0,0,0,0,Solomon Mire,Zimbabwe
+Matches,7,14,3,0,Brian Chari,Zimbabwe
+Innings,14,14,3,0,Brian Chari,Zimbabwe
+Runs,254,186,21,0,Brian Chari,Zimbabwe
+Balls,642,399,31,0,Brian Chari,Zimbabwe
+Highest,80,39,19,0,Brian Chari,Zimbabwe
+Average,18.14,13.29,7,0,Brian Chari,Zimbabwe
+SR,39.57,46.62,67.75,0,Brian Chari,Zimbabwe
+Not Out,0,0,0,0,Brian Chari,Zimbabwe
+Fours,26,12,4,0,Brian Chari,Zimbabwe
+Sixes,6,2,0,0,Brian Chari,Zimbabwe
+Ducks,2,0,1,0,Brian Chari,Zimbabwe
+50s,2,0,0,0,Brian Chari,Zimbabwe
+100s,0,0,0,0,Brian Chari,Zimbabwe
+200s,0,0,0,0,Brian Chari,Zimbabwe
+300s,0,0,0,0,Brian Chari,Zimbabwe
+400s,0,0,0,0,Brian Chari,Zimbabwe
+Matches,4,22,13,0,Timycen Maruma,Zimbabwe
+Innings,7,18,13,0,Timycen Maruma,Zimbabwe
+Runs,68,196,100,0,Timycen Maruma,Zimbabwe
+Balls,186,330,110,0,Timycen Maruma,Zimbabwe
+Highest,41,35,23,0,Timycen Maruma,Zimbabwe
+Average,9.71,11.53,11.11,0,Timycen Maruma,Zimbabwe
+SR,36.56,59.40,90.91,0,Timycen Maruma,Zimbabwe
+Not Out,0,1,4,0,Timycen Maruma,Zimbabwe
+Fours,8,14,6,0,Timycen Maruma,Zimbabwe
+Sixes,0,6,4,0,Timycen Maruma,Zimbabwe
+Ducks,3,1,1,0,Timycen Maruma,Zimbabwe
+50s,0,0,0,0,Timycen Maruma,Zimbabwe
+100s,0,0,0,0,Timycen Maruma,Zimbabwe
+200s,0,0,0,0,Timycen Maruma,Zimbabwe
+300s,0,0,0,0,Timycen Maruma,Zimbabwe
+400s,0,0,0,0,Timycen Maruma,Zimbabwe
+Matches,14,213,56,0,Elton Chigumbura,Zimbabwe
+Innings,27,198,56,0,Elton Chigumbura,Zimbabwe
+Runs,569,4340,893,0,Elton Chigumbura,Zimbabwe
+Balls,1133,5423,637,0,Elton Chigumbura,Zimbabwe
+Highest,88,117,54,0,Elton Chigumbura,Zimbabwe
+Average,21.07,25.23,19,0,Elton Chigumbura,Zimbabwe
+SR,50.23,80.03,140.19,0,Elton Chigumbura,Zimbabwe
+Not Out,0,26,9,0,Elton Chigumbura,Zimbabwe
+Fours,67,343,61,0,Elton Chigumbura,Zimbabwe
+Sixes,6,106,53,0,Elton Chigumbura,Zimbabwe
+Ducks,6,17,6,0,Elton Chigumbura,Zimbabwe
+50s,4,19,3,0,Elton Chigumbura,Zimbabwe
+100s,0,2,0,0,Elton Chigumbura,Zimbabwe
+200s,0,0,0,0,Elton Chigumbura,Zimbabwe
+300s,0,0,0,0,Elton Chigumbura,Zimbabwe
+400s,0,0,0,0,Elton Chigumbura,Zimbabwe
+Matches,22,61,49,0,Regis Chakabva,Zimbabwe
+Innings,43,57,49,0,Regis Chakabva,Zimbabwe
+Runs,1061,1188,682,0,Regis Chakabva,Zimbabwe
+Balls,2615,1751,557,0,Regis Chakabva,Zimbabwe
+Highest,101,102,48,0,Regis Chakabva,Zimbabwe
+Average,27.21,22,14.51,0,Regis Chakabva,Zimbabwe
+SR,40.58,67.85,122.45,0,Regis Chakabva,Zimbabwe
+Not Out,4,3,2,0,Regis Chakabva,Zimbabwe
+Fours,102,93,59,0,Regis Chakabva,Zimbabwe
+Sixes,8,9,27,0,Regis Chakabva,Zimbabwe
+Ducks,3,3,11,0,Regis Chakabva,Zimbabwe
+50s,5,4,0,0,Regis Chakabva,Zimbabwe
+100s,1,1,0,0,Regis Chakabva,Zimbabwe
+200s,0,0,0,0,Regis Chakabva,Zimbabwe
+300s,0,0,0,0,Regis Chakabva,Zimbabwe
+400s,0,0,0,0,Regis Chakabva,Zimbabwe
+Matches,34,205,44,0,Brendan Taylor,Zimbabwe
+Innings,68,203,45,0,Brendan Taylor,Zimbabwe
+Runs,2320,6684,934,0,Brendan Taylor,Zimbabwe
+Balls,4138,8722,790,0,Brendan Taylor,Zimbabwe
+Highest,171,145,75,0,Brendan Taylor,Zimbabwe
+Average,36.25,35.55,23.95,0,Brendan Taylor,Zimbabwe
+SR,56.07,76.64,118.23,0,Brendan Taylor,Zimbabwe
+Not Out,4,15,6,0,Brendan Taylor,Zimbabwe
+Fours,254,599,93,0,Brendan Taylor,Zimbabwe
+Sixes,22,106,24,0,Brendan Taylor,Zimbabwe
+Ducks,3,15,5,0,Brendan Taylor,Zimbabwe
+50s,12,39,6,0,Brendan Taylor,Zimbabwe
+100s,6,11,0,0,Brendan Taylor,Zimbabwe
+200s,0,0,0,0,Brendan Taylor,Zimbabwe
+300s,0,0,0,0,Brendan Taylor,Zimbabwe
+400s,0,0,0,0,Brendan Taylor,Zimbabwe
+Matches,15,49,21,0,Peter Moor,Zimbabwe
+Innings,30,45,19,0,Peter Moor,Zimbabwe
+Runs,734,828,364,0,Peter Moor,Zimbabwe
+Balls,1569,1225,286,0,Peter Moor,Zimbabwe
+Highest,83,58,92,0,Peter Moor,Zimbabwe
+Average,25.31,20.7,24.27,0,Peter Moor,Zimbabwe
+SR,46.79,67.60,127.28,0,Peter Moor,Zimbabwe
+Not Out,1,5,4,0,Peter Moor,Zimbabwe
+Fours,83,48,22,0,Peter Moor,Zimbabwe
+Sixes,7,30,24,0,Peter Moor,Zimbabwe
+Ducks,4,3,0,0,Peter Moor,Zimbabwe
+50s,6,4,1,0,Peter Moor,Zimbabwe
+100s,0,0,0,0,Peter Moor,Zimbabwe
+200s,0,0,0,0,Peter Moor,Zimbabwe
+300s,0,0,0,0,Peter Moor,Zimbabwe
+400s,0,0,0,0,Peter Moor,Zimbabwe
+Matches,9,87,60,0,Tendai Chatara,Zimbabwe
+Innings,18,57,16,0,Tendai Chatara,Zimbabwe
+Runs,94,206,49,0,Tendai Chatara,Zimbabwe
+Balls,201,439,77,0,Tendai Chatara,Zimbabwe
+Highest,22,23,8,0,Tendai Chatara,Zimbabwe
+Average,6.27,6.44,8.17,0,Tendai Chatara,Zimbabwe
+SR,46.77,46.93,63.64,0,Tendai Chatara,Zimbabwe
+Not Out,3,25,10,0,Tendai Chatara,Zimbabwe
+Fours,15,17,2,0,Tendai Chatara,Zimbabwe
+Sixes,1,2,0,0,Tendai Chatara,Zimbabwe
+Ducks,6,9,2,0,Tendai Chatara,Zimbabwe
+50s,0,0,0,0,Tendai Chatara,Zimbabwe
+100s,0,0,0,0,Tendai Chatara,Zimbabwe
+200s,0,0,0,0,Tendai Chatara,Zimbabwe
+300s,0,0,0,0,Tendai Chatara,Zimbabwe
+400s,0,0,0,0,Tendai Chatara,Zimbabwe
+Matches,16,38,23,0,Donald Tiripano,Zimbabwe
+Innings,31,29,16,0,Donald Tiripano,Zimbabwe
+Runs,531,364,157,0,Donald Tiripano,Zimbabwe
+Balls,1631,549,158,0,Donald Tiripano,Zimbabwe
+Highest,95,55,28,0,Donald Tiripano,Zimbabwe
+Average,22.13,17.33,13.08,0,Donald Tiripano,Zimbabwe
+SR,32.56,66.31,99.37,0,Donald Tiripano,Zimbabwe
+Not Out,7,8,4,0,Donald Tiripano,Zimbabwe
+Fours,71,30,9,0,Donald Tiripano,Zimbabwe
+Sixes,1,8,6,0,Donald Tiripano,Zimbabwe
+Ducks,5,2,3,0,Donald Tiripano,Zimbabwe
+50s,2,1,0,0,Donald Tiripano,Zimbabwe
+100s,0,0,0,0,Donald Tiripano,Zimbabwe
+200s,0,0,0,0,Donald Tiripano,Zimbabwe
+300s,0,0,0,0,Donald Tiripano,Zimbabwe
+400s,0,0,0,0,Donald Tiripano,Zimbabwe
+Matches,15,84,32,0,Chris Mpofu,Zimbabwe
+Innings,28,41,11,0,Chris Mpofu,Zimbabwe
+Runs,105,57,35,0,Chris Mpofu,Zimbabwe
+Balls,249,210,43,0,Chris Mpofu,Zimbabwe
+Highest,33,9,17,0,Chris Mpofu,Zimbabwe
+Average,5.83,2.85,8.75,0,Chris Mpofu,Zimbabwe
+SR,42.17,27.15,81.40,0,Chris Mpofu,Zimbabwe
+Not Out,10,21,7,0,Chris Mpofu,Zimbabwe
+Fours,7,1,3,0,Chris Mpofu,Zimbabwe
+Sixes,5,0,1,0,Chris Mpofu,Zimbabwe
+Ducks,9,7,3,0,Chris Mpofu,Zimbabwe
+50s,0,0,0,0,Chris Mpofu,Zimbabwe
+100s,0,0,0,0,Chris Mpofu,Zimbabwe
+200s,0,0,0,0,Chris Mpofu,Zimbabwe
+300s,0,0,0,0,Chris Mpofu,Zimbabwe
+400s,0,0,0,0,Chris Mpofu,Zimbabwe
+Matches,13,49,21,0,Kyle Jarvis,Zimbabwe
+Innings,24,33,12,0,Kyle Jarvis,Zimbabwe
+Runs,128,222,55,0,Kyle Jarvis,Zimbabwe
+Balls,384,337,64,0,Kyle Jarvis,Zimbabwe
+Highest,25,37,27,0,Kyle Jarvis,Zimbabwe
+Average,9.14,9.65,7.86,0,Kyle Jarvis,Zimbabwe
+SR,33.34,65.88,85.94,0,Kyle Jarvis,Zimbabwe
+Not Out,10,10,5,0,Kyle Jarvis,Zimbabwe
+Fours,13,22,1,0,Kyle Jarvis,Zimbabwe
+Sixes,1,3,4,0,Kyle Jarvis,Zimbabwe
+Ducks,4,4,4,0,Kyle Jarvis,Zimbabwe
+50s,0,0,0,0,Kyle Jarvis,Zimbabwe
+100s,0,0,0,0,Kyle Jarvis,Zimbabwe
+200s,0,0,0,0,Kyle Jarvis,Zimbabwe
+300s,0,0,0,0,Kyle Jarvis,Zimbabwe
+400s,0,0,0,0,Kyle Jarvis,Zimbabwe
+Matches,5,14,13,0,Brandon Mavuta,Zimbabwe
+Innings,8,10,10,0,Brandon Mavuta,Zimbabwe
+Runs,82,92,65,0,Brandon Mavuta,Zimbabwe
+Balls,208,107,51,0,Brandon Mavuta,Zimbabwe
+Highest,56,28,28,0,Brandon Mavuta,Zimbabwe
+Average,10.25,11.5,16.25,0,Brandon Mavuta,Zimbabwe
+SR,39.43,85.99,127.46,0,Brandon Mavuta,Zimbabwe
+Not Out,0,2,6,0,Brandon Mavuta,Zimbabwe
+Fours,11,10,3,0,Brandon Mavuta,Zimbabwe
+Sixes,1,1,3,0,Brandon Mavuta,Zimbabwe
+Ducks,3,1,1,0,Brandon Mavuta,Zimbabwe
+50s,1,0,0,0,Brandon Mavuta,Zimbabwe
+100s,0,0,0,0,Brandon Mavuta,Zimbabwe
+200s,0,0,0,0,Brandon Mavuta,Zimbabwe
+300s,0,0,0,0,Brandon Mavuta,Zimbabwe
+400s,0,0,0,0,Brandon Mavuta,Zimbabwe
+Matches,5,146,103,92,Aaron Finch,Australia
+Innings,10,142,103,90,Aaron Finch,Australia
+Runs,278,5406,3120,2091,Aaron Finch,Australia
+Balls,618,6163,2189,1631,Aaron Finch,Australia
+Highest,62,153,172,88,Aaron Finch,Australia
+Average,27.8,38.89,34.29,24.89,Aaron Finch,Australia
+SR,44.99,87.72,142.54,128.21,Aaron Finch,Australia
+Not Out,0,3,12,6,Aaron Finch,Australia
+Fours,30,533,309,214,Aaron Finch,Australia
+Sixes,1,129,125,78,Aaron Finch,Australia
+Ducks,1,16,8,8,Aaron Finch,Australia
+50s,2,30,19,15,Aaron Finch,Australia
+100s,0,17,2,0,Aaron Finch,Australia
+200s,0,0,0,0,Aaron Finch,Australia
+300s,0,0,0,0,Aaron Finch,Australia
+400s,0,0,0,0,Aaron Finch,Australia
+Matches,116,170,67,103,Steven Smith,Australia
+Innings,206,154,55,93,Steven Smith,Australia
+Runs,10271,5800,1094,2485,Steven Smith,Australia
+Balls,19176,6669,872,1940,Steven Smith,Australia
+Highest,239,164,90,101,Steven Smith,Australia
+Average,56.75,43.28,24.86,34.51,Steven Smith,Australia
+SR,53.57,86.97,125.46,128.1,Steven Smith,Australia
+Not Out,25,20,11,21,Steven Smith,Australia
+Fours,1116,521,96,225,Steven Smith,Australia
+Sixes,61,58,26,60,Steven Smith,Australia
+Ducks,11,8,1,1,Steven Smith,Australia
+50s,41,35,5,11,Steven Smith,Australia
+100s,36,12,0,1,Steven Smith,Australia
+200s,4,0,0,0,Steven Smith,Australia
+300s,0,0,0,0,Steven Smith,Australia
+400s,0,0,0,0,Steven Smith,Australia
+Matches,112,161,110,184,David Warner,Australia
+Innings,205,159,110,184,David Warner,Australia
+Runs,8786,6932,3277,6565,David Warner,Australia
+Balls,12516,7127,2300,4697,David Warner,Australia
+Highest,335,179,100,126,David Warner,Australia
+Average,44.6,45.01,33.44,40.52,David Warner,Australia
+SR,70.2,97.27,142.48,139.78,David Warner,Australia
+Not Out,8,5,12,22,David Warner,Australia
+Fours,1036,733,338,664,David Warner,Australia
+Sixes,69,130,122,235,David Warner,Australia
+Ducks,13,4,6,11,David Warner,Australia
+50s,37,33,28,62,David Warner,Australia
+100s,26,22,1,4,David Warner,Australia
+200s,3,0,0,0,David Warner,Australia
+300s,1,0,0,0,David Warner,Australia
+400s,0,0,0,0,David Warner,Australia
+Matches,57,63,1,0,Marnus Labuschagne,Australia
+Innings,102,56,1,0,Marnus Labuschagne,Australia
+Runs,4396,1869,2,0,Marnus Labuschagne,Australia
+Balls,8463,2228,4,0,Marnus Labuschagne,Australia
+Highest,215,124,2,0,Marnus Labuschagne,Australia
+Average,46.77,35.94,2,0,Marnus Labuschagne,Australia
+SR,51.95,83.89,50,0,Marnus Labuschagne,Australia
+Not Out,8,4,0,0,Marnus Labuschagne,Australia
+Fours,490,154,0,0,Marnus Labuschagne,Australia
+Sixes,12,10,0,0,Marnus Labuschagne,Australia
+Ducks,4,3,0,0,Marnus Labuschagne,Australia
+50s,23,12,0,0,Marnus Labuschagne,Australia
+100s,11,2,0,0,Marnus Labuschagne,Australia
+200s,2,0,0,0,Marnus Labuschagne,Australia
+300s,0,0,0,0,Marnus Labuschagne,Australia
+400s,0,0,0,0,Marnus Labuschagne,Australia
+Matches,23,6,5,0,Joe Burns,Australia
+Innings,40,6,5,0,Joe Burns,Australia
+Runs,1442,146,211,0,Joe Burns,Australia
+Balls,2557,184,146,0,Joe Burns,Australia
+Highest,180,69,108,0,Joe Burns,Australia
+Average,36.97,24.33,70.33,0,Joe Burns,Australia
+SR,56.4,79.35,144.53,0,Joe Burns,Australia
+Not Out,1,0,2,0,Joe Burns,Australia
+Fours,183,16,18,0,Joe Burns,Australia
+Sixes,14,1,9,0,Joe Burns,Australia
+Ducks,6,1,1,0,Joe Burns,Australia
+50s,7,1,1,0,Joe Burns,Australia
+100s,4,0,1,0,Joe Burns,Australia
+200s,0,0,0,0,Joe Burns,Australia
+300s,0,0,0,0,Joe Burns,Australia
+400s,0,0,0,0,Joe Burns,Australia
+Matches,1,0,0,0,Will Pucovski,Australia
+Innings,2,0,0,0,Will Pucovski,Australia
+Runs,72,0,0,0,Will Pucovski,Australia
+Balls,126,0,0,0,Will Pucovski,Australia
+Highest,62,0,0,0,Will Pucovski,Australia
+Average,36,0,0,0,Will Pucovski,Australia
+SR,57.15,0,0,0,Will Pucovski,Australia
+Not Out,0,0,0,0,Will Pucovski,Australia
+Fours,6,0,0,0,Will Pucovski,Australia
+Sixes,0,0,0,0,Will Pucovski,Australia
+Ducks,0,0,0,0,Will Pucovski,Australia
+50s,1,0,0,0,Will Pucovski,Australia
+100s,0,0,0,0,Will Pucovski,Australia
+200s,0,0,0,0,Will Pucovski,Australia
+300s,0,0,0,0,Will Pucovski,Australia
+400s,0,0,0,0,Will Pucovski,Australia
+Matches,56,73,38,32,Travis Head,Australia
+Innings,93,70,37,32,Travis Head,Australia
+Runs,3719,2767,1093,1014,Travis Head,Australia
+Balls,5472,2638,681,588,Travis Head,Australia
+Highest,175,154,91,102,Travis Head,Australia
+Average,42.75,43.23,33.12,36.21,Travis Head,Australia
+SR,67.97,104.9,160.5,172.45,Travis Head,Australia
+Not Out,6,6,4,4,Travis Head,Australia
+Fours,454,315,114,109,Travis Head,Australia
+Sixes,32,67,53,49,Travis Head,Australia
+Ducks,7,3,2,4,Travis Head,Australia
+50s,18,17,5,7,Travis Head,Australia
+100s,9,6,0,1,Travis Head,Australia
+200s,0,0,0,0,Travis Head,Australia
+300s,0,0,0,0,Travis Head,Australia
+400s,0,0,0,0,Travis Head,Australia
+Matches,7,149,116,140,Glenn Maxwell,Australia
+Innings,14,136,106,134,Glenn Maxwell,Australia
+Runs,339,3990,2664,2812,Glenn Maxwell,Australia
+Balls,570,3149,1719,1809,Glenn Maxwell,Australia
+Highest,104,201,145,95,Glenn Maxwell,Australia
+Average,26.08,33.81,29.93,24.03,Glenn Maxwell,Australia
+SR,59.48,126.71,154.98,155.45,Glenn Maxwell,Australia
+Not Out,1,18,17,17,Glenn Maxwell,Australia
+Fours,33,382,224,236,Glenn Maxwell,Australia
+Sixes,7,155,137,161,Glenn Maxwell,Australia
+Ducks,0,12,4,19,Glenn Maxwell,Australia
+50s,0,23,11,18,Glenn Maxwell,Australia
+100s,1,4,5,0,Glenn Maxwell,Australia
+200s,0,1,0,0,Glenn Maxwell,Australia
+300s,0,0,0,0,Glenn Maxwell,Australia
+400s,0,0,0,0,Glenn Maxwell,Australia
+Matches,0,71,74,101,Marcus Stoinis,Australia
+Innings,0,64,61,92,Marcus Stoinis,Australia
+Runs,0,1495,1245,1925,Marcus Stoinis,Australia
+Balls,0,1591,838,1354,Marcus Stoinis,Australia
+Highest,0,146,78,124,Marcus Stoinis,Australia
+Average,0,26.7,31.92,27.9,Marcus Stoinis,Australia
+SR,0,93.97,148.57,142.18,Marcus Stoinis,Australia
+Not Out,0,8,22,23,Marcus Stoinis,Australia
+Fours,0,134,99,152,Marcus Stoinis,Australia
+Sixes,0,49,63,97,Marcus Stoinis,Australia
+Ducks,0,5,2,9,Marcus Stoinis,Australia
+50s,0,6,5,9,Marcus Stoinis,Australia
+100s,0,1,0,1,Marcus Stoinis,Australia
+200s,0,0,0,0,Marcus Stoinis,Australia
+300s,0,0,0,0,Marcus Stoinis,Australia
+400s,0,0,0,0,Marcus Stoinis,Australia
+Matches,4,16,24,62,Moises Henriques,Australia
+Innings,8,15,21,54,Moises Henriques,Australia
+Runs,164,117,355,1000,Moises Henriques,Australia
+Balls,346,192,285,788,Moises Henriques,Australia
+Highest,81,22,62,74,Moises Henriques,Australia
+Average,23.43,9,20.88,27.78,Moises Henriques,Australia
+SR,47.4,60.94,124.57,126.91,Moises Henriques,Australia
+Not Out,1,2,4,18,Moises Henriques,Australia
+Fours,12,10,17,87,Moises Henriques,Australia
+Sixes,2,0,15,28,Moises Henriques,Australia
+Ducks,2,0,0,2,Moises Henriques,Australia
+50s,2,0,2,5,Moises Henriques,Australia
+100s,0,0,0,0,Moises Henriques,Australia
+200s,0,0,0,0,Moises Henriques,Australia
+300s,0,0,0,0,Moises Henriques,Australia
+400s,0,0,0,0,Moises Henriques,Australia
+Matches,28,28,13,29,Cameron Green,Australia
+Innings,43,24,12,28,Cameron Green,Australia
+Runs,1377,626,263,707,Cameron Green,Australia
+Balls,2835,756,172,460,Cameron Green,Australia
+Highest,174,89,62,100,Cameron Green,Australia
+Average,36.24,36.82,26.3,41.59,Cameron Green,Australia
+SR,48.58,82.81,152.91,153.7,Cameron Green,Australia
+Not Out,5,7,2,11,Cameron Green,Australia
+Fours,152,54,21,62,Cameron Green,Australia
+Sixes,13,12,16,32,Cameron Green,Australia
+Ducks,3,1,0,0,Cameron Green,Australia
+50s,6,2,3,2,Cameron Green,Australia
+100s,2,0,0,1,Cameron Green,Australia
+200s,0,0,0,0,Cameron Green,Australia
+300s,0,0,0,0,Cameron Green,Australia
+400s,0,0,0,0,Cameron Green,Australia
+Matches,5,22,49,0,Ashton Agar,Australia
+Innings,7,18,29,0,Ashton Agar,Australia
+Runs,195,322,279,0,Ashton Agar,Australia
+Balls,351,388,278,0,Ashton Agar,Australia
+Highest,98,48,29,0,Ashton Agar,Australia
+Average,32.5,24.77,11.63,0,Ashton Agar,Australia
+SR,55.56,82.99,100.36,0,Ashton Agar,Australia
+Not Out,1,5,5,0,Ashton Agar,Australia
+Fours,24,28,19,0,Ashton Agar,Australia
+Sixes,3,4,9,0,Ashton Agar,Australia
+Ducks,0,3,4,0,Ashton Agar,Australia
+50s,1,0,0,0,Ashton Agar,Australia
+100s,0,0,0,0,Ashton Agar,Australia
+200s,0,0,0,0,Ashton Agar,Australia
+300s,0,0,0,0,Ashton Agar,Australia
+400s,0,0,0,0,Ashton Agar,Australia
+Matches,0,0,10,16,Daniel Sams,Australia
+Innings,0,0,7,13,Daniel Sams,Australia
+Runs,0,0,106,44,Daniel Sams,Australia
+Balls,0,0,62,44,Daniel Sams,Australia
+Highest,0,0,41,15,Daniel Sams,Australia
+Average,0,0,26.5,4.89,Daniel Sams,Australia
+SR,0,0,170.97,100,Daniel Sams,Australia
+Not Out,0,0,3,4,Daniel Sams,Australia
+Fours,0,0,8,1,Daniel Sams,Australia
+Sixes,0,0,6,3,Daniel Sams,Australia
+Ducks,0,0,0,3,Daniel Sams,Australia
+50s,0,0,0,0,Daniel Sams,Australia
+100s,0,0,0,0,Daniel Sams,Australia
+200s,0,0,0,0,Daniel Sams,Australia
+300s,0,0,0,0,Daniel Sams,Australia
+400s,0,0,0,0,Daniel Sams,Australia
+Matches,2,4,0,1,Michael Neser,Australia
+Innings,3,4,0,0,Michael Neser,Australia
+Runs,56,11,0,0,Michael Neser,Australia
+Balls,72,29,0,0,Michael Neser,Australia
+Highest,35,6,0,0,Michael Neser,Australia
+Average,18.67,2.75,0,0,Michael Neser,Australia
+SR,77.78,37.94,0,0,Michael Neser,Australia
+Not Out,0,0,0,0,Michael Neser,Australia
+Fours,7,0,0,0,Michael Neser,Australia
+Sixes,1,0,0,0,Michael Neser,Australia
+Ducks,0,1,0,0,Michael Neser,Australia
+50s,0,0,0,0,Michael Neser,Australia
+100s,0,0,0,0,Michael Neser,Australia
+200s,0,0,0,0,Michael Neser,Australia
+300s,0,0,0,0,Michael Neser,Australia
+400s,0,0,0,0,Michael Neser,Australia
+Matches,39,80,38,3,Alex Carey,Australia
+Innings,57,72,26,3,Alex Carey,Australia
+Runs,1757,2149,233,32,Alex Carey,Australia
+Balls,2824,2364,215,29,Alex Carey,Australia
+Highest,156,106,37,14,Alex Carey,Australia
+Average,35.14,35.82,11.1,16,Alex Carey,Australia
+SR,62.22,90.91,108.38,110.35,Alex Carey,Australia
+Not Out,7,12,5,1,Alex Carey,Australia
+Fours,186,203,19,0,Alex Carey,Australia
+Sixes,12,24,7,1,Alex Carey,Australia
+Ducks,3,4,2,0,Alex Carey,Australia
+50s,9,12,0,0,Alex Carey,Australia
+100s,2,1,0,0,Alex Carey,Australia
+200s,0,0,0,0,Alex Carey,Australia
+300s,0,0,0,0,Alex Carey,Australia
+400s,0,0,0,0,Alex Carey,Australia
+Matches,36,97,92,15,Matthew Wade,Australia
+Innings,63,83,68,14,Matthew Wade,Australia
+Runs,1613,1867,1202,183,Matthew Wade,Australia
+Balls,3203,2288,896,177,Matthew Wade,Australia
+Highest,117,100,80,35,Matthew Wade,Australia
+Average,29.87,26.3,26.13,13.07,Matthew Wade,Australia
+SR,50.36,81.6,134.16,103.39,Matthew Wade,Australia
+Not Out,9,12,22,0,Matthew Wade,Australia
+Fours,175,129,95,23,Matthew Wade,Australia
+Sixes,12,34,46,2,Matthew Wade,Australia
+Ducks,3,5,1,0,Matthew Wade,Australia
+50s,5,11,3,0,Matthew Wade,Australia
+100s,4,1,0,0,Matthew Wade,Australia
+200s,0,0,0,0,Matthew Wade,Australia
+300s,0,0,0,0,Matthew Wade,Australia
+400s,0,0,0,0,Matthew Wade,Australia
+Matches,35,35,12,2,Tim Paine,Australia
+Innings,57,35,9,2,Tim Paine,Australia
+Runs,1535,890,82,10,Tim Paine,Australia
+Balls,3355,1257,77,26,Tim Paine,Australia
+Highest,92,111,25,8,Tim Paine,Australia
+Average,32.66,27.81,10.25,5,Tim Paine,Australia
+SR,45.76,70.81,106.5,38.47,Tim Paine,Australia
+Not Out,10,3,1,0,Tim Paine,Australia
+Fours,172,96,7,0,Tim Paine,Australia
+Sixes,4,6,3,0,Tim Paine,Australia
+Ducks,4,1,2,0,Tim Paine,Australia
+50s,9,5,0,0,Tim Paine,Australia
+100s,0,1,0,0,Tim Paine,Australia
+200s,0,0,0,0,Tim Paine,Australia
+300s,0,0,0,0,Tim Paine,Australia
+400s,0,0,0,0,Tim Paine,Australia
+Matches,67,90,57,65,Pat Cummins,Australia
+Innings,97,59,27,47,Pat Cummins,Australia
+Runs,1454,537,158,579,Pat Cummins,Australia
+Balls,3155,703,133,384,Pat Cummins,Australia
+Highest,64,37,28,66,Pat Cummins,Australia
+Average,17.31,14.51,10.53,19.97,Pat Cummins,Australia
+SR,46.09,76.39,118.8,150.79,Pat Cummins,Australia
+Not Out,13,22,12,18,Pat Cummins,Australia
+Fours,144,43,11,38,Pat Cummins,Australia
+Sixes,31,12,7,39,Pat Cummins,Australia
+Ducks,13,8,4,4,Pat Cummins,Australia
+50s,3,0,0,3,Pat Cummins,Australia
+100s,0,0,0,0,Pat Cummins,Australia
+200s,0,0,0,0,Pat Cummins,Australia
+300s,0,0,0,0,Pat Cummins,Australia
+400s,0,0,0,0,Pat Cummins,Australia
+Matches,136,29,2,0,Nathan Lyon,Australia
+Innings,171,14,1,0,Nathan Lyon,Australia
+Runs,1595,77,4,0,Nathan Lyon,Australia
+Balls,3110,83,4,0,Nathan Lyon,Australia
+Highest,47,30,4,0,Nathan Lyon,Australia
+Average,12.86,19.25,0,0,Nathan Lyon,Australia
+SR,51.29,92.78,100,0,Nathan Lyon,Australia
+Not Out,47,10,1,0,Nathan Lyon,Australia
+Fours,201,7,0,0,Nathan Lyon,Australia
+Sixes,14,2,0,0,Nathan Lyon,Australia
+Ducks,18,1,0,0,Nathan Lyon,Australia
+50s,0,0,0,0,Nathan Lyon,Australia
+100s,0,0,0,0,Nathan Lyon,Australia
+200s,0,0,0,0,Nathan Lyon,Australia
+300s,0,0,0,0,Nathan Lyon,Australia
+400s,0,0,0,0,Nathan Lyon,Australia
+Matches,96,127,65,46,Mitchell Starc,Australia
+Innings,139,75,21,19,Mitchell Starc,Australia
+Runs,2217,577,98,108,Mitchell Starc,Australia
+Balls,3689,744,100,115,Mitchell Starc,Australia
+Highest,99,52,14,29,Mitchell Starc,Australia
+Average,20.15,12.02,9.8,10.8,Mitchell Starc,Australia
+SR,60.1,77.56,98,93.92,Mitchell Starc,Australia
+Not Out,29,27,11,9,Mitchell Starc,Australia
+Fours,220,42,4,11,Mitchell Starc,Australia
+Sixes,49,14,2,0,Mitchell Starc,Australia
+Ducks,14,12,0,2,Mitchell Starc,Australia
+50s,10,1,0,0,Mitchell Starc,Australia
+100s,0,0,0,0,Mitchell Starc,Australia
+200s,0,0,0,0,Mitchell Starc,Australia
+300s,0,0,0,0,Mitchell Starc,Australia
+400s,0,0,0,0,Mitchell Starc,Australia
+Matches,0,111,95,22,Adam Zampa,Australia
+Innings,0,55,22,5,Adam Zampa,Australia
+Runs,0,362,68,15,Adam Zampa,Australia
+Balls,0,545,76,24,Adam Zampa,Australia
+Highest,0,36,13,7,Adam Zampa,Australia
+Average,0,10.06,5.67,3,Adam Zampa,Australia
+SR,0,66.43,89.48,62.5,Adam Zampa,Australia
+Not Out,0,19,10,0,Adam Zampa,Australia
+Fours,0,31,7,1,Adam Zampa,Australia
+Sixes,0,2,0,0,Adam Zampa,Australia
+Ducks,0,6,3,1,Adam Zampa,Australia
+50s,0,0,0,0,Adam Zampa,Australia
+100s,0,0,0,0,Adam Zampa,Australia
+200s,0,0,0,0,Adam Zampa,Australia
+300s,0,0,0,0,Adam Zampa,Australia
+400s,0,0,0,0,Adam Zampa,Australia
+Matches,0,28,20,3,Sean Abbott,Australia
+Innings,0,21,7,3,Sean Abbott,Australia
+Runs,0,374,25,22,Sean Abbott,Australia
+Balls,0,388,27,18,Sean Abbott,Australia
+Highest,0,69,12,14,Sean Abbott,Australia
+Average,0,19.68,5,7.33,Sean Abbott,Australia
+SR,0,96.4,92.6,122.23,Sean Abbott,Australia
+Not Out,0,2,2,0,Sean Abbott,Australia
+Fours,0,32,1,1,Sean Abbott,Australia
+Sixes,0,13,1,2,Sean Abbott,Australia
+Ducks,0,1,2,0,Sean Abbott,Australia
+50s,0,2,0,0,Sean Abbott,Australia
+100s,0,0,0,0,Sean Abbott,Australia
+200s,0,0,0,0,Sean Abbott,Australia
+300s,0,0,0,0,Sean Abbott,Australia
+400s,0,0,0,0,Sean Abbott,Australia
+Matches,72,91,52,33,Josh Hazlewood,Australia
+Innings,88,35,10,6,Josh Hazlewood,Australia
+Runs,510,131,29,19,Josh Hazlewood,Australia
+Balls,1180,161,27,28,Josh Hazlewood,Australia
+Highest,39,23,13,7,Josh Hazlewood,Australia
+Average,11.86,16.38,9.67,0,Josh Hazlewood,Australia
+SR,43.23,81.37,107.41,67.86,Josh Hazlewood,Australia
+Not Out,45,27,7,6,Josh Hazlewood,Australia
+Fours,73,14,2,1,Josh Hazlewood,Australia
+Sixes,2,3,1,0,Josh Hazlewood,Australia
+Ducks,12,4,2,0,Josh Hazlewood,Australia
+50s,0,0,0,0,Josh Hazlewood,Australia
+100s,0,0,0,0,Josh Hazlewood,Australia
+200s,0,0,0,0,Josh Hazlewood,Australia
+300s,0,0,0,0,Josh Hazlewood,Australia
+400s,0,0,0,0,Josh Hazlewood,Australia
+Matches,0,7,32,30,Andrew Tye,Australia
+Innings,0,7,15,13,Andrew Tye,Australia
+Runs,0,57,83,91,Andrew Tye,Australia
+Balls,0,48,76,76,Andrew Tye,Australia
+Highest,0,19,20,25,Andrew Tye,Australia
+Average,0,14.25,10.38,10.11,Andrew Tye,Australia
+SR,0,118.75,109.22,119.74,Andrew Tye,Australia
+Not Out,0,3,7,4,Andrew Tye,Australia
+Fours,0,5,5,6,Andrew Tye,Australia
+Sixes,0,2,4,5,Andrew Tye,Australia
+Ducks,0,0,3,2,Andrew Tye,Australia
+50s,0,0,0,0,Andrew Tye,Australia
+100s,0,0,0,0,Andrew Tye,Australia
+200s,0,0,0,0,Andrew Tye,Australia
+300s,0,0,0,0,Andrew Tye,Australia
+400s,0,0,0,0,Andrew Tye,Australia
+Matches,21,15,4,10,James Pattinson,Australia
+Innings,25,8,2,2,James Pattinson,Australia
+Runs,417,42,5,15,James Pattinson,Australia
+Balls,971,80,3,13,James Pattinson,Australia
+Highest,47,13,5,11,James Pattinson,Australia
+Average,26.06,10.5,0,15,James Pattinson,Australia
+SR,42.95,52.5,166.67,115.39,James Pattinson,Australia
+Not Out,9,4,2,1,James Pattinson,Australia
+Fours,44,2,1,2,James Pattinson,Australia
+Sixes,7,0,0,0,James Pattinson,Australia
+Ducks,2,0,0,0,James Pattinson,Australia
+50s,0,0,0,0,James Pattinson,Australia
+100s,0,0,0,0,James Pattinson,Australia
+200s,0,0,0,0,James Pattinson,Australia
+300s,0,0,0,0,James Pattinson,Australia
+400s,0,0,0,0,James Pattinson,Australia
+Matches,4,3,8,0,Mitchell Swepson,Australia
+Innings,5,1,5,0,Mitchell Swepson,Australia
+Runs,28,2,32,0,Mitchell Swepson,Australia
+Balls,54,2,23,0,Mitchell Swepson,Australia
+Highest,15,2,14,0,Mitchell Swepson,Australia
+Average,7,2,0,0,Mitchell Swepson,Australia
+SR,51.86,100,139.14,0,Mitchell Swepson,Australia
+Not Out,1,0,5,0,Mitchell Swepson,Australia
+Fours,3,0,1,0,Mitchell Swepson,Australia
+Sixes,0,0,2,0,Mitchell Swepson,Australia
+Ducks,1,0,0,0,Mitchell Swepson,Australia
+50s,0,0,0,0,Mitchell Swepson,Australia
+100s,0,0,0,0,Mitchell Swepson,Australia
+200s,0,0,0,0,Mitchell Swepson,Australia
+300s,0,0,0,0,Mitchell Swepson,Australia
+400s,0,0,0,0,Mitchell Swepson,Australia
+Matches,47,198,122,13,Martin Guptill,New Zealand
+Innings,89,195,118,13,Martin Guptill,New Zealand
+Runs,2586,7346,3531,270,Martin Guptill,New Zealand
+Balls,5548,8414,2602,196,Martin Guptill,New Zealand
+Highest,189,237,105,50,Martin Guptill,New Zealand
+Average,29.39,41.5,31.81,22.5,Martin Guptill,New Zealand
+SR,46.62,87.31,135.71,137.76,Martin Guptill,New Zealand
+Not Out,1,18,7,1,Martin Guptill,New Zealand
+Fours,326,751,310,24,Martin Guptill,New Zealand
+Sixes,23,187,173,15,Martin Guptill,New Zealand
+Ducks,10,16,3,1,Martin Guptill,New Zealand
+50s,17,39,20,1,Martin Guptill,New Zealand
+100s,3,18,2,0,Martin Guptill,New Zealand
+200s,0,1,0,0,Martin Guptill,New Zealand
+300s,0,0,0,0,Martin Guptill,New Zealand
+400s,0,0,0,0,Martin Guptill,New Zealand
+Matches,112,236,102,55,Ross Taylor,New Zealand
+Innings,196,220,94,54,Ross Taylor,New Zealand
+Runs,7684,8602,1909,1017,Ross Taylor,New Zealand
+Balls,12957,10331,1560,822,Ross Taylor,New Zealand
+Highest,290,181,63,81,Ross Taylor,New Zealand
+Average,44.16,47.52,25.45,25.43,Ross Taylor,New Zealand
+SR,59.31,83.27,122.38,123.73,Ross Taylor,New Zealand
+Not Out,22,39,19,14,Ross Taylor,New Zealand
+Fours,932,712,122,66,Ross Taylor,New Zealand
+Sixes,55,147,71,46,Ross Taylor,New Zealand
+Ducks,14,9,6,3,Ross Taylor,New Zealand
+50s,35,51,7,3,Ross Taylor,New Zealand
+100s,19,21,0,0,Ross Taylor,New Zealand
+200s,3,0,0,0,Ross Taylor,New Zealand
+300s,0,0,0,0,Ross Taylor,New Zealand
+400s,0,0,0,0,Ross Taylor,New Zealand
+Matches,105,173,93,79,Kane Williamson,New Zealand
+Innings,186,165,90,77,Kane Williamson,New Zealand
+Runs,9276,7236,2575,2128,Kane Williamson,New Zealand
+Balls,17913,8853,2094,1694,Kane Williamson,New Zealand
+Highest,251,148,95,89,Kane Williamson,New Zealand
+Average,54.89,48.89,33.01,35.47,Kane Williamson,New Zealand
+SR,51.79,81.74,122.98,125.62,Kane Williamson,New Zealand
+Not Out,17,17,12,17,Kane Williamson,New Zealand
+Fours,1031,666,245,185,Kane Williamson,New Zealand
+Sixes,27,60,58,64,Kane Williamson,New Zealand
+Ducks,11,5,4,2,Kane Williamson,New Zealand
+50s,37,47,18,18,Kane Williamson,New Zealand
+100s,33,15,0,0,Kane Williamson,New Zealand
+200s,6,0,0,0,Kane Williamson,New Zealand
+300s,0,0,0,0,Kane Williamson,New Zealand
+400s,0,0,0,0,Kane Williamson,New Zealand
+Matches,1,57,65,13,Colin Munro,New Zealand
+Innings,2,53,62,12,Colin Munro,New Zealand
+Runs,15,1271,1724,177,Colin Munro,New Zealand
+Balls,26,1214,1102,141,Colin Munro,New Zealand
+Highest,15,87,109,40,Colin Munro,New Zealand
+Average,7.5,24.92,31.35,14.75,Colin Munro,New Zealand
+SR,57.7,104.7,156.45,125.54,Colin Munro,New Zealand
+Not Out,0,2,7,0,Colin Munro,New Zealand
+Fours,3,137,132,19,Colin Munro,New Zealand
+Sixes,0,36,107,8,Colin Munro,New Zealand
+Ducks,1,7,5,2,Colin Munro,New Zealand
+50s,0,8,11,0,Colin Munro,New Zealand
+100s,0,0,3,0,Colin Munro,New Zealand
+200s,0,0,0,0,Colin Munro,New Zealand
+300s,0,0,0,0,Colin Munro,New Zealand
+400s,0,0,0,0,Colin Munro,New Zealand
+Matches,56,81,10,0,Henry Nicholls,New Zealand
+Innings,87,79,9,0,Henry Nicholls,New Zealand
+Runs,2973,2180,100,0,Henry Nicholls,New Zealand
+Balls,5922,2713,112,0,Henry Nicholls,New Zealand
+Highest,200,124,36,0,Henry Nicholls,New Zealand
+Average,37.16,34.6,12.5,0,Henry Nicholls,New Zealand
+SR,50.21,80.36,89.29,0,Henry Nicholls,New Zealand
+Not Out,7,16,1,0,Henry Nicholls,New Zealand
+Fours,322,198,9,0,Henry Nicholls,New Zealand
+Sixes,9,19,0,0,Henry Nicholls,New Zealand
+Ducks,6,6,0,0,Henry Nicholls,New Zealand
+50s,12,15,0,0,Henry Nicholls,New Zealand
+100s,9,1,0,0,Henry Nicholls,New Zealand
+200s,1,0,0,0,Henry Nicholls,New Zealand
+300s,0,0,0,0,Henry Nicholls,New Zealand
+400s,0,0,0,0,Henry Nicholls,New Zealand
+Matches,12,76,83,14,James Neesham,New Zealand
+Innings,22,65,66,10,James Neesham,New Zealand
+Runs,709,1495,955,92,James Neesham,New Zealand
+Balls,1069,1496,627,93,James Neesham,New Zealand
+Highest,137,97,48,22,James Neesham,New Zealand
+Average,33.76,28.21,21.22,10.22,James Neesham,New Zealand
+SR,66.33,99.94,152.32,98.93,James Neesham,New Zealand
+Not Out,1,12,21,1,James Neesham,New Zealand
+Fours,88,128,73,6,James Neesham,New Zealand
+Sixes,11,38,51,2,James Neesham,New Zealand
+Ducks,2,3,6,2,James Neesham,New Zealand
+50s,4,7,0,0,James Neesham,New Zealand
+100s,2,0,0,0,James Neesham,New Zealand
+200s,0,0,0,0,James Neesham,New Zealand
+300s,0,0,0,0,James Neesham,New Zealand
+400s,0,0,0,0,James Neesham,New Zealand
+Matches,29,45,41,25,Colin de Grandhomme,New Zealand
+Innings,44,35,39,21,Colin de Grandhomme,New Zealand
+Runs,1432,742,503,303,Colin de Grandhomme,New Zealand
+Balls,1780,699,365,225,Colin de Grandhomme,New Zealand
+Highest,120,74,59,40,Colin de Grandhomme,New Zealand
+Average,38.7,26.5,15.72,18.94,Colin de Grandhomme,New Zealand
+SR,80.45,106.16,137.81,134.67,Colin de Grandhomme,New Zealand
+Not Out,7,7,7,5,Colin de Grandhomme,New Zealand
+Fours,141,58,27,18,Colin de Grandhomme,New Zealand
+Sixes,41,29,30,18,Colin de Grandhomme,New Zealand
+Ducks,6,2,6,3,Colin de Grandhomme,New Zealand
+50s,8,4,3,0,Colin de Grandhomme,New Zealand
+100s,2,0,0,0,Colin de Grandhomme,New Zealand
+200s,0,0,0,0,Colin de Grandhomme,New Zealand
+300s,0,0,0,0,Colin de Grandhomme,New Zealand
+400s,0,0,0,0,Colin de Grandhomme,New Zealand
+Matches,30,118,109,24,Mitchell Santner,New Zealand
+Innings,43,86,74,15,Mitchell Santner,New Zealand
+Runs,1066,1438,725,109,Mitchell Santner,New Zealand
+Balls,2270,1584,603,99,Mitchell Santner,New Zealand
+Highest,126,67,77,22,Mitchell Santner,New Zealand
+Average,26,26.15,16.86,13.63,Mitchell Santner,New Zealand
+SR,46.97,90.79,120.24,110.11,Mitchell Santner,New Zealand
+Not Out,2,31,31,7,Mitchell Santner,New Zealand
+Fours,119,105,55,6,Mitchell Santner,New Zealand
+Sixes,32,41,24,6,Mitchell Santner,New Zealand
+Ducks,3,3,5,1,Mitchell Santner,New Zealand
+50s,4,3,1,0,Mitchell Santner,New Zealand
+100s,1,0,0,0,Mitchell Santner,New Zealand
+200s,0,0,0,0,Mitchell Santner,New Zealand
+300s,0,0,0,0,Mitchell Santner,New Zealand
+400s,0,0,0,0,Mitchell Santner,New Zealand
+Matches,88,157,26,0,Tom Latham,New Zealand
+Innings,158,144,23,0,Tom Latham,New Zealand
+Runs,5835,4361,516,0,Tom Latham,New Zealand
+Balls,12283,5090,474,0,Tom Latham,New Zealand
+Highest,264,145,65,0,Tom Latham,New Zealand
+Average,38.39,34.61,25.8,0,Tom Latham,New Zealand
+SR,47.51,85.68,108.87,0,Tom Latham,New Zealand
+Not Out,6,18,3,0,Tom Latham,New Zealand
+Fours,665,364,42,0,Tom Latham,New Zealand
+Sixes,19,60,8,0,Tom Latham,New Zealand
+Ducks,13,14,1,0,Tom Latham,New Zealand
+50s,31,26,3,0,Tom Latham,New Zealand
+100s,13,8,0,0,Tom Latham,New Zealand
+200s,2,0,0,0,Tom Latham,New Zealand
+300s,0,0,0,0,Tom Latham,New Zealand
+400s,0,0,0,0,Tom Latham,New Zealand
+Matches,40,12,9,0,Tom Blundell,New Zealand
+Innings,69,12,8,0,Tom Blundell,New Zealand
+Runs,2138,266,91,0,Tom Blundell,New Zealand
+Balls,4013,307,94,0,Tom Blundell,New Zealand
+Highest,138,68,30,0,Tom Blundell,New Zealand
+Average,34.48,29.56,15.17,0,Tom Blundell,New Zealand
+SR,53.28,86.65,96.81,0,Tom Blundell,New Zealand
+Not Out,7,3,2,0,Tom Blundell,New Zealand
+Fours,259,28,10,0,Tom Blundell,New Zealand
+Sixes,16,2,0,0,Tom Blundell,New Zealand
+Ducks,6,0,0,0,Tom Blundell,New Zealand
+50s,11,2,0,0,Tom Blundell,New Zealand
+100s,5,0,0,0,Tom Blundell,New Zealand
+200s,0,0,0,0,Tom Blundell,New Zealand
+300s,0,0,0,0,Tom Blundell,New Zealand
+400s,0,0,0,0,Tom Blundell,New Zealand
+Matches,78,114,61,109,Trent Boult,New Zealand
+Innings,94,52,15,29,Trent Boult,New Zealand
+Runs,759,216,58,85,Trent Boult,New Zealand
+Balls,1264,279,64,81,Trent Boult,New Zealand
+Highest,52,21,16,17,Trent Boult,New Zealand
+Average,15.81,9,8.29,9.44,Trent Boult,New Zealand
+SR,60.05,77.42,90.63,104.94,Trent Boult,New Zealand
+Not Out,46,28,8,20,Trent Boult,New Zealand
+Fours,82,20,3,5,Trent Boult,New Zealand
+Sixes,30,7,2,3,Trent Boult,New Zealand
+Ducks,13,2,1,3,Trent Boult,New Zealand
+50s,1,0,0,0,Trent Boult,New Zealand
+100s,0,0,0,0,Trent Boult,New Zealand
+200s,0,0,0,0,Trent Boult,New Zealand
+300s,0,0,0,0,Trent Boult,New Zealand
+400s,0,0,0,0,Trent Boult,New Zealand
+Matches,30,91,21,6,Matt Henry,New Zealand
+Innings,42,38,7,0,Matt Henry,New Zealand
+Runs,649,270,24,0,Matt Henry,New Zealand
+Balls,834,290,27,0,Matt Henry,New Zealand
+Highest,72,48,12,0,Matt Henry,New Zealand
+Average,18.03,10.38,6,0,Matt Henry,New Zealand
+SR,77.82,93.11,88.89,0,Matt Henry,New Zealand
+Not Out,6,12,3,0,Matt Henry,New Zealand
+Fours,87,22,2,0,Matt Henry,New Zealand
+Sixes,20,11,1,0,Matt Henry,New Zealand
+Ducks,9,7,1,0,Matt Henry,New Zealand
+50s,4,0,0,0,Matt Henry,New Zealand
+100s,0,0,0,0,Matt Henry,New Zealand
+200s,0,0,0,0,Matt Henry,New Zealand
+300s,0,0,0,0,Matt Henry,New Zealand
+400s,0,0,0,0,Matt Henry,New Zealand
+Matches,107,161,125,54,Tim Southee,New Zealand
+Innings,155,96,50,20,Tim Southee,New Zealand
+Runs,2245,742,303,120,Tim Southee,New Zealand
+Balls,2715,771,218,107,Tim Southee,New Zealand
+Highest,77,55,39,36,Tim Southee,New Zealand
+Average,15.48,12.16,11.22,9.23,Tim Southee,New Zealand
+SR,82.69,96.24,139,112.15,Tim Southee,New Zealand
+Not Out,10,35,23,7,Tim Southee,New Zealand
+Fours,215,59,20,8,Tim Southee,New Zealand
+Sixes,98,26,18,4,Tim Southee,New Zealand
+Ducks,21,13,6,3,Tim Southee,New Zealand
+50s,7,1,0,0,Tim Southee,New Zealand
+100s,0,0,0,0,Tim Southee,New Zealand
+200s,0,0,0,0,Tim Southee,New Zealand
+300s,0,0,0,0,Tim Southee,New Zealand
+400s,0,0,0,0,Tim Southee,New Zealand
+Matches,21,54,124,8,Ish Sodhi,New Zealand
+Innings,31,26,39,2,Ish Sodhi,New Zealand
+Runs,561,210,197,7,Ish Sodhi,New Zealand
+Balls,1194,289,194,17,Ish Sodhi,New Zealand
+Highest,65,35,19,6,Ish Sodhi,New Zealand
+Average,20.78,9.55,7.3,3.5,Ish Sodhi,New Zealand
+SR,46.99,72.67,101.55,41.18,Ish Sodhi,New Zealand
+Not Out,4,4,12,0,Ish Sodhi,New Zealand
+Fours,68,8,12,0,Ish Sodhi,New Zealand
+Sixes,7,10,9,0,Ish Sodhi,New Zealand
+Ducks,5,6,6,0,Ish Sodhi,New Zealand
+50s,4,0,0,0,Ish Sodhi,New Zealand
+100s,0,0,0,0,Ish Sodhi,New Zealand
+200s,0,0,0,0,Ish Sodhi,New Zealand
+300s,0,0,0,0,Ish Sodhi,New Zealand
+400s,0,0,0,0,Ish Sodhi,New Zealand
+Matches,1,65,43,49,Lockie Ferguson,New Zealand
+Innings,2,30,15,11,Lockie Ferguson,New Zealand
+Runs,1,122,29,72,Lockie Ferguson,New Zealand
+Balls,9,235,36,47,Lockie Ferguson,New Zealand
+Highest,1,19,14,24,Lockie Ferguson,New Zealand
+Average,0,7.18,3.63,24,Lockie Ferguson,New Zealand
+SR,11.12,51.92,80.56,153.2,Lockie Ferguson,New Zealand
+Not Out,2,13,7,8,Lockie Ferguson,New Zealand
+Fours,0,6,0,7,Lockie Ferguson,New Zealand
+Sixes,0,3,2,2,Lockie Ferguson,New Zealand
+Ducks,0,4,4,1,Lockie Ferguson,New Zealand
+50s,0,0,0,0,Lockie Ferguson,New Zealand
+100s,0,0,0,0,Lockie Ferguson,New Zealand
+200s,0,0,0,0,Lockie Ferguson,New Zealand
+300s,0,0,0,0,Lockie Ferguson,New Zealand
+400s,0,0,0,0,Lockie Ferguson,New Zealand
+Matches,6,114,75,0,Asghar Afghan,Afghanistan
+Innings,10,108,68,0,Asghar Afghan,Afghanistan
+Runs,440,2424,1382,0,Asghar Afghan,Afghanistan
+Balls,771,3631,1247,0,Asghar Afghan,Afghanistan
+Highest,164,101,62,0,Asghar Afghan,Afghanistan
+Average,44,24.48,21.94,0,Asghar Afghan,Afghanistan
+SR,57.07,66.76,110.83,0,Asghar Afghan,Afghanistan
+Not Out,0,9,5,0,Asghar Afghan,Afghanistan
+Fours,37,163,87,0,Asghar Afghan,Afghanistan
+Sixes,11,65,69,0,Asghar Afghan,Afghanistan
+Ducks,1,7,5,0,Asghar Afghan,Afghanistan
+50s,3,12,4,0,Asghar Afghan,Afghanistan
+100s,1,1,0,0,Asghar Afghan,Afghanistan
+200s,0,0,0,0,Asghar Afghan,Afghanistan
+300s,0,0,0,0,Asghar Afghan,Afghanistan
+400s,0,0,0,0,Asghar Afghan,Afghanistan
+Matches,10,90,6,0,Hashmatullah Shahidi,Afghanistan
+Innings,19,88,4,0,Hashmatullah Shahidi,Afghanistan
+Runs,757,2435,48,0,Hashmatullah Shahidi,Afghanistan
+Balls,1596,3614,55,0,Hashmatullah Shahidi,Afghanistan
+Highest,246,97,36,0,Hashmatullah Shahidi,Afghanistan
+Average,50.47,33.36,24,0,Hashmatullah Shahidi,Afghanistan
+SR,47.44,67.38,87.28,0,Hashmatullah Shahidi,Afghanistan
+Not Out,4,15,2,0,Hashmatullah Shahidi,Afghanistan
+Fours,85,209,5,0,Hashmatullah Shahidi,Afghanistan
+Sixes,1,13,0,0,Hashmatullah Shahidi,Afghanistan
+Ducks,0,6,0,0,Hashmatullah Shahidi,Afghanistan
+50s,2,22,0,0,Hashmatullah Shahidi,Afghanistan
+100s,2,0,0,0,Hashmatullah Shahidi,Afghanistan
+200s,2,0,0,0,Hashmatullah Shahidi,Afghanistan
+300s,0,0,0,0,Hashmatullah Shahidi,Afghanistan
+400s,0,0,0,0,Hashmatullah Shahidi,Afghanistan
+Matches,0,16,45,0,Hazratullah Zazai,Afghanistan
+Innings,0,16,45,0,Hazratullah Zazai,Afghanistan
+Runs,0,361,1161,0,Hazratullah Zazai,Afghanistan
+Balls,0,409,874,0,Hazratullah Zazai,Afghanistan
+Highest,0,67,162,0,Hazratullah Zazai,Afghanistan
+Average,0,22.56,27.64,0,Hazratullah Zazai,Afghanistan
+SR,0,88.27,132.84,0,Hazratullah Zazai,Afghanistan
+Not Out,0,0,3,0,Hazratullah Zazai,Afghanistan
+Fours,0,38,110,0,Hazratullah Zazai,Afghanistan
+Sixes,0,17,66,0,Hazratullah Zazai,Afghanistan
+Ducks,0,1,3,0,Hazratullah Zazai,Afghanistan
+50s,0,2,3,0,Hazratullah Zazai,Afghanistan
+100s,0,0,1,0,Hazratullah Zazai,Afghanistan
+200s,0,0,0,0,Hazratullah Zazai,Afghanistan
+300s,0,0,0,0,Hazratullah Zazai,Afghanistan
+400s,0,0,0,0,Hazratullah Zazai,Afghanistan
+Matches,0,92,107,0,Najibullah Zadran,Afghanistan
+Innings,0,84,95,0,Najibullah Zadran,Afghanistan
+Runs,0,2060,1830,0,Najibullah Zadran,Afghanistan
+Balls,0,2312,1328,0,Najibullah Zadran,Afghanistan
+Highest,0,104,73,0,Najibullah Zadran,Afghanistan
+Average,0,29.01,29.05,0,Najibullah Zadran,Afghanistan
+SR,0,89.11,137.81,0,Najibullah Zadran,Afghanistan
+Not Out,0,13,32,0,Najibullah Zadran,Afghanistan
+Fours,0,178,126,0,Najibullah Zadran,Afghanistan
+Sixes,0,68,97,0,Najibullah Zadran,Afghanistan
+Ducks,0,4,7,0,Najibullah Zadran,Afghanistan
+50s,0,15,8,0,Najibullah Zadran,Afghanistan
+100s,0,1,0,0,Najibullah Zadran,Afghanistan
+200s,0,0,0,0,Najibullah Zadran,Afghanistan
+300s,0,0,0,0,Najibullah Zadran,Afghanistan
+400s,0,0,0,0,Najibullah Zadran,Afghanistan
+Matches,2,51,22,0,Noor Ali Zadran,Afghanistan
+Innings,4,50,23,0,Noor Ali Zadran,Afghanistan
+Runs,117,1216,597,0,Noor Ali Zadran,Afghanistan
+Balls,281,1924,586,0,Noor Ali Zadran,Afghanistan
+Highest,47,114,63,0,Noor Ali Zadran,Afghanistan
+Average,29.25,24.32,27.14,0,Noor Ali Zadran,Afghanistan
+SR,41.64,63.21,101.88,0,Noor Ali Zadran,Afghanistan
+Not Out,0,0,1,0,Noor Ali Zadran,Afghanistan
+Fours,14,132,55,0,Noor Ali Zadran,Afghanistan
+Sixes,0,4,9,0,Noor Ali Zadran,Afghanistan
+Ducks,0,4,1,0,Noor Ali Zadran,Afghanistan
+50s,0,7,4,0,Noor Ali Zadran,Afghanistan
+100s,0,1,0,0,Noor Ali Zadran,Afghanistan
+200s,0,0,0,0,Noor Ali Zadran,Afghanistan
+300s,0,0,0,0,Noor Ali Zadran,Afghanistan
+400s,0,0,0,0,Noor Ali Zadran,Afghanistan
+Matches,11,123,1,0,Rahmat Shah,Afghanistan
+Innings,21,118,1,0,Rahmat Shah,Afghanistan
+Runs,970,3976,3,0,Rahmat Shah,Afghanistan
+Balls,1820,5579,6,0,Rahmat Shah,Afghanistan
+Highest,234,114,3,0,Rahmat Shah,Afghanistan
+Average,46.19,35.19,3,0,Rahmat Shah,Afghanistan
+SR,53.3,71.27,50,0,Rahmat Shah,Afghanistan
+Not Out,0,5,0,0,Rahmat Shah,Afghanistan
+Fours,117,344,0,0,Rahmat Shah,Afghanistan
+Sixes,6,40,0,0,Rahmat Shah,Afghanistan
+Ducks,4,5,0,0,Rahmat Shah,Afghanistan
+50s,5,31,0,0,Rahmat Shah,Afghanistan
+100s,3,5,0,0,Rahmat Shah,Afghanistan
+200s,1,0,0,0,Rahmat Shah,Afghanistan
+300s,0,0,0,0,Rahmat Shah,Afghanistan
+400s,0,0,0,0,Rahmat Shah,Afghanistan
+Matches,0,89,74,2,Gulbadin Naib,Afghanistan
+Innings,0,78,64,1,Gulbadin Naib,Afghanistan
+Runs,0,1332,945,19,Gulbadin Naib,Afghanistan
+Balls,0,1767,775,15,Gulbadin Naib,Afghanistan
+Highest,0,82,57,19,Gulbadin Naib,Afghanistan
+Average,0,19.88,20.54,19,Gulbadin Naib,Afghanistan
+SR,0,75.39,121.94,126.67,Gulbadin Naib,Afghanistan
+Not Out,0,11,18,0,Gulbadin Naib,Afghanistan
+Fours,0,115,70,1,Gulbadin Naib,Afghanistan
+Sixes,0,33,44,1,Gulbadin Naib,Afghanistan
+Ducks,0,7,7,0,Gulbadin Naib,Afghanistan
+50s,0,5,3,0,Gulbadin Naib,Afghanistan
+100s,0,0,0,0,Gulbadin Naib,Afghanistan
+200s,0,0,0,0,Gulbadin Naib,Afghanistan
+300s,0,0,0,0,Gulbadin Naib,Afghanistan
+400s,0,0,0,0,Gulbadin Naib,Afghanistan
+Matches,0,84,64,0,Samiullah Shinwari,Afghanistan
+Innings,0,74,56,0,Samiullah Shinwari,Afghanistan
+Runs,0,1811,1013,0,Samiullah Shinwari,Afghanistan
+Balls,0,2765,858,0,Samiullah Shinwari,Afghanistan
+Highest,0,96,61,0,Samiullah Shinwari,Afghanistan
+Average,0,29.21,22.02,0,Samiullah Shinwari,Afghanistan
+SR,0,65.5,118.07,0,Samiullah Shinwari,Afghanistan
+Not Out,0,12,10,0,Samiullah Shinwari,Afghanistan
+Fours,0,137,76,0,Samiullah Shinwari,Afghanistan
+Sixes,0,26,37,0,Samiullah Shinwari,Afghanistan
+Ducks,0,1,2,0,Samiullah Shinwari,Afghanistan
+50s,0,11,2,0,Samiullah Shinwari,Afghanistan
+100s,0,0,0,0,Samiullah Shinwari,Afghanistan
+200s,0,0,0,0,Samiullah Shinwari,Afghanistan
+300s,0,0,0,0,Samiullah Shinwari,Afghanistan
+400s,0,0,0,0,Samiullah Shinwari,Afghanistan
+Matches,3,173,131,24,Mohammad Nabi,Afghanistan
+Innings,6,151,124,19,Mohammad Nabi,Afghanistan
+Runs,33,3655,2237,215,Mohammad Nabi,Afghanistan
+Balls,68,4190,1642,150,Mohammad Nabi,Afghanistan
+Highest,24,136,89,31,Mohammad Nabi,Afghanistan
+Average,5.5,26.88,22.6,13.44,Mohammad Nabi,Afghanistan
+SR,48.53,87.24,136.24,143.34,Mohammad Nabi,Afghanistan
+Not Out,0,15,25,3,Mohammad Nabi,Afghanistan
+Fours,4,237,156,18,Mohammad Nabi,Afghanistan
+Sixes,1,113,109,11,Mohammad Nabi,Afghanistan
+Ducks,3,6,8,1,Mohammad Nabi,Afghanistan
+50s,0,17,6,0,Mohammad Nabi,Afghanistan
+100s,0,2,0,0,Mohammad Nabi,Afghanistan
+200s,0,0,0,0,Mohammad Nabi,Afghanistan
+300s,0,0,0,0,Mohammad Nabi,Afghanistan
+400s,0,0,0,0,Mohammad Nabi,Afghanistan
+Matches,6,114,96,127,Rashid Khan,Afghanistan
+Innings,9,87,59,63,Rashid Khan,Afghanistan
+Runs,154,1384,467,567,Rashid Khan,Afghanistan
+Balls,180,1320,370,347,Rashid Khan,Afghanistan
+Highest,51,60,48,79,Rashid Khan,Afghanistan
+Average,17.11,19.49,13.74,14.54,Rashid Khan,Afghanistan
+SR,85.56,104.85,126.22,163.41,Rashid Khan,Afghanistan
+Not Out,0,16,25,24,Rashid Khan,Afghanistan
+Fours,18,120,31,40,Rashid Khan,Afghanistan
+Sixes,4,49,28,40,Rashid Khan,Afghanistan
+Ducks,0,8,7,15,Rashid Khan,Afghanistan
+50s,1,5,0,1,Rashid Khan,Afghanistan
+100s,0,0,0,0,Rashid Khan,Afghanistan
+200s,0,0,0,0,Rashid Khan,Afghanistan
+300s,0,0,0,0,Rashid Khan,Afghanistan
+400s,0,0,0,0,Rashid Khan,Afghanistan
+Matches,2,84,72,0,Mohammad Shahzad,Afghanistan
+Innings,4,84,73,0,Mohammad Shahzad,Afghanistan
+Runs,69,2727,2048,0,Mohammad Shahzad,Afghanistan
+Balls,133,3081,1550,0,Mohammad Shahzad,Afghanistan
+Highest,40,131,118,0,Mohammad Shahzad,Afghanistan
+Average,17.25,33.67,29.26,0,Mohammad Shahzad,Afghanistan
+SR,51.88,88.52,132.13,0,Mohammad Shahzad,Afghanistan
+Not Out,0,3,3,0,Mohammad Shahzad,Afghanistan
+Fours,12,323,229,0,Mohammad Shahzad,Afghanistan
+Sixes,1,55,76,0,Mohammad Shahzad,Afghanistan
+Ducks,0,4,4,0,Mohammad Shahzad,Afghanistan
+50s,0,14,12,0,Mohammad Shahzad,Afghanistan
+100s,0,6,1,0,Mohammad Shahzad,Afghanistan
+200s,0,0,0,0,Mohammad Shahzad,Afghanistan
+300s,0,0,0,0,Mohammad Shahzad,Afghanistan
+400s,0,0,0,0,Mohammad Shahzad,Afghanistan
+Matches,0,27,12,0,Aftab Alam,Afghanistan
+Innings,0,17,5,0,Aftab Alam,Afghanistan
+Runs,0,80,2,0,Aftab Alam,Afghanistan
+Balls,0,107,9,0,Aftab Alam,Afghanistan
+Highest,0,16,1,0,Aftab Alam,Afghanistan
+Average,0,11.43,1,0,Aftab Alam,Afghanistan
+SR,0,74.77,22.23,0,Aftab Alam,Afghanistan
+Not Out,0,10,3,0,Aftab Alam,Afghanistan
+Fours,0,9,0,0,Aftab Alam,Afghanistan
+Sixes,0,3,0,0,Aftab Alam,Afghanistan
+Ducks,0,3,1,0,Aftab Alam,Afghanistan
+50s,0,0,0,0,Aftab Alam,Afghanistan
+100s,0,0,0,0,Aftab Alam,Afghanistan
+200s,0,0,0,0,Aftab Alam,Afghanistan
+300s,0,0,0,0,Aftab Alam,Afghanistan
+400s,0,0,0,0,Aftab Alam,Afghanistan
+Matches,0,82,33,0,Dawlat Zadran,Afghanistan
+Innings,0,56,17,0,Dawlat Zadran,Afghanistan
+Runs,0,513,68,0,Dawlat Zadran,Afghanistan
+Balls,0,664,42,0,Dawlat Zadran,Afghanistan
+Highest,0,47,13,0,Dawlat Zadran,Afghanistan
+Average,0,17.1,7.56,0,Dawlat Zadran,Afghanistan
+SR,0,77.26,161.91,0,Dawlat Zadran,Afghanistan
+Not Out,0,26,8,0,Dawlat Zadran,Afghanistan
+Fours,0,40,4,0,Dawlat Zadran,Afghanistan
+Sixes,0,21,6,0,Dawlat Zadran,Afghanistan
+Ducks,0,7,3,0,Dawlat Zadran,Afghanistan
+50s,0,0,0,0,Dawlat Zadran,Afghanistan
+100s,0,0,0,0,Dawlat Zadran,Afghanistan
+200s,0,0,0,0,Dawlat Zadran,Afghanistan
+300s,0,0,0,0,Dawlat Zadran,Afghanistan
+400s,0,0,0,0,Dawlat Zadran,Afghanistan
+Matches,0,38,25,0,Hamid Hassan,Afghanistan
+Innings,0,22,9,0,Hamid Hassan,Afghanistan
+Runs,0,107,50,0,Hamid Hassan,Afghanistan
+Balls,0,195,46,0,Hamid Hassan,Afghanistan
+Highest,0,17,22,0,Hamid Hassan,Afghanistan
+Average,0,6.69,16.67,0,Hamid Hassan,Afghanistan
+SR,0,54.88,108.7,0,Hamid Hassan,Afghanistan
+Not Out,0,6,6,0,Hamid Hassan,Afghanistan
+Fours,0,10,3,0,Hamid Hassan,Afghanistan
+Sixes,0,3,2,0,Hamid Hassan,Afghanistan
+Ducks,0,4,0,0,Hamid Hassan,Afghanistan
+50s,0,0,0,0,Hamid Hassan,Afghanistan
+100s,0,0,0,0,Hamid Hassan,Afghanistan
+200s,0,0,0,0,Hamid Hassan,Afghanistan
+300s,0,0,0,0,Hamid Hassan,Afghanistan
+400s,0,0,0,0,Hamid Hassan,Afghanistan
+Matches,1,75,49,20,Mujeeb Ur Rahman,Afghanistan
+Innings,2,40,14,7,Mujeeb Ur Rahman,Afghanistan
+Runs,18,236,54,12,Mujeeb Ur Rahman,Afghanistan
+Balls,17,262,44,15,Mujeeb Ur Rahman,Afghanistan
+Highest,15,64,21,10,Mujeeb Ur Rahman,Afghanistan
+Average,9,9.08,9,4,Mujeeb Ur Rahman,Afghanistan
+SR,105.89,90.08,122.73,80,Mujeeb Ur Rahman,Afghanistan
+Not Out,0,14,8,4,Mujeeb Ur Rahman,Afghanistan
+Fours,2,25,6,2,Mujeeb Ur Rahman,Afghanistan
+Sixes,1,9,3,0,Mujeeb Ur Rahman,Afghanistan
+Ducks,0,12,2,2,Mujeeb Ur Rahman,Afghanistan
+50s,0,1,0,0,Mujeeb Ur Rahman,Afghanistan
+100s,0,0,0,0,Mujeeb Ur Rahman,Afghanistan
+200s,0,0,0,0,Mujeeb Ur Rahman,Afghanistan
+300s,0,0,0,0,Mujeeb Ur Rahman,Afghanistan
+400s,0,0,0,0,Mujeeb Ur Rahman,Afghanistan
+Matches,3,147,61,0,William Porterfield,Ireland
+Innings,6,145,59,0,William Porterfield,Ireland
+Runs,58,4343,1079,0,William Porterfield,Ireland
+Balls,227,6297,971,0,William Porterfield,Ireland
+Highest,32,139,72,0,William Porterfield,Ireland
+Average,9.67,30.58,20.36,0,William Porterfield,Ireland
+SR,25.56,68.97,111.13,0,William Porterfield,Ireland
+Not Out,0,3,6,0,William Porterfield,Ireland
+Fours,7,455,120,0,William Porterfield,Ireland
+Sixes,0,32,23,0,William Porterfield,Ireland
+Ducks,1,12,5,0,William Porterfield,Ireland
+50s,0,20,3,0,William Porterfield,Ireland
+100s,0,11,0,0,William Porterfield,Ireland
+200s,0,0,0,0,William Porterfield,Ireland
+300s,0,0,0,0,William Porterfield,Ireland
+400s,0,0,0,0,William Porterfield,Ireland
+Matches,6,10,0,0,James McCollum,Ireland
+Innings,12,10,0,0,James McCollum,Ireland
+Runs,199,188,0,0,James McCollum,Ireland
+Balls,502,280,0,0,James McCollum,Ireland
+Highest,39,73,0,0,James McCollum,Ireland
+Average,16.58,18.8,0,0,James McCollum,Ireland
+SR,39.65,67.15,0,0,James McCollum,Ireland
+Not Out,0,0,0,0,James McCollum,Ireland
+Fours,27,26,0,0,James McCollum,Ireland
+Sixes,0,1,0,0,James McCollum,Ireland
+Ducks,1,1,0,0,James McCollum,Ireland
+50s,0,2,0,0,James McCollum,Ireland
+100s,0,0,0,0,James McCollum,Ireland
+200s,0,0,0,0,James McCollum,Ireland
+300s,0,0,0,0,James McCollum,Ireland
+400s,0,0,0,0,James McCollum,Ireland
+Matches,10,113,109,0,Andrew Balbirnie,Ireland
+Innings,20,108,106,0,Andrew Balbirnie,Ireland
+Runs,476,3149,2392,0,Andrew Balbirnie,Ireland
+Balls,935,4250,1941,0,Andrew Balbirnie,Ireland
+Highest,95,145,83,0,Andrew Balbirnie,Ireland
+Average,25.05,31.18,23.22,0,Andrew Balbirnie,Ireland
+SR,50.91,74.1,123.24,0,Andrew Balbirnie,Ireland
+Not Out,1,7,3,0,Andrew Balbirnie,Ireland
+Fours,55,300,254,0,Andrew Balbirnie,Ireland
+Sixes,0,39,68,0,Andrew Balbirnie,Ireland
+Ducks,3,8,6,0,Andrew Balbirnie,Ireland
+50s,5,17,12,0,Andrew Balbirnie,Ireland
+100s,0,8,0,0,Andrew Balbirnie,Ireland
+200s,0,0,0,0,Andrew Balbirnie,Ireland
+300s,0,0,0,0,Andrew Balbirnie,Ireland
+400s,0,0,0,0,Andrew Balbirnie,Ireland
+Matches,1,0,8,0,Tyrone Kane,Ireland
+Innings,2,0,4,0,Tyrone Kane,Ireland
+Runs,14,0,45,0,Tyrone Kane,Ireland
+Balls,98,0,34,0,Tyrone Kane,Ireland
+Highest,14,0,26,0,Tyrone Kane,Ireland
+Average,7,0,15,0,Tyrone Kane,Ireland
+SR,14.29,0,132.36,0,Tyrone Kane,Ireland
+Not Out,0,0,1,0,Tyrone Kane,Ireland
+Fours,1,0,6,0,Tyrone Kane,Ireland
+Sixes,0,0,0,0,Tyrone Kane,Ireland
+Ducks,1,0,0,0,Tyrone Kane,Ireland
+50s,0,0,0,0,Tyrone Kane,Ireland
+100s,0,0,0,0,Tyrone Kane,Ireland
+200s,0,0,0,0,Tyrone Kane,Ireland
+300s,0,0,0,0,Tyrone Kane,Ireland
+400s,0,0,0,0,Tyrone Kane,Ireland
+Matches,3,152,109,0,Kevin O Brien,Ireland
+Innings,6,141,103,0,Kevin O Brien,Ireland
+Runs,258,3619,1973,0,Kevin O Brien,Ireland
+Balls,467,4076,1506,0,Kevin O Brien,Ireland
+Highest,118,142,124,0,Kevin O Brien,Ireland
+Average,51.6,29.42,21.22,0,Kevin O Brien,Ireland
+SR,55.25,88.79,131.01,0,Kevin O Brien,Ireland
+Not Out,1,18,10,0,Kevin O Brien,Ireland
+Fours,29,332,165,0,Kevin O Brien,Ireland
+Sixes,0,84,82,0,Kevin O Brien,Ireland
+Ducks,0,6,12,0,Kevin O Brien,Ireland
+50s,1,18,5,0,Kevin O Brien,Ireland
+100s,1,2,1,0,Kevin O Brien,Ireland
+200s,0,0,0,0,Kevin O Brien,Ireland
+300s,0,0,0,0,Kevin O Brien,Ireland
+400s,0,0,0,0,Kevin O Brien,Ireland
+Matches,8,166,150,0,Paul Stirling,Ireland
+Innings,16,160,147,0,Paul Stirling,Ireland
+Runs,382,5925,3656,0,Paul Stirling,Ireland
+Balls,652,6782,2714,0,Paul Stirling,Ireland
+Highest,103,177,115,0,Paul Stirling,Ireland
+Average,23.88,37.74,26.69,0,Paul Stirling,Ireland
+SR,58.59,87.37,134.71,0,Paul Stirling,Ireland
+Not Out,0,3,10,0,Paul Stirling,Ireland
+Fours,48,634,425,0,Paul Stirling,Ireland
+Sixes,6,145,130,0,Paul Stirling,Ireland
+Ducks,1,13,13,0,Paul Stirling,Ireland
+50s,1,31,24,0,Paul Stirling,Ireland
+100s,1,14,1,0,Paul Stirling,Ireland
+200s,0,0,0,0,Paul Stirling,Ireland
+300s,0,0,0,0,Paul Stirling,Ireland
+400s,0,0,0,0,Paul Stirling,Ireland
+Matches,2,130,143,0,George Dockrell,Ireland
+Innings,4,92,94,0,George Dockrell,Ireland
+Runs,98,1435,1179,0,George Dockrell,Ireland
+Balls,257,1763,902,0,George Dockrell,Ireland
+Highest,39,91,58,0,George Dockrell,Ireland
+Average,24.5,22.78,19.98,0,George Dockrell,Ireland
+SR,38.14,81.4,130.71,0,George Dockrell,Ireland
+Not Out,0,29,35,0,George Dockrell,Ireland
+Fours,14,112,85,0,George Dockrell,Ireland
+Sixes,0,28,43,0,George Dockrell,Ireland
+Ducks,0,6,8,0,George Dockrell,Ireland
+50s,0,6,2,0,George Dockrell,Ireland
+100s,0,0,0,0,George Dockrell,Ireland
+200s,0,0,0,0,George Dockrell,Ireland
+300s,0,0,0,0,George Dockrell,Ireland
+400s,0,0,0,0,George Dockrell,Ireland
+Matches,3,19,40,0,Stuart Thompson,Ireland
+Innings,6,15,30,0,Stuart Thompson,Ireland
+Runs,64,228,328,0,Stuart Thompson,Ireland
+Balls,194,251,254,0,Stuart Thompson,Ireland
+Highest,53,39,56,0,Stuart Thompson,Ireland
+Average,10.67,16.29,14.91,0,Stuart Thompson,Ireland
+SR,32.99,90.84,129.14,0,Stuart Thompson,Ireland
+Not Out,0,1,8,0,Stuart Thompson,Ireland
+Fours,7,24,23,0,Stuart Thompson,Ireland
+Sixes,0,3,14,0,Stuart Thompson,Ireland
+Ducks,1,0,1,0,Stuart Thompson,Ireland
+50s,1,0,1,0,Stuart Thompson,Ireland
+100s,0,0,0,0,Stuart Thompson,Ireland
+200s,0,0,0,0,Stuart Thompson,Ireland
+300s,0,0,0,0,Stuart Thompson,Ireland
+400s,0,0,0,0,Stuart Thompson,Ireland
+Matches,9,92,32,0,Andy McBrine,Ireland
+Innings,17,63,18,0,Andy McBrine,Ireland
+Runs,503,889,155,0,Andy McBrine,Ireland
+Balls,918,1263,132,0,Andy McBrine,Ireland
+Highest,90,79,36,0,Andy McBrine,Ireland
+Average,35.93,17.78,12.92,0,Andy McBrine,Ireland
+SR,54.8,70.39,117.43,0,Andy McBrine,Ireland
+Not Out,3,13,6,0,Andy McBrine,Ireland
+Fours,61,83,11,0,Andy McBrine,Ireland
+Sixes,3,14,5,0,Andy McBrine,Ireland
+Ducks,1,5,1,0,Andy McBrine,Ireland
+50s,4,2,0,0,Andy McBrine,Ireland
+100s,0,0,0,0,Andy McBrine,Ireland
+200s,0,0,0,0,Andy McBrine,Ireland
+300s,0,0,0,0,Andy McBrine,Ireland
+400s,0,0,0,0,Andy McBrine,Ireland
+Matches,2,104,81,0,Gary Wilson,Ireland
+Innings,4,99,68,0,Gary Wilson,Ireland
+Runs,45,2072,1268,0,Gary Wilson,Ireland
+Balls,114,2881,1212,0,Gary Wilson,Ireland
+Highest,33,113,65,0,Gary Wilson,Ireland
+Average,15,23.82,21.13,0,Gary Wilson,Ireland
+SR,39.48,71.92,104.63,0,Gary Wilson,Ireland
+Not Out,1,12,8,0,Gary Wilson,Ireland
+Fours,7,180,108,0,Gary Wilson,Ireland
+Sixes,0,21,20,0,Gary Wilson,Ireland
+Ducks,2,6,4,0,Gary Wilson,Ireland
+50s,0,12,3,0,Gary Wilson,Ireland
+100s,0,1,0,0,Gary Wilson,Ireland
+200s,0,0,0,0,Gary Wilson,Ireland
+300s,0,0,0,0,Gary Wilson,Ireland
+400s,0,0,0,0,Gary Wilson,Ireland
+Matches,7,55,77,0,Lorcan Tucker,Ireland
+Innings,14,46,71,0,Lorcan Tucker,Ireland
+Runs,571,995,1363,0,Lorcan Tucker,Ireland
+Balls,895,1209,1108,0,Lorcan Tucker,Ireland
+Highest,108,85,94,0,Lorcan Tucker,Ireland
+Average,43.92,24.88,21.63,0,Lorcan Tucker,Ireland
+SR,63.8,82.3,123.02,0,Lorcan Tucker,Ireland
+Not Out,1,6,8,0,Lorcan Tucker,Ireland
+Fours,76,90,131,0,Lorcan Tucker,Ireland
+Sixes,2,13,30,0,Lorcan Tucker,Ireland
+Ducks,1,3,7,0,Lorcan Tucker,Ireland
+50s,3,5,9,0,Lorcan Tucker,Ireland
+100s,1,0,0,0,Lorcan Tucker,Ireland
+200s,0,0,0,0,Lorcan Tucker,Ireland
+300s,0,0,0,0,Lorcan Tucker,Ireland
+400s,0,0,0,0,Lorcan Tucker,Ireland
+Matches,0,24,12,0,Peter Chase,Ireland
+Innings,0,16,5,0,Peter Chase,Ireland
+Runs,0,35,7,0,Peter Chase,Ireland
+Balls,0,56,13,0,Peter Chase,Ireland
+Highest,0,14,4,0,Peter Chase,Ireland
+Average,0,3.5,7,0,Peter Chase,Ireland
+SR,0,62.5,53.85,0,Peter Chase,Ireland
+Not Out,0,6,4,0,Peter Chase,Ireland
+Fours,0,3,1,0,Peter Chase,Ireland
+Sixes,0,1,0,0,Peter Chase,Ireland
+Ducks,0,7,0,0,Peter Chase,Ireland
+50s,0,0,0,0,Peter Chase,Ireland
+100s,0,0,0,0,Peter Chase,Ireland
+200s,0,0,0,0,Peter Chase,Ireland
+300s,0,0,0,0,Peter Chase,Ireland
+400s,0,0,0,0,Peter Chase,Ireland
+Matches,3,58,14,0,Tim Murtagh,Ireland
+Innings,6,36,5,0,Tim Murtagh,Ireland
+Runs,109,188,26,0,Tim Murtagh,Ireland
+Balls,132,297,25,0,Tim Murtagh,Ireland
+Highest,54,23,12,0,Tim Murtagh,Ireland
+Average,27.25,7.83,13,0,Tim Murtagh,Ireland
+SR,82.58,63.3,104,0,Tim Murtagh,Ireland
+Not Out,2,12,3,0,Tim Murtagh,Ireland
+Fours,14,17,0,0,Tim Murtagh,Ireland
+Sixes,2,1,1,0,Tim Murtagh,Ireland
+Ducks,0,7,0,0,Tim Murtagh,Ireland
+50s,1,0,0,0,Tim Murtagh,Ireland
+100s,0,0,0,0,Tim Murtagh,Ireland
+200s,0,0,0,0,Tim Murtagh,Ireland
+300s,0,0,0,0,Tim Murtagh,Ireland
+400s,0,0,0,0,Tim Murtagh,Ireland
+Matches,7,54,88,0,Mark Adair,Ireland
+Innings,13,39,63,0,Mark Adair,Ireland
+Runs,313,469,724,0,Mark Adair,Ireland
+Balls,443,452,577,0,Mark Adair,Ireland
+Highest,88,32,72,0,Mark Adair,Ireland
+Average,28.45,18.04,14.48,0,Mark Adair,Ireland
+SR,70.66,103.77,125.48,0,Mark Adair,Ireland
+Not Out,2,13,13,0,Mark Adair,Ireland
+Fours,42,35,51,0,Mark Adair,Ireland
+Sixes,5,21,33,0,Mark Adair,Ireland
+Ducks,2,3,5,0,Mark Adair,Ireland
+50s,2,0,1,0,Mark Adair,Ireland
+100s,0,0,0,0,Mark Adair,Ireland
+200s,0,0,0,0,Mark Adair,Ireland
+300s,0,0,0,0,Mark Adair,Ireland
+400s,0,0,0,0,Mark Adair,Ireland
+Matches,3,45,56,0,Barry McCarthy,Ireland
+Innings,4,30,35,0,Barry McCarthy,Ireland
+Runs,17,220,284,0,Barry McCarthy,Ireland
+Balls,70,355,243,0,Barry McCarthy,Ireland
+Highest,11,41,51,0,Barry McCarthy,Ireland
+Average,4.25,9.57,12.91,0,Barry McCarthy,Ireland
+SR,24.29,61.98,116.88,0,Barry McCarthy,Ireland
+Not Out,0,7,13,0,Barry McCarthy,Ireland
+Fours,0,18,19,0,Barry McCarthy,Ireland
+Sixes,0,3,15,0,Barry McCarthy,Ireland
+Ducks,1,4,7,0,Barry McCarthy,Ireland
+50s,0,0,1,0,Barry McCarthy,Ireland
+100s,0,0,0,0,Barry McCarthy,Ireland
+200s,0,0,0,0,Barry McCarthy,Ireland
+300s,0,0,0,0,Barry McCarthy,Ireland
+400s,0,0,0,0,Barry McCarthy,Ireland
+Matches,3,75,50,0,Boyd Rankin,Ireland
+Innings,6,34,15,0,Boyd Rankin,Ireland
+Runs,43,101,64,0,Boyd Rankin,Ireland
+Balls,99,239,74,0,Boyd Rankin,Ireland
+Highest,17,18,16,0,Boyd Rankin,Ireland
+Average,8.6,7.77,9.14,0,Boyd Rankin,Ireland
+SR,43.44,42.26,86.49,0,Boyd Rankin,Ireland
+Not Out,1,21,8,0,Boyd Rankin,Ireland
+Fours,6,4,3,0,Boyd Rankin,Ireland
+Sixes,0,1,3,0,Boyd Rankin,Ireland
+Ducks,1,4,2,0,Boyd Rankin,Ireland
+50s,0,0,0,0,Boyd Rankin,Ireland
+100s,0,0,0,0,Boyd Rankin,Ireland
+200s,0,0,0,0,Boyd Rankin,Ireland
+300s,0,0,0,0,Boyd Rankin,Ireland
+400s,0,0,0,0,Boyd Rankin,Ireland
