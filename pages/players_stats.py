@@ -154,7 +154,7 @@ if country:
         bowling_stats = player_bowling[player_bowling['name'] == player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
 
         # Format Selection
-        st.markdown("### 📂 Choose a Format to View Summary")
+        st.markdown("#### 📂 Choose a Format to View Summary")
         formats = ["Test", "ODI", "T20", "IPL"]
         format_selection = st.segmented_control(
             f"View {player}'s Stats by Format",
@@ -164,7 +164,7 @@ if country:
         )
 
         # Display Key Metrics 
-        st.markdown(f"#### 📊 {format_selection} Performance Highlights")
+        st.markdown(f"##### 📊 {format_selection} Performance Stats")
         col1, col2, col3, col4 = st.columns(4) 
         col1.metric(label="Matches", value=int(batting_stats.loc[format_selection,"Matches"]))
         col2.metric(label="Runs", value=int(batting_stats.loc[format_selection,"Runs"]))
@@ -172,7 +172,7 @@ if country:
         col4.metric(label="Strike Rate", value=batting_stats.loc[format_selection,"SR"])
 
         # View Type Selection
-        st.markdown("### 🧭 Select Type of Stats to Explore") 
+        st.markdown("#### 🧭 Select Type of Stats to Explore") 
         view_selection = st.segmented_control(
             f"Explore {player}'s Stats",
             options=["Bat", "Bowl", "Both"],
@@ -182,13 +182,13 @@ if country:
 
         # Batting Only
         if view_selection == "Bat":
-            st.markdown(f"#### 🏏 Batting Statistics of **{player}**")
+            st.markdown(f"##### 🏏 Batting Statistics of **{player}**")  
             if st.button(f"Show Batting Table", type="tertiary"):
-                st.dataframe(batting_stats)
+                st.dataframe(batting_stats) 
 
             col = st.selectbox(
                 "🎯 Choose a Batting Metric to Visualize",
-                options=list(batting_stats.columns),
+                options=list(batting_stats.columns), 
                 placeholder="Select a batting metric"
             )
             if col:
@@ -247,7 +247,7 @@ if country:
 # Footer
 st.markdown("""
 ---
-
+ 
 🧠 **Note:**  
 - Data is derived from two CSV files.
 - This app supports performance comparison across formats and disciplines.
