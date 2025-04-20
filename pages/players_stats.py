@@ -20,14 +20,14 @@ if country in list(batting.groupby("country").groups.keys()):
     if player in list(player_batting.groupby("name").groups.keys()) :
         # st.write("Batting Stats of {}".format(player))
         batting_stats=player_batting[player_batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-        # st.write(batting_stats)
+        st.write(batting_stats)
         # st.write("Bowling Stats of {}".format(player))
         bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
         # st.write(bowling_stats)
 
 
         col1, col2, col3, col4 = st.columns(4) 
-        col1.metric(label="Matches", value=batting_stats.loc["Test","Matches"]==player)
+        col1.metric(label="Matches", value=batting_stats.loc["Test","Matches"])
         col2.metric("Wind", "9 mph", "-8%")
         col3.metric("Humidity", "86%", "4%")
         col4.metric("Humidity", "86%", "4%")
