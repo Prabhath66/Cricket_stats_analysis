@@ -129,7 +129,7 @@ Explore batting and bowling performances of your favorite players across differe
 # --- Country Selection ---
 st.subheader("🌍 Select a Country")
 country = st.selectbox(
-    "Choose from the list of cricket-playing nations:",
+    "",
     list(batting.groupby("country").groups.keys()),
     index=None,
     placeholder="Enter the Country Name",
@@ -142,7 +142,7 @@ if country:
 
     st.subheader("👤 Select a Player")
     player = st.selectbox(
-        "Choose a player to view detailed stats:",
+        "",
         list(player_batting.groupby("name").groups.keys()),
         index=None,
         placeholder="Enter the Player Name",
@@ -197,7 +197,7 @@ if country:
 
         # Bowling Only
         elif view_selection == "Bowl":
-            st.markdown(f"#### 🎯https://cdn-icons-png.flaticon.com/128/1099/1099680.png Bowling Statistics of **{player}**")
+            st.markdown(f"#### 🎯 Bowling Statistics of **{player}**") 
             if st.button(f"Show Bowling Table", type="tertiary"):
                 st.dataframe(bowling_stats)
 
