@@ -5,22 +5,22 @@ import plotly.express as px
 batting = pd.read_csv("total_teams_batting.csv") 
 bowling = pd.read_csv("total_teams_bowling_stats.csv") 
 
-# --- App Header ---
-st.title("🏏 Cricket Player Stats Dashboard")
-st.markdown("""
-Welcome to the **Cricket Player Stats Dashboard**!  
-Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
+# # --- App Header ---
+# st.title("🏏 Cricket Player Stats Dashboard")
+# st.markdown("""
+# Welcome to the **Cricket Player Stats Dashboard**!  
+# Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
 
----
+# ---
 
-🔍 **Instructions:**
-- Select a **Country**
-- Choose a **Player**
-- View stats in different **formats**
-- Analyze data through interactive **charts** and key **metrics**
+# 🔍 **Instructions:**
+# - Select a **Country**
+# - Choose a **Player**
+# - View stats in different **formats**
+# - Analyze data through interactive **charts** and key **metrics**
 
----
-""")
+# ---
+# """)
 
 
 st.subheader("🌍 Select a Country")
@@ -43,7 +43,7 @@ if country in list(batting.groupby("country").groups.keys()):
         # st.write(bowling_stats)
 
         # Format Selection
-        st.markdown("#### 📂 Choose a Format to View Summary")
+        st.markdown("####### 📂 Choose a Format to View Summary")
         formats = ["Test", "ODI", "T20", "IPL"]
         format_selection = st.segmented_control(f"View {player}'s Stats by Format",options=formats,default="Test", selection_mode="single")
 
