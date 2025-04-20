@@ -26,16 +26,11 @@ if country in list(batting.groupby("country").groups.keys()):
         # st.write(bowling_stats)
 
 
-# # player selection 
-# player = st.selectbox("Select the Player", list(set(batting['name'])), index=None, placeholder="Enter the Player Name",) 
-# if player in list(set(batting['name'])) :
-#     #st.write("Batting Stats of {}".format(player))
-#     batting_stats=batting[batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T 
-#     #st.write(batting_stats)
-#     #st.write("Bowling Stats of {}".format(player))
-#     bowling_stats=bowling[bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T 
-#     #st.write(bowling_stats) 
-
+        col1, col2, col3, col4 = st.columns(4) 
+        col1.metric(label="Matches", value=batting_stats.loc["Test","Matches"]==player)
+        col2.metric("Wind", "9 mph", "-8%")
+        col3.metric("Humidity", "86%", "4%")
+        col4.metric("Humidity", "86%", "4%")
 
         options = ["Bat", "Bowl", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
