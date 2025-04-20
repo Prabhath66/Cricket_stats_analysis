@@ -20,7 +20,7 @@ if country in list(batting.groupby("country").groups.keys()):
     if player in list(player_batting.groupby("name").groups.keys()) :
         # st.write("Batting Stats of {}".format(player))
         batting_stats=player_batting[player_batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-        st.write(batting_stats)
+        # st.write(batting_stats)
         # st.write("Bowling Stats of {}".format(player))
         bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
         # st.write(bowling_stats)
@@ -55,7 +55,7 @@ if country in list(batting.groupby("country").groups.keys()):
             col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
             col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        options = [":rainbow[Bat]", ":blue[Bowl]", "Both"]
+        options = ["Bat", "Bowl", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, default="Bat", selection_mode="single")
         if selection == "Bat":
             if st.button(f"Batting Stats of {player}", type="tertiary"):
