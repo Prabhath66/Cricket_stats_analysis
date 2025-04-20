@@ -55,4 +55,6 @@ This dashboard was created by [Prabhath], a cricket enthusiast and data analyst,
 """)
 
 
-st.link_button("Explore Player Stats", "pages/players_stats.py")
+# ─── Navigation Button ────────────────────────────────────────────────────────
+if st.button("Explore All Players Stats"):
+    st.switch_page("pages/players_stats.py")
