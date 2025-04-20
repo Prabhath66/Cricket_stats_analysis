@@ -8,7 +8,7 @@
 
 # # #st.write(teams.groupby("Country").get_group("West Indies") )
 
-
+# st.subheader("🌍 Select a Country")
 # country = st.selectbox("Select the Country", list(batting.groupby("country").groups.keys()), index=None, placeholder="Enter the Country Name",)
 
 # #player = st.selectbox("Select the Player", list(teams.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
@@ -16,6 +16,8 @@
 # if country in list(batting.groupby("country").groups.keys()):
 #     player_batting=batting.groupby("country").get_group(country)
 #     player_bowling=bowling.groupby("country").get_group(country)
+
+#     st.subheader("👤 Select a Player")
 #     player = st.selectbox("Select the Player", list(player_batting.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
 #     if player in list(player_batting.groupby("name").groups.keys()) :
 #         # st.write("Batting Stats of {}".format(player))
@@ -161,7 +163,7 @@ if country:
             selection_mode="single"
         )
 
-        # Display Key Metrics
+        # Display Key Metrics 
         st.markdown(f"#### 📊 {format_selection} Performance Highlights")
         col1, col2, col3, col4 = st.columns(4) 
         col1.metric(label="Matches", value=int(batting_stats.loc[format_selection,"Matches"]))
@@ -170,7 +172,7 @@ if country:
         col4.metric(label="Strike Rate", value=batting_stats.loc[format_selection,"SR"])
 
         # View Type Selection
-        st.markdown("### 🧭 Select Type of Stats to Explore")
+        st.markdown("### 🧭 Select Type of Stats to Explore") 
         view_selection = st.segmented_control(
             f"Explore {player}'s Stats",
             options=["Bat", "Bowl", "Both"],
@@ -195,7 +197,7 @@ if country:
 
         # Bowling Only
         elif view_selection == "Bowl":
-            st.markdown(f"#### 🎯 Bowling Statistics of **{player}**")
+            st.markdown(f"#### 🎯https://cdn-icons-png.flaticon.com/128/1099/1099680.png Bowling Statistics of **{player}**")
             if st.button(f"Show Bowling Table", type="tertiary"):
                 st.dataframe(bowling_stats)
 
