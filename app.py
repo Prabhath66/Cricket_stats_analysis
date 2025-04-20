@@ -37,6 +37,9 @@ Cricket is one of the most popular sports worldwide, especially in countries lik
 4. **Visualize:** Use interactive graphs to understand the player's performance better and make comparisons across different formats.
 
 ---
+# ---
+
+# > *"Cricket is not just a sport, it's an emotion!"* 🌟
 """)
 
 # ─── Navigation Button ────────────────────────────────────────────────────────
