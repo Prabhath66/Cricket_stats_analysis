@@ -68,18 +68,20 @@ if country:
             with st.expander("Show Batting Table", expanded=False):
                 st.dataframe(batting_stats)
 
-            fig = px.pie(batting_stats, names=batting_stats.index, values=batting_stats["Matches"], title=f"{player}'s Matches Across Formats")
-            st.plotly_chart(fig, use_container_width=True)
-
-            fig = px.bar(batting_stats, x=batting_stats.index, y=batting_stats['Runs'].values, title=f"{player}'s Runs Across Formats")
-            st.plotly_chart(fig, use_container_width=True) 
-            
+            col1,col2=st.columns(2)
+            with col1:
+                fig = px.pie(batting_stats, names=batting_stats.index, values=batting_stats["Matches"], title=f"{player}'s Matches Across Formats")
+                st.plotly_chart(fig, use_container_width=True)
+            with col2:
+                fig = px.bar(batting_stats, x=batting_stats.index, y=batting_stats['Runs'].values, title=f"{player}'s Runs Across Formats")
+                st.plotly_chart(fig, use_container_width=True) 
+                
         with tabs[1]:
             st.subheader(f"🎯 Bowling Stats - {player}")
             with st.expander("Show Bowling Table", expanded=False):
                 st.dataframe(bowling_stats)
 
-            fig = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats[metric], title=f"{player}'s {metric} Across Formats")
+            fig = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats["Matches"], title=f"{player}'s Matches Across Formats")
             st.plotly_chart(fig, use_container_width=True)
 
 
