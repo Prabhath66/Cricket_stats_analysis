@@ -41,12 +41,21 @@ if country:
         selected_format = st.radio("📁 Choose a format:", formats, horizontal=True)
 
         # Display key metrics
-        st.markdown("### 🧮 Key Performance Metrics")
+        st.markdown("#### 🧮 Batting Key Performance Metrics")
         col1, col2, col3, col4 = st.columns(4)
         col1.metric("Matches", int(batting_stats.loc[selected_format, "Matches"]))
         col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"]))
         col3.metric("Average", batting_stats.loc[selected_format, "Average"])
         col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
+
+
+        # Display key metrics
+        st.markdown("#### 🧮 Bowling Key Performance Metrics")
+        col1, col2, col3, col4 = st.columns(4)
+        col1.metric("Matches", int(bowling_stats.loc[selected_format, "Wickets"]))
+        col2.metric("Runs", int(bowling_stats.loc[selected_format, "Avg"]))
+        col3.metric("Average", bowling_stats.loc[selected_format, "Eco"])
+        col4.metric("Strike Rate", bowling_stats.loc[selected_format, "SR"])
 
         # --- Tabbed layout ---
         st.markdown("---")
@@ -93,9 +102,7 @@ if country:
 else:
     st.info("🌍 Please select a country from the sidebar.")
 
-# Optional footer
-st.markdown("---")
-st.markdown("📌 **Tip**: Use the sidebar for quick navigation between countries and players.")
+
 
 
 
@@ -114,22 +121,6 @@ st.markdown("📌 **Tip**: Use the sidebar for quick navigation between countrie
 # batting = pd.read_csv("total_teams_batting.csv") 
 # bowling = pd.read_csv("total_teams_bowling_stats.csv") 
 
-# # # --- App Header ---
-# # st.title("🏏 Cricket Player Stats Dashboard")
-# # st.markdown("""
-# # Welcome to the **Cricket Player Stats Dashboard**!  
-# # Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
-
-# # ---
-
-# # 🔍 **Instructions:**
-# # - Select a **Country**
-# # - Choose a **Player**
-# # - View stats in different **formats**
-# # - Analyze data through interactive **charts** and key **metrics**
-
-# # ---
-# # """)
 
 
 # st.subheader("🌍 Select a Country")
@@ -218,43 +209,3 @@ st.markdown("📌 **Tip**: Use the sidebar for quick navigation between countrie
 #                     fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}')
 #                     st.plotly_chart(fig)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# #         elif selection == "Both":
-# #             col1, col2 = st.columns(2)
-# #             with col1:
-# #                 if st.button(f"Batting Stats of {player}", type="tertiary"):
-# #                     st.write(batting_stats)
-
-# #                 # selecting the columns to analyze
-# #                 col = st.selectbox("🎯 Choose a Bowling Metric to Visualize", options=list(bowling_stats.columns), placeholder="Select a bowling metric")
-# #                 if col in batting_stats.columns:
-# #                   fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
-# #                   # fig.show() 
-# #                   st.plotly_chart(fig)
-                    
-# #             with col2:
-# #                 if st.button(f"Bowling Stats of {player}", type="tertiary"):
-# #                     st.write(bowling_stats)
-                    
-# #                 # if st.toggle(f"Bowling Stats of {player}"):
-# #                 #     st.write(bowling_stats) 
-
-# #                 # selecting the columns to analyze
-# #                 col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
-# #                 if col in bowling_stats.columns:
-# #                   fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
-# #                   # fig.show() 
-# #                   st.plotly_chart(fig)
-    
