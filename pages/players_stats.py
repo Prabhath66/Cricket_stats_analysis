@@ -55,7 +55,7 @@ if country in list(batting.groupby("country").groups.keys()):
             col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
             col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        options = ["Bat", "Bowl", "Both"]
+        options = [":rainbow[Bat]", ":blue[Bowl]", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, default="Bat", selection_mode="single")
         if selection == "Bat":
             if st.button(f"Batting Stats of {player}", type="tertiary"):
