@@ -26,7 +26,7 @@ if country in list(batting.groupby("country").groups.keys()):
         # st.write(bowling_stats)
 
         options = ["Test", "ODI", "T20", "IPL"]
-        selection = st.segmented_control(f"Stats of {player} across different Format", options, index=0, selection_mode="single")
+        selection = st.segmented_control(f"Stats of {player} across different Format", options, default="Test", selection_mode="single")
         if selection == "Test":               
             col1, col2, col3, col4 = st.columns(4) 
             col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
@@ -56,7 +56,7 @@ if country in list(batting.groupby("country").groups.keys()):
             col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
         options = ["Bat", "Bowl", "Both"]
-        selection = st.segmented_control(f"Stats of {player}", options, index=0, selection_mode="single")
+        selection = st.segmented_control(f"Stats of {player}", options, value="Bat", selection_mode="single")
         if selection == "Bat":
             if st.button(f"Batting Stats of {player}", type="tertiary"):
                 st.write(batting_stats)
