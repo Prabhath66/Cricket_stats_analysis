@@ -25,12 +25,35 @@ if country in list(batting.groupby("country").groups.keys()):
         bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
         # st.write(bowling_stats)
 
+        options = ["Test", "ODI", "T20", "IPL"]
+        selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
+        if selection == "Test":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
-        col1, col2, col3, col4 = st.columns(4) 
-        col1.metric(label="Matches", value=int(batting_stats.loc["Test","Matches"]))
-        col2.metric(label="Runs", value=int(batting_stats.loc["Test","Runs"]))
-        col3.metric(label="Average", value=batting_stats.loc["Test","Average"])
-        col4.metric(label="Strike Rate", value=batting_stats.loc["Test","SR"])
+        elif selection == "ODI":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+
+        elif selection == "T20":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
+
+        elif selection == "IPL":               
+            col1, col2, col3, col4 = st.columns(4) 
+            col1.metric(label="Matches", value=int(batting_stats.loc[selection,"Matches"]))
+            col2.metric(label="Runs", value=int(batting_stats.loc[selection,"Runs"]))
+            col3.metric(label="Average", value=batting_stats.loc[selection,"Average"])
+            col4.metric(label="Strike Rate", value=batting_stats.loc[selection,"SR"])
 
         options = ["Bat", "Bowl", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
@@ -90,47 +113,6 @@ if country in list(batting.groupby("country").groups.keys()):
     #select_stats=st.selectbox("Select the option (Batting / Bowling"),["Batting", "Bowling"],index)  
 
     # col=st.selectbox("Select the Column to Analyze ", options=list(batting_stats.columns), index=None, placeholder="Enter the Column Name to Analyze",)
-
-
-
-
-
-
-# import streamlit as st
-# import pandas as pd
-# import plotly.express as px
-
-# teams_batting = pd.read_csv("total_teams_batting.csv")
-# teams_bowling = pd.read_csv("total_teams_bowling.csv")
-
-# teams=pd.concat([west_indies,england])
-# teams_bowl=pd.read_csv("teams_bowling_stats.csv")
-
-# #st.write(teams.groupby("Country").get_group("West Indies") )
-
-
-# country = st.selectbox("Select the Country", list(teams.groupby("Country").groups.keys()), index=None, placeholder="Enter the Country Name",)
-
-#player = st.selectbox("Select the Player", list(teams.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
-
-# if country in list(teams.groupby("Country").groups.keys()):
-#     player_batting=teams.groupby("Country").get_group(country)
-#     player_bowling=teams_bowl.groupby("Country").get_group(country)
-#     player = st.selectbox("Select the Player", list(player_batting.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
-#     if player in list(player_batting.groupby("name").groups.keys()) :
-#         st.write("Batting Stats of {}".format(player))
-#         batting_stats=player_batting[player_batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-#         st.write(batting_stats)
-#         st.write("Bowling Stats of {}".format(player))
-#         bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-#         st.write(bowling_stats)
-
-
-
-
-# st.write(batting_stats["Matches"].values, batting_stats.index)
-# st.write(px.pie(data=batting_stats,values=batting_stats["Matches"].values, labels=batting_stats.index ))
-
 
 
     
