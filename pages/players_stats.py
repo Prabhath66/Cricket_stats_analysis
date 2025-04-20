@@ -61,7 +61,7 @@ if country:
 
         # --- Tabbed layout ---
         st.markdown("---")
-        tabs = st.tabs(["🏏 Batting", "🎯 Bowling", "📘 Both"])
+        tabs = st.tabs(["🏏 Batting", "🎯 Bowling"])
 
         with tabs[0]:
             st.subheader(f"🏏 Batting Stats - {player}")
@@ -79,9 +79,9 @@ if country:
             players_4s_6s=batting_stats[["Fours","Sixes"]]
             players_4s_6s=players_4s_6s.reset_index().rename(columns={'index': 'Format'})
             fours_sixes = pd.melt(players_4s_6s, id_vars='Format', value_vars=['Fours', 'Sixes'],
-                         var_name='Shot Type', value_name='Count')
+                         var_name='Shot Type', value_name='Count')   # melt is used to make long format of dataset like T20 four count, t20 six count
             fig_grouped = px.bar(fours_sixes, x='Format', y='Count', color='Shot Type', barmode='group', 
-                                 text='Count', title="Virat Kohli Fours and Sixes Across Formats") 
+                                 text='Count', title=f"{player} Fours and Sixes Across Formats") 
             st.plotly_chart(fig_grouped, use_container_width=True)  
                 
         with tabs[1]:
@@ -94,24 +94,16 @@ if country:
                 fig = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats["Matches"], title=f"{player}'s Matches Across Formats")
                 st.plotly_chart(fig, use_container_width=True)
             with col2:    
-                fig = px.bar(bowling_stats,x=bowling_stats['Runs'].index, y=bowling_stats['Runs'].values, labels={'x':'Format', 'y':'Wickets'}, title=f"{player} Wickets Across Formats")
-                st.plotly_chart(fig, use_container_width=True)
+                fig = px.bar(bowling_stats,x=bowling_stats.index, y=bowling_stats['Wickets'].values, labels={'x':'Format', 'y':'Wickets'}, title=f"{player} Wickets Across Formats")
+                st.plotly_chart(fig, use_container_width=True) 
 
-        with tabs[2]:
-            st.subheader(f"📘 Combined View - {player}")
-            col1, col2 = st.columns(2)
-
-            with col1:
-                metric_bat = st.selectbox("🏏 Batting metric", batting_stats.columns, key="bat_metric")
-                fig1 = px.pie(batting_stats, names=batting_stats.index, values=batting_stats[metric_bat],
-                              title=f"{player}'s Batting - {metric_bat}")
-                st.plotly_chart(fig1, use_container_width=True)
-
-            with col2:
-                metric_bowl = st.selectbox("🎯 Bowling metric", bowling_stats.columns, key="bowl_metric")
-                fig2 = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats[metric_bowl],
-                              title=f"{player}'s Bowling - {metric_bowl}")
-                st.plotly_chart(fig2, use_container_width=True)
+            balls_maidens=bowling_stats[["Balls","Maidens"]]
+            balls_maidens["Overs"]=[int(i/6) for i in [int(balls) for balls in bowling_stats['Balls'].values]]
+            balls_maidens=balls_maidens.reset_index().rename(columns={'index': 'Format'})
+            overs_maidens = pd.melt(balls_maidens, id_vars='Format', value_vars=['Overs', 'Maidens'], var_name='Bowled_type', value_name='Count') 
+            fig_grouped = px.bar(overs_maidens, x='Format', y='Count', color='Bowled_type', barmode='group', 
+                                 text='Count', title=f"{player} Overs and Maiden Overs Across Formats")  
+            st.plotly_chart(fig_grouped, use_container_width=True)  
 
     else:
         st.info("👤 Please select a player to continue.")
