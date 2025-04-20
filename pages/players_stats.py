@@ -27,10 +27,10 @@ if country in list(batting.groupby("country").groups.keys()):
 
 
         col1, col2, col3, col4 = st.columns(4) 
-        col1.metric(label="Matches", value=batting_stats.loc["Test","Matches"])
-        col2.metric("Wind", "9 mph", "-8%")
-        col3.metric("Humidity", "86%", "4%")
-        col4.metric("Humidity", "86%", "4%")
+        col1.metric(label="Matches", value=int(batting_stats.loc["Test","Matches"]))
+        col2.metric(label="Runs", value=int(batting_stats.loc["Test","Runs"]))
+        col3.metric(label="Average", value=batting_stats.loc["Test","Average"])
+        col4.metric(label="Strike Rate", value=batting_stats.loc["Test","SR"])
 
         options = ["Bat", "Bowl", "Both"]
         selection = st.segmented_control(f"Stats of {player}", options, selection_mode="single")
