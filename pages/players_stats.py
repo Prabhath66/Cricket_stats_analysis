@@ -2,294 +2,259 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Page Configuration
-st.set_page_config(page_title="Cricket Player Stats Analyzer", layout="wide")
+# Page configuration
+st.set_page_config(page_title="Cricket Dashboard", layout="wide")
 
-# --- Custom CSS for Styling ---
-st.markdown("""
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-html, body, [class*="css"] {
-    font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-    color: #f0f0f0;
-}
-h1, h2, h3, h4, h5 {
-    color: #00ffd5 !important;
-    text-shadow: 1px 1px 4px rgba(0,255,213,0.3);
-}
-.stApp {
-    animation: fadeIn 0.8s ease-in-out;
-}
-@keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0); }
-}
-.stButton > button {
-    background-color: #00ffd5;
-    color: black;
-    font-weight: 600;
-    border-radius: 8px;
-    padding: 8px 20px;
-    box-shadow: 0 0 10px #00ffd5;
-    transition: all 0.3s ease;
-}
-.stButton > button:hover {
-    background-color: #00e6c1;
-    transform: scale(1.05);
-}
-.stSelectbox label, .stDataFrame {
-    color: #ffffff !important;
-}
-.stPlotlyChart {
-    background: rgba(255, 255, 255, 0.03);
-    padding: 1rem;
-    border-radius: 15px;
-    box-shadow: 0 0 12px rgba(0,255,213,0.1);
-    transition: all 0.3s ease;
-}
-.stPlotlyChart:hover {
-    transform: scale(1.01);
-    box-shadow: 0 0 25px rgba(0,255,213,0.15);
-}
-</style>
-""", unsafe_allow_html=True)
-
-# --- App Header ---
-st.title("🏏 Cricket Player Stats Analyzer")
-st.markdown("""
-Welcome to the **Cricket Player Stats Dashboard**!  
-Explore individual player performances across formats: **Test**, **ODI**, **T20**, and **IPL**.
-
----
-
-### 🔍 How to Use:
-- 🌍 Select a **Country**
-- 🧍 Choose a **Player**
-- 📊 View **Key Stats** and Format-wise performance
-- 📈 Interact with **Pie Charts** and Metrics
-
----
-""")
-
-
-
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-
+# Load data
 batting = pd.read_csv("total_teams_batting.csv") 
 bowling = pd.read_csv("total_teams_bowling_stats.csv") 
 
-# # --- App Header ---
-# st.title("🏏 Cricket Player Stats Dashboard")
-# st.markdown("""
-# Welcome to the **Cricket Player Stats Dashboard**!  
-# Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
+# Header
+st.title("🏏 Cricket Player Performance Dashboard")
+st.markdown("""
+Explore the **Batting** and **Bowling** statistics of your favorite players across **Test**, **ODI**, **T20**, and **IPL** formats.  
+Use the filters below to select a country and a player.
+""")
 
-# ---
+# --- Country selection ---
+with st.sidebar:
+    st.header("🌍 Select Country and Player")
+    country = st.selectbox("Select a Country", sorted(batting["country"].unique()), index=None, placeholder="Start typing...")
 
-# 🔍 **Instructions:**
-# - Select a **Country**
-# - Choose a **Player**
-# - View stats in different **formats**
-# - Analyze data through interactive **charts** and key **metrics**
+if country:
+    # Filter based on selected country
+    player_batting = batting[batting["country"] == country]
+    player_bowling = bowling[bowling["country"] == country]
+    players = sorted(player_batting["name"].unique())
 
-# ---
-# """)
+    with st.sidebar:
+        player = st.selectbox("Select a Player", players, index=None, placeholder="Choose a player")
 
+    if player:
+        # Extract stats
+        batting_stats = player_batting[player_batting['name'] == player][["ROWHEADER", "Test", "ODI", "T20", "IPL"]].set_index("ROWHEADER").T
+        bowling_stats = player_bowling[player_bowling['name'] == player][["ROWHEADER", "Test", "ODI", "T20", "IPL"]].set_index("ROWHEADER").T
 
-st.subheader("🌍 Select a Country")
-country = st.selectbox("Select the Country", list(batting.groupby("country").groups.keys()), index=None, placeholder="Enter the Country Name",)
-
-#player = st.selectbox("Select the Player", list(teams.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
-
-if country in list(batting.groupby("country").groups.keys()):
-    player_batting=batting.groupby("country").get_group(country)
-    player_bowling=bowling.groupby("country").get_group(country)
-
-    st.subheader("👤 Select a Player")
-    player = st.selectbox("Select the Player", list(player_batting.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
-    if player in list(player_batting.groupby("name").groups.keys()) :
-  
-        batting_stats=player_batting[player_batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-        # st.write(batting_stats)
-    
-        bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
-        # st.write(bowling_stats)
-
-        # Format Selection
-        st.markdown("####### 📂 Choose a Format to View Summary")
+        # --- Format tab view ---
+        st.subheader(f"📊 Overview: {player}'s Performance Summary")
         formats = ["Test", "ODI", "T20", "IPL"]
-        format_selection = st.segmented_control(f"View {player}'s Stats by Format",options=formats,default="Test", selection_mode="single")
+        selected_format = st.radio("📁 Choose a format:", formats, horizontal=True)
 
-        # Display Key Metrics 
-        st.markdown(f"##### 📊 {format_selection} Performance Stats")              
-        col1, col2, col3, col4 = st.columns(4) 
-        col1.metric(label="Matches", value=int(batting_stats.loc[format_selection,"Matches"]))
-        col2.metric(label="Runs", value=int(batting_stats.loc[format_selection,"Runs"]))
-        col3.metric(label="Average", value=batting_stats.loc[format_selection,"Average"])
-        col4.metric(label="Strike Rate", value=batting_stats.loc[format_selection,"SR"])
+        # Display key metrics
+        st.markdown("### 🧮 Key Performance Metrics")
+        col1, col2, col3, col4 = st.columns(4)
+        col1.metric("Matches", int(batting_stats.loc[selected_format, "Matches"]))
+        col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"]))
+        col3.metric("Average", batting_stats.loc[selected_format, "Average"])
+        col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
 
+        # --- Tabbed layout ---
+        st.markdown("---")
+        tabs = st.tabs(["🏏 Batting", "🎯 Bowling", "📘 Both"])
 
-        # View Type Selection
-        st.markdown("#### 🧭 Select Type of Stats to Explore") 
-        view_selection = st.segmented_control(f"Explore {player}'s Stats", options=["Bat", "Bowl", "Both"], default="Bat", selection_mode="single")
-        # Batting Only
-        if view_selection == "Bat":
-            st.markdown(f"##### 🏏 Batting Statistics of **{player}**")  
-            if st.button(f"Show Batting Stats of {player}", type="tertiary"):
-                st.write(batting_stats)
-            
-            # selecting the columns to analyze
-            col=st.selectbox("🎯 Choose a Batting Metric to Visualize", options=list(batting_stats.columns), placeholder="Select a batting metric")
-            if col in batting_stats.columns:
-               fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
-               # fig.show() 
-               st.plotly_chart(fig)
-        # Bowling Only
-        elif view_selection == "Bowl": 
-            st.markdown(f"#### 🎯 Bowling Statistics of **{player}**") 
-            if st.button(f" Show Bowling Stats of {player}", type="tertiary"):
-                st.write(bowling_stats) 
-                    
-            # selecting the columns to analyze
-            col = st.selectbox("🎯 Choose a Bowling Metric to Visualize", options=list(bowling_stats.columns), placeholder="Select a bowling metric")
-            if col in bowling_stats.columns:
-              fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}') 
-              st.plotly_chart(fig)
+        with tabs[0]:
+            st.subheader(f"🏏 Batting Stats - {player}")
+            with st.expander("Show Batting Table", expanded=False):
+                st.dataframe(batting_stats)
 
-        # Both Batting and Bowling
-        elif view_selection == "Both":
-            st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
-            if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary"):
-                st.markdown("##### 🏏 Batting Stats")
-                st.write(batting_stats)
-                    
-                st.markdown("##### 🎯 Bowling Stats")
-                st.write(bowling_stats)
-                
+            metric = st.selectbox("📊 Choose a batting metric to visualize", batting_stats.columns)
+            fig = px.pie(batting_stats, names=batting_stats.index, values=batting_stats[metric],
+                         title=f"{player}'s {metric} Across Formats")
+            st.plotly_chart(fig, use_container_width=True)
+
+        with tabs[1]:
+            st.subheader(f"🎯 Bowling Stats - {player}")
+            with st.expander("Show Bowling Table", expanded=False):
+                st.dataframe(bowling_stats)
+
+            metric = st.selectbox("📊 Choose a bowling metric to visualize", bowling_stats.columns)
+            fig = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats[metric],
+                         title=f"{player}'s {metric} Across Formats")
+            st.plotly_chart(fig, use_container_width=True)
+
+        with tabs[2]:
+            st.subheader(f"📘 Combined View - {player}")
             col1, col2 = st.columns(2)
 
             with col1:
+                metric_bat = st.selectbox("🏏 Batting metric", batting_stats.columns, key="bat_metric")
+                fig1 = px.pie(batting_stats, names=batting_stats.index, values=batting_stats[metric_bat],
+                              title=f"{player}'s Batting - {metric_bat}")
+                st.plotly_chart(fig1, use_container_width=True)
 
-                col = st.selectbox("📌 Select Batting Metric", options=list(batting_stats.columns),  placeholder="Choose an option")
-                if col:
-                    fig = px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
-                    st.plotly_chart(fig)
+            with col2:
+                metric_bowl = st.selectbox("🎯 Bowling metric", bowling_stats.columns, key="bowl_metric")
+                fig2 = px.pie(bowling_stats, names=bowling_stats.index, values=bowling_stats[metric_bowl],
+                              title=f"{player}'s Bowling - {metric_bowl}")
+                st.plotly_chart(fig2, use_container_width=True)
 
-            with col2:  
+    else:
+        st.info("👤 Please select a player to continue.")
+else:
+    st.info("🌍 Please select a country from the sidebar.")
 
-                col = st.selectbox("📌 Select Bowling Metric",options=list(bowling_stats.columns), placeholder="Choose an option")
-                if col:
-                    fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}')
-                    st.plotly_chart(fig)
-
-
-
-
-
-
-
-
-
+# Optional footer
+st.markdown("---")
+st.markdown("📌 **Tip**: Use the sidebar for quick navigation between countries and players.")
 
 
 
 
 
-#         elif selection == "Both":
-#             col1, col2 = st.columns(2)
-#             with col1:
-#                 if st.button(f"Batting Stats of {player}", type="tertiary"):
-#                     st.write(batting_stats)
 
-#                 # selecting the columns to analyze
-#                 col = st.selectbox("🎯 Choose a Bowling Metric to Visualize", options=list(bowling_stats.columns), placeholder="Select a bowling metric")
-#                 if col in batting_stats.columns:
-#                   fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
-#                   # fig.show() 
-#                   st.plotly_chart(fig)
-                    
-#             with col2:
-#                 if st.button(f"Bowling Stats of {player}", type="tertiary"):
-#                     st.write(bowling_stats)
-                    
-#                 # if st.toggle(f"Bowling Stats of {player}"):
-#                 #     st.write(bowling_stats) 
 
-#                 # selecting the columns to analyze
-#                 col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
-#                 if col in bowling_stats.columns:
-#                   fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
-#                   # fig.show() 
-#                   st.plotly_chart(fig)
+
+
+
+
+# import streamlit as st
+# import pandas as pd
+# import plotly.express as px
+
+# batting = pd.read_csv("total_teams_batting.csv") 
+# bowling = pd.read_csv("total_teams_bowling_stats.csv") 
+
+# # # --- App Header ---
+# # st.title("🏏 Cricket Player Stats Dashboard")
+# # st.markdown("""
+# # Welcome to the **Cricket Player Stats Dashboard**!  
+# # Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
+
+# # ---
+
+# # 🔍 **Instructions:**
+# # - Select a **Country**
+# # - Choose a **Player**
+# # - View stats in different **formats**
+# # - Analyze data through interactive **charts** and key **metrics**
+
+# # ---
+# # """)
+
+
+# st.subheader("🌍 Select a Country")
+# country = st.selectbox("Select the Country", list(batting.groupby("country").groups.keys()), index=None, placeholder="Enter the Country Name",)
+
+# #player = st.selectbox("Select the Player", list(teams.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
+
+# if country in list(batting.groupby("country").groups.keys()):
+#     player_batting=batting.groupby("country").get_group(country)
+#     player_bowling=bowling.groupby("country").get_group(country)
+
+#     st.subheader("👤 Select a Player")
+#     player = st.selectbox("Select the Player", list(player_batting.groupby("name").groups.keys()), index=None, placeholder="Enter the Player Name",)
+#     if player in list(player_batting.groupby("name").groups.keys()) :
+  
+#         batting_stats=player_batting[player_batting['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
+#         # st.write(batting_stats)
     
+#         bowling_stats=player_bowling[player_bowling['name']==player][["ROWHEADER","Test","ODI","T20","IPL"]].set_index("ROWHEADER").T
+#         # st.write(bowling_stats)
 
-                
+#         # Format Selection
+#         st.markdown("####### 📂 Choose a Format to View Summary")
+#         formats = ["Test", "ODI", "T20", "IPL"]
+#         format_selection = st.segmented_control(f"View {player}'s Stats by Format",options=formats,default="Test", selection_mode="single")
 
-#     #select_stats=st.selectbox("Select the option (Batting / Bowling"),["Batting", "Bowling"],index)  
-
-
-
-
-
-
-
-
-
-# # --- App Header ---
-# st.title("🏏 Cricket Player Stats Dashboard")
-# st.markdown("""
-# Welcome to the **Cricket Player Stats Dashboard**!  
-# Explore batting and bowling performances of your favorite players across different formats: **Test**, **ODI**, **T20**, and **IPL**.
-
-# ---
-
-# 🔍 **Instructions:**
-# - Select a **Country**
-# - Choose a **Player**
-# - View stats in different **formats**
-# - Analyze data through interactive **charts** and key **metrics**
-
-# ---
-# """)
-
-   
+#         # Display Key Metrics 
+#         st.markdown(f"##### 📊 {format_selection} Performance Stats")              
+#         col1, col2, col3, col4 = st.columns(4) 
+#         col1.metric(label="Matches", value=int(batting_stats.loc[format_selection,"Matches"]))
+#         col2.metric(label="Runs", value=int(batting_stats.loc[format_selection,"Runs"]))
+#         col3.metric(label="Average", value=batting_stats.loc[format_selection,"Average"])
+#         col4.metric(label="Strike Rate", value=batting_stats.loc[format_selection,"SR"])
 
 
-
-
-
-        # # Both Batting and Bowling
-        # elif view_selection == "Both":
-        #     st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
-        #     if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary"):
-        #         st.markdown("##### 🏏 Batting Stats")
-        #         if st.button(f"Show Batting Table", type="tertiary"):
-        #             st.write(batting_stats)
+#         # View Type Selection
+#         st.markdown("#### 🧭 Select Type of Stats to Explore") 
+#         view_selection = st.segmented_control(f"Explore {player}'s Stats", options=["Bat", "Bowl", "Both"], default="Bat", selection_mode="single")
+#         # Batting Only
+#         if view_selection == "Bat":
+#             st.markdown(f"##### 🏏 Batting Statistics of **{player}**")  
+#             if st.button(f"Show Batting Stats of {player}", type="tertiary"):
+#                 st.write(batting_stats)
+            
+#             # selecting the columns to analyze
+#             col=st.selectbox("🎯 Choose a Batting Metric to Visualize", options=list(batting_stats.columns), placeholder="Select a batting metric")
+#             if col in batting_stats.columns:
+#                fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
+#                # fig.show() 
+#                st.plotly_chart(fig)
+#         # Bowling Only
+#         elif view_selection == "Bowl": 
+#             st.markdown(f"#### 🎯 Bowling Statistics of **{player}**") 
+#             if st.button(f" Show Bowling Stats of {player}", type="tertiary"):
+#                 st.write(bowling_stats) 
                     
-        #         st.markdown("##### 🎯 Bowling Stats")
-        #         if st.button(f"Show Bowling Table", type="tertiary"):
-        #             st.write(bowling_stats)
-                
-        #     col1, col2 = st.columns(2)
+#             # selecting the columns to analyze
+#             col = st.selectbox("🎯 Choose a Bowling Metric to Visualize", options=list(bowling_stats.columns), placeholder="Select a bowling metric")
+#             if col in bowling_stats.columns:
+#               fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}') 
+#               st.plotly_chart(fig)
 
-        #     with col1:
-
-        #         col = st.selectbox("📌 Select Batting Metric", options=list(batting_stats.columns),  placeholder="Choose an option")
-        #         if col:
-        #             fig = px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
-        #             st.plotly_chart(fig)
-
-        #     with col2:  
-
-        #         col = st.selectbox("📌 Select Bowling Metric",options=list(bowling_stats.columns), placeholder="Choose an option")
-        #         if col:
-        #             fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}')
-        #             st.plotly_chart(fig)
+#         # Both Batting and Bowling
+#         elif view_selection == "Both":
+#             st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
+#             if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary"):
+#                 st.markdown("##### 🏏 Batting Stats")
+#                 st.write(batting_stats)
                     
+#                 st.markdown("##### 🎯 Bowling Stats")
+#                 st.write(bowling_stats)
+                
+#             col1, col2 = st.columns(2)
+
+#             with col1:
+
+#                 col = st.selectbox("📌 Select Batting Metric", options=list(batting_stats.columns),  placeholder="Choose an option")
+#                 if col:
+#                     fig = px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} - {col}')
+#                     st.plotly_chart(fig)
+
+#             with col2:  
+
+#                 col = st.selectbox("📌 Select Bowling Metric",options=list(bowling_stats.columns), placeholder="Choose an option")
+#                 if col:
+#                     fig = px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} - {col}')
+#                     st.plotly_chart(fig)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+# #         elif selection == "Both":
+# #             col1, col2 = st.columns(2)
+# #             with col1:
+# #                 if st.button(f"Batting Stats of {player}", type="tertiary"):
+# #                     st.write(batting_stats)
+
+# #                 # selecting the columns to analyze
+# #                 col = st.selectbox("🎯 Choose a Bowling Metric to Visualize", options=list(bowling_stats.columns), placeholder="Select a bowling metric")
+# #                 if col in batting_stats.columns:
+# #                   fig=px.pie(values=batting_stats[col].values, names=batting_stats.index, title=f'Batting stats of {player} {col}')
+# #                   # fig.show() 
+# #                   st.plotly_chart(fig)
+                    
+# #             with col2:
+# #                 if st.button(f"Bowling Stats of {player}", type="tertiary"):
+# #                     st.write(bowling_stats)
+                    
+# #                 # if st.toggle(f"Bowling Stats of {player}"):
+# #                 #     st.write(bowling_stats) 
+
+# #                 # selecting the columns to analyze
+# #                 col=st.selectbox("Select the Column to Analyze ", options=list(bowling_stats.columns), placeholder="Enter the Column Name to Analyze",)
+# #                 if col in bowling_stats.columns:
+# #                   fig=px.pie(values=bowling_stats[col].values, names=bowling_stats.index, title=f'Bowling stats of {player} {col}')
+# #                   # fig.show() 
+# #                   st.plotly_chart(fig)
     
