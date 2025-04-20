@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 batting = pd.read_csv("total_teams_batting.csv") 
-bowling = pd.read_csv("8teams_bowling_stats.csv") 
+bowling = pd.read_csv("total_teams_bowling_stats.csv") 
 
 
 # #st.write(teams.groupby("Country").get_group("West Indies") )
