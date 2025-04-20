@@ -88,12 +88,10 @@ if country in list(batting.groupby("country").groups.keys()):
             st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
             if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary"):
                 st.markdown("##### 🏏 Batting Stats")
-                if st.button(f"Show Batting Table", type="tertiary"):
-                    st.write(batting_stats)
+                st.write(batting_stats)
                     
                 st.markdown("##### 🎯 Bowling Stats")
-                if st.button(f"Show Bowling Table", type="tertiary"):
-                    st.write(bowling_stats)
+                st.write(bowling_stats)
                 
             col1, col2 = st.columns(2)
 
