@@ -215,12 +215,12 @@ if country:
             st.markdown(f"#### 📘 Batting & Bowling Statistics of **{player}**")
             if st.button(f"Show {player}'s Batting & Bowling Stats", type="tertiary", key="bat_table"):
                 st.markdown("##### 🏏 Batting Stats")
-                if st.button(f"Show Batting Table", type="tertiary", key="bat_table"):
-                    st.dataframe(batting_stats)
+                if st.button(f"Show Batting Table", type="tertiary"):
+                    st.wite(batting_stats)
                     
                 st.markdown("##### 🎯 Bowling Stats")
-                if st.button(f"Show Bowling Table", type="tertiary", key="bowl_table"):
-                    st.dataframe(bowling_stats)
+                if st.button(f"Show Bowling Table", type="tertiary"):
+                    st.write(bowling_stats)
                 
             col1, col2 = st.columns(2)
 
