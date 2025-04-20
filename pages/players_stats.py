@@ -32,12 +32,12 @@ st.markdown("""
             box-shadow: 0px 0px 10px rgba(0,255,213,0.05);
         }
 
-        .stSelectbox > div > div {
-            background-color: #1e1e1e;
-        }
+        # .stSelectbox > div > div {
+        #     background-color: #1e1e1e;
+        # }
 
-        .stRadio > div {
-            background-color: #1e1e1e;
+        # .stRadio > div {
+        #     background-color: #1e1e1e;
         }
 
         .stMetric {
