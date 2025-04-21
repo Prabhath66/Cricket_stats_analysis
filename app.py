@@ -3,10 +3,12 @@ import streamlit as st
 # Home Page Content
 st.header(':green[Welcome to Cricket Stats Dashboard🏏]')
 st.title(':green[Welcome to Cricket Stats Dashboard🏏]')
+st.markdown('##:green[Welcome to Cricket Stats Dashboard🏏]')
+st.markdown('#:green[Welcome to Cricket Stats Dashboard🏏]')
 st.markdown("""Welcome to the **Cricket Stats Dashboard**, where you can explore detailed performance stats for your favorite cricketers! Whether you're a fan of **Test**, **ODI**, **T20**, or **IPL** formats, we’ve got all the key stats you need, including batting and bowling performance, averages, strike rates, and more.
 
 ---""")
-st.title(':green[Welcome to Cricket Stats Dashboard🏏]')
+
 st.subheader(':orange[📚 **About Cricket**]')
 st.markdown(""" Cricket is one of the most popular sports worldwide, especially in countries like India, Australia, England, and South Africa. The game is played in various formats, with each format having its own unique characteristics:
  #### :violet[**Formats of Cricket:**]
