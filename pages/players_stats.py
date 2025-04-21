@@ -47,21 +47,21 @@ if country:
 
         # Display key metrics
         st.markdown("#### 🧮 Batting Key Performance Metrics")
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4 = st.columns(5)
         col1.metric("Matches", int(batting_stats.loc[selected_format, "Matches"]))
         col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"])) 
         col3.metric("Average", batting_stats.loc[selected_format, "Average"])
         col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
-        #col5.metric(f"Highest Score in {selected_format}",batting_stats.loc[selected_format,"Highest"])
+        col5.metric("Highest Score",batting_stats.loc[selected_format,"Highest"])
 
         # Display key metrics
         st.markdown("#### 🧮 Bowling Key Performance Metrics")
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2, col3, col4 = st.columns(5)
         col1.metric("Wickets", int(bowling_stats.loc[selected_format, "Wickets"]))
         col2.metric("Average", bowling_stats.loc[selected_format, "Avg"])
         col3.metric("Economy", bowling_stats.loc[selected_format, "Eco"])
         col4.metric("Strike Rate", bowling_stats.loc[selected_format, "SR"])
-        #col5.metric(f"Highest Score in {selected_format}",bowling_stats.loc[selected_format,"BBI"])
+        col5.metric("Best Bowling",bowling_stats.loc[selected_format,"BBM"])
 
         # --- Tabbed layout ---
         st.markdown("---")
