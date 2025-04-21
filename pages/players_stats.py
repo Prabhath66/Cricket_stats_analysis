@@ -51,25 +51,25 @@ if country:
         # Add custom boxes for each metric using markdown and HTML
         col1.markdown(f"""
             <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Matches</b><br>{batting_stats[selected_format]["Matches"]}
+                <b>Matches</b><br>{int(batting_stats.loc[selected_format, "Matches"])}
             </div>
             """, unsafe_allow_html=True)
         
         col2.markdown(f"""
             <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Runs</b><br>{batting_stats[selected_format]["Runs"]}
+                <b>Runs</b><br>{int(batting_stats.loc[selected_format, "Runs"])}
             </div>
             """, unsafe_allow_html=True)
         
         col3.markdown(f"""
             <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Average</b><br>{batting_stats[selected_format]["Average"]}
+                <b>Average</b><br>{ batting_stats.loc[selected_format, "Average"]}
             </div>
             """, unsafe_allow_html=True)
 
         col4.markdown(f"""
             <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Strike Rate</b><br>{batting_stats[selected_format]["SR"]}
+                <b>Strike Rate</b><br>{batting_stats.loc[selected_format, "SR"]}
             </div>
             """, unsafe_allow_html=True)
         
@@ -80,7 +80,7 @@ if country:
         # Add custom boxes for each metric using markdown and HTML
         col1.markdown(f"""
             <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Wickets</b><br>{bowling_stats[selected_format]["Wickets"]}
+                <b>Wickets</b><br>{int(bowling_stats.loc[selected_format, "Wickets"])}
             </div>
             """, unsafe_allow_html=True)
         
