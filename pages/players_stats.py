@@ -52,7 +52,7 @@ if country:
         col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"])) 
         col3.metric("Average", batting_stats.loc[selected_format, "Average"])
         col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
-        col5.metric("Highest Score",batting_stats.loc[selected_format,"Highest"])
+        col5.metric("Highest Score",int(batting_stats.loc[selected_format,"Highest"]))
 
         # Display key metrics
         st.markdown("#### 🧮 Bowling Key Performance Metrics")
