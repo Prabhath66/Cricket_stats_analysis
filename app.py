@@ -2,14 +2,14 @@ import streamlit as st
 
 # Home Page Content
 st.header(':green[Welcome to Cricket Stats Dashboard🏏]')
-
+st.title(':green[Welcome to Cricket Stats Dashboard🏏]')
 st.markdown("""Welcome to the **Cricket Stats Dashboard**, where you can explore detailed performance stats for your favorite cricketers! Whether you're a fan of **Test**, **ODI**, **T20**, or **IPL** formats, we’ve got all the key stats you need, including batting and bowling performance, averages, strike rates, and more.
 
 ---""")
-
+st.title(':green[Welcome to Cricket Stats Dashboard🏏]')
 st.subheader(':orange[📚 **About Cricket**]')
 st.markdown(""" Cricket is one of the most popular sports worldwide, especially in countries like India, Australia, England, and South Africa. The game is played in various formats, with each format having its own unique characteristics:
- #### :volit[**Formats of Cricket:**]
+ #### :violet[**Formats of Cricket:**]
  - **Test Cricket:** The traditional format, where matches last up to five days. Test cricket is the ultimate test of a player’s skill, patience, and endurance.
  - **ODI (One-Day International):** Matches are played with 50 overs per side. It's a thrilling format that combines strategy and aggressive play.
  - **T20:** The shortest form of the game with only 20 overs per side. T20 matches are fast-paced and full of excitement.
