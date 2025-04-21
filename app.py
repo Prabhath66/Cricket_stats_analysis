@@ -2,7 +2,7 @@ import streamlit as st
 
 # Home Page Content
 st.markdown("""
-## :blue[Welcome to Cricket Stats Dashboard🏏]:
+## :lightgreen[Welcome to Cricket Stats Dashboard🏏]
 
 Welcome to the **Cricket Stats Dashboard**, where you can explore detailed performance stats for your favorite cricketers! Whether you're a fan of **Test**, **ODI**, **T20**, or **IPL** formats, we’ve got all the key stats you need, including batting and bowling performance, averages, strike rates, and more.
 
