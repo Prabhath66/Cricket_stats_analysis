@@ -9,7 +9,7 @@ st.set_page_config(page_title="Cricket Dashboard", layout="wide")
 
 # Load data
 batting = pd.read_csv("total_teams_batting.csv") 
-bowling = pd.read_excel("Bowling_Stats_Excel.xlsx", engine="openpyxl") 
+bowling = pd.read_excel("Bowling_Stats_Excel.xlsx") 
 
 # Header
 st.title("🏏 Cricket Player Performance Dashboard")
