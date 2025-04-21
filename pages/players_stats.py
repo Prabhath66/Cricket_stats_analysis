@@ -39,97 +39,29 @@ if country:
 
 
 
-        # Streamlit interface
+        
+        # --- Format tab view ---
         st.subheader(f"📊 Overview: {player}'s Performance Summary")
         formats = ["Test", "ODI", "T20", "IPL"]
         selected_format = st.radio("📁 Choose a format:", formats, horizontal=True)
-        
-        # Display key metrics for Batting
+
+        # Display key metrics
         st.markdown("#### 🧮 Batting Key Performance Metrics")
         col1, col2, col3, col4 = st.columns(4)
-        
-        # Add custom boxes for each metric using markdown and HTML
-        col1.markdown(f"""
-            <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Matches</b><br>{int(batting_stats.loc[selected_format, "Matches"])}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        col2.markdown(f"""
-            <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Runs</b><br>{int(batting_stats.loc[selected_format, "Runs"])}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        col3.markdown(f"""
-            <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Average</b><br>{ batting_stats.loc[selected_format, "Average"]}
-            </div>
-            """, unsafe_allow_html=True)
+        col1.metric("Matches", int(batting_stats.loc[selected_format, "Matches"]))
+        col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"])) 
+        col3.metric("Average", batting_stats.loc[selected_format, "Average"])
+        col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
+        #col5.metric(f"Highest Score in {selected_format}",batting_stats.loc[selected_format,"Highest"])
 
-        col4.markdown(f"""
-            <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Strike Rate</b><br>{batting_stats.loc[selected_format, "SR"]}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        # Display key metrics for Bowling
+        # Display key metrics
         st.markdown("#### 🧮 Bowling Key Performance Metrics")
         col1, col2, col3, col4 = st.columns(4)
-        
-        # Add custom boxes for each metric using markdown and HTML
-        col1.markdown(f"""
-            <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Wickets</b><br>{int(bowling_stats.loc[selected_format, "Wickets"])}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        col2.markdown(f"""
-            <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Average</b><br>{bowling_stats[selected_format]["Avg"]}
-            </div>
-            """, unsafe_allow_html=True)
-
-        col3.markdown(f"""
-            <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Economy</b><br>{bowling_stats[selected_format]["Eco"]}
-            </div>
-            """, unsafe_allow_html=True)
-        
-        col4.markdown(f"""
-            <div style="border: 2px solid #2196F3; padding: 10px; border-radius: 5px; text-align: center;">
-                <b>Strike Rate</b><br>{bowling_stats[selected_format]["SR"]}
-            </div>
-            """, unsafe_allow_html=True)
-
-
-
-
-
-
-        
-        # # --- Format tab view ---
-        # st.subheader(f"📊 Overview: {player}'s Performance Summary")
-        # formats = ["Test", "ODI", "T20", "IPL"]
-        # selected_format = st.radio("📁 Choose a format:", formats, horizontal=True)
-
-        # # Display key metrics
-        # st.markdown("#### 🧮 Batting Key Performance Metrics")
-        # col1, col2, col3, col4 = st.columns(4)
-        # col1.metric("Matches", int(batting_stats.loc[selected_format, "Matches"]))
-        # col2.metric("Runs", int(batting_stats.loc[selected_format, "Runs"])) 
-        # col3.metric("Average", batting_stats.loc[selected_format, "Average"])
-        # col4.metric("Strike Rate", batting_stats.loc[selected_format, "SR"])
-        # #col5.metric(f"Highest Score in {selected_format}",batting_stats.loc[selected_format,"Highest"])
-
-        # # Display key metrics
-        # st.markdown("#### 🧮 Bowling Key Performance Metrics")
-        # col1, col2, col3, col4 = st.columns(4)
-        # col1.metric("Wickets", int(bowling_stats.loc[selected_format, "Wickets"]))
-        # col2.metric("Average", bowling_stats.loc[selected_format, "Avg"])
-        # col3.metric("Economy", bowling_stats.loc[selected_format, "Eco"])
-        # col4.metric("Strike Rate", bowling_stats.loc[selected_format, "SR"])
-        # #col5.metric(f"Highest Score in {selected_format}",bowling_stats.loc[selected_format,"BBI"])
+        col1.metric("Wickets", int(bowling_stats.loc[selected_format, "Wickets"]))
+        col2.metric("Average", bowling_stats.loc[selected_format, "Avg"])
+        col3.metric("Economy", bowling_stats.loc[selected_format, "Eco"])
+        col4.metric("Strike Rate", bowling_stats.loc[selected_format, "SR"])
+        #col5.metric(f"Highest Score in {selected_format}",bowling_stats.loc[selected_format,"BBI"])
 
         # --- Tabbed layout ---
         st.markdown("---")
