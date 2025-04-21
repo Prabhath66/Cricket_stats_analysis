@@ -2,11 +2,11 @@ import streamlit as st
 
 # Home Page Content
 st.markdown("""
-## :green-background[Welcome to Cricket Stats Dashboard🏏]
+## :green[Welcome to Cricket Stats Dashboard🏏]
 
 Welcome to the **Cricket Stats Dashboard**, where you can explore detailed performance stats for your favorite cricketers! Whether you're a fan of **Test**, **ODI**, **T20**, or **IPL** formats, we’ve got all the key stats you need, including batting and bowling performance, averages, strike rates, and more.
 
----
+---)
 
 ### :blue[🏆 **What You Can Explore Here:**] 
 
@@ -39,7 +39,7 @@ Cricket is one of the most popular sports worldwide, especially in countries lik
 ---
 
  > *"Cricket is not just a sport, it's an emotion!"* 🌟
-""")
+"""
 
 # ─── Navigation Button ────────────────────────────────────────────────────────
 if st.button("Explore All Players Stats"):
