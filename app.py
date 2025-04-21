@@ -7,7 +7,18 @@ st.markdown("""Welcome to the **Cricket Stats Dashboard**, where you can explore
 
 ---""")
 
-st.subheader(':blue[🏆 **What You Can Explore Here:**]')
+st.subheader(':orange[📚 **About Cricket**]')
+st.markdown(""" Cricket is one of the most popular sports worldwide, especially in countries like India, Australia, England, and South Africa. The game is played in various formats, with each format having its own unique characteristics:
+ #### :volit[**Formats of Cricket:**]
+ - **Test Cricket:** The traditional format, where matches last up to five days. Test cricket is the ultimate test of a player’s skill, patience, and endurance.
+ - **ODI (One-Day International):** Matches are played with 50 overs per side. It's a thrilling format that combines strategy and aggressive play.
+ - **T20:** The shortest form of the game with only 20 overs per side. T20 matches are fast-paced and full of excitement.
+ - **IPL (Indian Premier League):** A professional T20 league featuring some of the best cricketers from around the world. It's known for its entertainment value and star-studded teams.
+
+ ---
+ """)
+
+st.subheader(':orange[🏆 **What You Can Explore Here:**]')
 st.markdown("""
 - **Player Stats:** You can view the **batting** and **bowling stats** of cricket players across different formats such as **Test**, **ODI**, **T20**, and **IPL**.
   - **Batting Stats:** Runs, Matches, Average, Strike Rate, Fours, Sixes, and more.
@@ -16,16 +27,7 @@ st.markdown("""
 
 ---
 """)
-st.subheader(':orange[📚 **About Cricket**]')
-st.markdown(""" Cricket is one of the most popular sports worldwide, especially in countries like India, Australia, England, and South Africa. The game is played in various formats, with each format having its own unique characteristics:
- #### :rainbow[**Formats of Cricket:**]
- - **Test Cricket:** The traditional format, where matches last up to five days. Test cricket is the ultimate test of a player’s skill, patience, and endurance.
- - **ODI (One-Day International):** Matches are played with 50 overs per side. It's a thrilling format that combines strategy and aggressive play.
- - **T20:** The shortest form of the game with only 20 overs per side. T20 matches are fast-paced and full of excitement.
- - **IPL (Indian Premier League):** A professional T20 league featuring some of the best cricketers from around the world. It's known for its entertainment value and star-studded teams.
 
- ---
- """)
 st.markdown("*Cricket is not just a sport, it's an emotion!* 🌟")
 
 
