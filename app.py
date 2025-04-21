@@ -26,7 +26,7 @@ st.markdown(""" Cricket is one of the most popular sports worldwide, especially 
 
  ---
  """)
-st.write('*"Cricket is not just a sport, it's an emotion!"* 🌟')
+st.markdown("*Cricket is not just a sport, it's an emotion!* 🌟")
 
 
 # ─── Navigation Button ────────────────────────────────────────────────────────
