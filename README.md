@@ -1,18 +1,14 @@
 # 🏏 Cricket Stats Dashboard
 
-<div align="center">
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow?style=flat-square)](https://huggingface.co/spaces/Prabhath6/Cricket_)
 
-![Cricket Stats Dashboard](https://img.shields.io/badge/Cricket-Stats%20Dashboard-green?style=for-the-badge&logo=cricket&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**An interactive web application to explore and visualize cricket player statistics across Test, ODI, T20, and IPL formats.**
+> **An interactive web application to explore and visualize cricket player statistics across Test, ODI, T20, and IPL formats.**
 
 🌐 **[Live Demo → Try it on Hugging Face Spaces](https://huggingface.co/spaces/Prabhath6/Cricket_)**
-
-</div>
 
 ---
 
@@ -190,10 +186,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-
-Made with ❤️ and 🏏 by [Prabhath6](https://huggingface.co/Prabhath6)
+Made with ❤️ and 🏏 by [Prabhath66](https://github.com/Prabhath66)
 
 ⭐ **If you found this project useful, give it a star!** ⭐
-
-</div>
